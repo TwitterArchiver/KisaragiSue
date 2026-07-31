@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1889175144364708238",
+    "created_at": "2025-02-11T04:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T05:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889175144364708238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1587653801305153538",
+          "start": 3,
+          "username": "XiaoHuiHuiH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889175144364708238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889155656403288164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XiaoHuiHuiH: 又到了咴咴的防止自杀小科普时间~\n\n我发现前阵子推特上有意图烧炭紫砂的人比较多，这是什么紫砂版本3.0吗🫣（bushi）\n\n今天我们来聊聊 烧炭/一氧化碳中毒/亚硝酸钠中毒 等紫砂方式中，有关“机体缺氧”的部分。\n\n这边给大家推荐一个视频（兔叭…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1889175144364708238",
+        "created_at": "2025-02-11T04:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T05:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889175144364708238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1587653801305153538",
+              "start": 3,
+              "username": "XiaoHuiHuiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889175144364708238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889155656403288164",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XiaoHuiHuiH: 又到了咴咴的防止自杀小科普时间~\n\n我发现前阵子推特上有意图烧炭紫砂的人比较多，这是什么紫砂版本3.0吗🫣（bushi）\n\n今天我们来聊聊 烧炭/一氧化碳中毒/亚硝酸钠中毒 等紫砂方式中，有关“机体缺氧”的部分。\n\n这边给大家推荐一个视频（兔叭…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587653801305153538",
+        "conversation_id": "1889155656403288164",
+        "created_at": "2025-02-11T03:33:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T04:19:45.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889152317858910454",
+          "1889153650678698127",
+          "1889155656403288164"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1889155656403288164",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "bilibili.com/video/BV1Jwk9Y…",
+                "end": 180,
+                "expanded_url": "https://www.bilibili.com/video/BV1Jwk9Y8Emn",
+                "start": 157,
+                "url": "https://t.co/YbpejNfTza"
+              },
+              {
+                "display_url": "bilibili.com/video/BV1Jwk9Y…",
+                "end": 1112,
+                "expanded_url": "https://www.bilibili.com/video/BV1Jwk9Y8Emn",
+                "start": 1089,
+                "url": "https://t.co/YbpejNfTza"
+              }
+            ]
+          },
+          "text": "又到了咴咴的防止自杀小科普时间~\n\n我发现前阵子推特上有意图烧炭紫砂的人比较多，这是什么紫砂版本3.0吗🫣（bushi）\n\n今天我们来聊聊 烧炭/一氧化碳中毒/亚硝酸钠中毒 等紫砂方式中，有关“机体缺氧”的部分。\n\n这边给大家推荐一个视频（兔叭咯 这个up强推喵，科普视频十分有乐趣！），视频中有更详细生动的科普：https://t.co/YbpejNfTza\nB站BV号（复制后进入b站搜索即可）：BV1Jwk9Y8Emn\n\n首先这个视频里就提到了，这种会让身体“缺氧”的自杀方式，其实并不是无痛的安详的，而是生不如死很痛苦的。会出现头疼发力头晕反胃甚至呕吐等情况。\n再加上很难一下子就达到很严重的缺氧情况，中毒后会有相当长的一段有意识的时间。那时候的痛苦简直是度日如年，然后还会激发起身体本能的求生意识……十分痛苦万分恐惧，一点也不安详。\n\n同时，我这边想说一点，可能在别的科普那边并不一定会提及。\n那就是，其实很多选择亚硝酸钠/碳酸钡/吞药，这种不像跳楼/上吊一样，容易快速结束生命的紫砂方式的，其实还是在内心深处会乞求“被人救回来”的。🥺\n可能会希望自己自杀后能够被救回来……然后周围人能对自己好一点，多关心自己……然后重新开始新的生活之类的……🥹🥹🥹\n\n但是！！！我想说的是，这种紫砂就算被救回来了，也是可能会给身体带来后遗症的！！！\n\n我们回到今天这个小科普的重点，我们来讲述一下，让身体“缺氧”的自杀方式的后遗症。\n其实简单来说就是，身体缺氧久了之后可能会导致脑损伤……\n那这个的后遗症就很多了，可能是反应迟钝、记忆力减退、幻视幻听等精神异常情况，甚至还可能会出现帕金森啊，偏瘫啊之类的……\n\n我们都不希望救回来之后，在希望开启新的美好生活的时候，却经受这些后遗症带来的痛苦吧……🥺\n所以，大家不要选择亚硝酸钠紫砂，不要选择一氧化碳中毒紫砂，不要选择烧炭紫砂……\n\n（哦对了，这边稍微提及一嘴碳酸钡啊，自制氰化物啊，吞药紫砂啊。也都不要选择！！！）\n碳酸钡十几个小时都不会寄，意识清醒着然后超级无敌难受，上吐下泻、肚子剧痛……（我是亲历者喵，可以关键词搜索“钡”“碳酸钡”找找我往期推文，有细致的描述……）\n自制氰化物也是，纯度会很低充满杂质，会超级无敌难受，然后也不会立刻离开的。（有过推友自制氰化物紫砂后，被抢救回来的案例）。自制氰化物的“使用体验”和亚硝酸钠真差不多，意识尚存的难受大半小时，头痛，头晕，心率加快，呼吸急促，呕吐，恶心等等……\n吞药紫砂我之前也有科普，这边就不展开了，但也是又难受又走不掉的……🥹\n关于吞药紫砂的，也可以参考这个up主的视频：https://t.co/YbpejNfTza\nB站BV号（复制后进入b站搜索即可）：BV1Jwk9Y8Emn\n\n总之就是，都不要选择！！！\n\n这世界上真的不存在什么安详的自杀方式，因为不要忘了，你身体中每个细胞都万分希望你健健康康的活着。人类的求生意识在直面死亡的时候，尤其是吞下自杀药的那一刻开始，身体本能的求生意识将会如洪水般席卷而来，人对死亡的恐惧将会迎来巅峰。“那后面”并没有死后的世界，只有万古的黑暗与虚无……\n抱抱你们！"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 371,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "又到了咴咴的防止自杀小科普时间~\n\n我发现前阵子推特上有意图烧炭紫砂的人比较多，这是什么紫砂版本3.0吗🫣（bushi）\n\n今天我们来聊聊 烧炭/一氧化碳中毒/亚硝酸钠中毒 等紫砂方式中，有关“机体缺氧”的部分。\n\n这边给大家推荐一个视频（兔叭咯…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2527,
+          "following_count": 591,
+          "like_count": 44392,
+          "listed_count": 2,
+          "media_count": 1157,
+          "tweet_count": 22474
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西都在咱主页的“亮点“里哦😈\n/日常抽象涩涩推🫣/\nENFP(INFP)/偏女性非二元跨mtx(f)🏳️‍⚧️/hrt 2023.12.7🍥/泛性恋/🏳️‍🌈🩷💜/21岁/可1可0可S可M🥵/单身没人要😭/加拿大留学🇨🇦/\n\n⚠️魔怔疯批/时而温柔/时常发癫/淫趴头子/滥交药攻/嗑药地雷💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario🇨🇦",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🏳️‍⚧️喵喵艺术家~",
+        "pinned_tweet_id": "1822113111270457511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805817537021853699/IF42qnFS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9350,
+          "following_count": 1051,
+          "like_count": 88575,
+          "listed_count": 17,
+          "media_count": 3170,
+          "tweet_count": 45409
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      }
+    ]
+  }
+}

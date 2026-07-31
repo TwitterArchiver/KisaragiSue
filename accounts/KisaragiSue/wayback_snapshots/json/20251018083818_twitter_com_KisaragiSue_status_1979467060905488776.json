@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1979467060905488776",
+    "created_at": "2025-10-18T08:38:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T09:38:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979467060905488776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1870052270836199424",
+          "start": 3,
+          "username": "FusiKayoko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979467060905488776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979392009367621838",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FusiKayoko: 孩子是木桶饭的三大特征：\n1.开始坚决留长发\n2.使用绿猫表情包\n3.孩子说话逐渐变少\n如果您的孩子有以上特征，请务必让他加我好友！我来帮他心理辅导去除他的错误思想！🥵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1979467060905488776",
+        "created_at": "2025-10-18T08:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T09:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979467060905488776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1870052270836199424",
+              "start": 3,
+              "username": "FusiKayoko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979467060905488776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979392009367621838",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FusiKayoko: 孩子是木桶饭的三大特征：\n1.开始坚决留长发\n2.使用绿猫表情包\n3.孩子说话逐渐变少\n如果您的孩子有以上特征，请务必让他加我好友！我来帮他心理辅导去除他的错误思想！🥵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870052270836199424",
+        "conversation_id": "1979392009367621838",
+        "created_at": "2025-10-18T03:40:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T04:40:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979392009367621838"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1979392009367621838",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 639,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "孩子是木桶饭的三大特征：\n1.开始坚决留长发\n2.使用绿猫表情包\n3.孩子说话逐渐变少\n如果您的孩子有以上特征，请务必让他加我好友！我来帮他心理辅导去除他的错误思想！🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2571,
+          "following_count": 604,
+          "like_count": 45527,
+          "listed_count": 4,
+          "media_count": 1182,
+          "tweet_count": 23214
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-20T10:23:06.000Z",
+        "description": "🍥很闲很闲的，随时都可以找我私信聊天，深柜，呜呜超极笨！脾气很好的，不用害怕我喔❤️应该是mtf🍥｜最可爱的凌同学~@Lingjiaxin233｜最喜欢的妹妹@ElP15_｜我爱的人@Makoto_00590002",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 58,
+                "username": "Lingjiaxin233"
+              },
+              {
+                "end": 86,
+                "start": 79,
+                "username": "ElP15_"
+              },
+              {
+                "end": 107,
+                "start": 91,
+                "username": "Makoto_00590002"
+              }
+            ]
+          }
+        },
+        "id": "1870052270836199424",
+        "location": "天堂",
+        "name": "芙泗🍥",
+        "pinned_tweet_id": "1976659669071630544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968657455505883138/srTQ4uWR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 255,
+          "like_count": 9519,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 4063
+        },
+        "username": "FusiKayoko",
+        "verified": false
+      }
+    ]
+  }
+}

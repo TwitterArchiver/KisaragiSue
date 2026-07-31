@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1903470862046507119",
+    "created_at": "2025-03-22T15:36:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-22T16:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1903470862046507119"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Anon_Chihaya1/…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/Anon_Chihaya1/status/1902908733682065764",
+          "start": 23,
+          "url": "https://t.co/qL1ssqNssO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903470862046507119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902908733682065764",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第一階段：⌨️政\n第二階段：💊\n第三階段：🍥 https://t.co/qL1ssqNssO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1903470862046507119",
+        "created_at": "2025-03-22T15:36:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-22T16:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1903470862046507119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Anon_Chihaya1/…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/Anon_Chihaya1/status/1902908733682065764",
+              "start": 23,
+              "url": "https://t.co/qL1ssqNssO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903470862046507119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902908733682065764",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一階段：⌨️政\n第二階段：💊\n第三階段：🍥 https://t.co/qL1ssqNssO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1815752393411473409",
+        "conversation_id": "1902908733682065764",
+        "created_at": "2025-03-21T02:22:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T03:22:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902908733682065764"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902908733682065764",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 34111,
+          "like_count": 523,
+          "quote_count": 4,
+          "reply_count": 72,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "推特的大家是不是這樣的：\n第一階段：👀🟨\n第二階段：⚔️💉\n第三階段：🏳️‍⚧️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2552,
+          "following_count": 606,
+          "like_count": 44965,
+          "listed_count": 3,
+          "media_count": 1167,
+          "tweet_count": 22708
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-23T14:14:51.000Z",
+        "description": "下北沢一般通過搖滾開朗系女孩，野獸主義-會員制餐廳派支持者，是一個一個homo",
+        "id": "1815752393411473409",
+        "name": "波奇一裡醬❤✝️🏳️‍🌈",
+        "pinned_tweet_id": "1825171834486280521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901649964750774272/LJsvTTmp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 186,
+          "like_count": 8519,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 5207
+        },
+        "username": "Anon_Chihaya1",
+        "verified": false
+      }
+    ]
+  }
+}

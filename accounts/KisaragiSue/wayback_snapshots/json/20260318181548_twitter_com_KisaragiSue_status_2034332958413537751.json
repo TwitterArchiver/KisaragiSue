@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2034218647733071981",
+    "created_at": "2026-03-18T18:15:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T19:15:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034332958413537751"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 9,
+          "normalized_text": "恭喜",
+          "probability": 0.6438,
+          "start": 8,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2022181719835914242",
+          "start": 0,
+          "username": "N2OXYN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034332958413537751",
+    "in_reply_to_user_id": "2022181719835914242",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034218647733071981",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N2OXYN 恭喜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2034218644671213568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDr_FF8asAA8lqB.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034218644079804416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDr_FDvagAAOx-w.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034218644172054528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDr_FEFaIAAmLMv.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2034218647733071981",
+        "created_at": "2026-03-18T18:15:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T19:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034332958413537751"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "恭喜",
+              "probability": 0.6438,
+              "start": 8,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2022181719835914242",
+              "start": 0,
+              "username": "N2OXYN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034332958413537751",
+        "in_reply_to_user_id": "2022181719835914242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034218647733071981",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N2OXYN 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034218644671213568",
+            "3_2034218644079804416",
+            "3_2034218644172054528"
+          ]
+        },
+        "author_id": "2022181719835914242",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2034218647733071981",
+        "created_at": "2026-03-18T10:41:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T11:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034218647733071981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9UEeT2MAdf",
+              "end": 34,
+              "expanded_url": "https://x.com/N2OXYN/status/2034218647733071981/photo/1",
+              "media_key": "3_2034218644671213568",
+              "start": 11,
+              "url": "https://t.co/9UEeT2MAdf"
+            },
+            {
+              "display_url": "pic.x.com/9UEeT2MAdf",
+              "end": 34,
+              "expanded_url": "https://x.com/N2OXYN/status/2034218647733071981/photo/1",
+              "media_key": "3_2034218644079804416",
+              "start": 11,
+              "url": "https://t.co/9UEeT2MAdf"
+            },
+            {
+              "display_url": "pic.x.com/9UEeT2MAdf",
+              "end": 34,
+              "expanded_url": "https://x.com/N2OXYN/status/2034218647733071981/photo/1",
+              "media_key": "3_2034218644172054528",
+              "start": 11,
+              "url": "https://t.co/9UEeT2MAdf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034218647733071981",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5630,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天跟老公的作战记录 https://t.co/9UEeT2MAdf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2525,
+          "following_count": 592,
+          "like_count": 44479,
+          "listed_count": 4,
+          "media_count": 1182,
+          "tweet_count": 23218
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-13T05:31:26.000Z",
+        "description": "MTF｜出厂日期2008.11.25｜hrt日期2025.5.31｜od｜精神不稳定｜翻车的反跨顺直男｜",
+        "id": "2022181719835914242",
+        "name": "千夜404🍥",
+        "pinned_tweet_id": "2029548025971184122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033932930347896834/pthJronR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4172,
+          "following_count": 127,
+          "like_count": 115,
+          "listed_count": 5,
+          "media_count": 17,
+          "tweet_count": 112
+        },
+        "username": "N2OXYN",
+        "verified": true
+      }
+    ]
+  }
+}

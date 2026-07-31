@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1890260473096073484",
+    "created_at": "2025-02-14T17:49:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T18:49:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890458337176612886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1858908750347988992",
+          "start": 0,
+          "username": "yukari_ciallo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890458337176612886",
+    "in_reply_to_user_id": "1858908750347988992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890260473096073484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukari_ciallo 的確ccp在部分基建領域有所建樹，但是不要忘了這就像當年蘇聯太空競賽和美國打的有來有回一樣，這是一種畸形的發展，是不記犧牲無數社會人其他人的生活保障換來的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1890260473096073484",
+        "created_at": "2025-02-14T17:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T18:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890458337176612886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1858908750347988992",
+              "start": 0,
+              "username": "yukari_ciallo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890458337176612886",
+        "in_reply_to_user_id": "1858908750347988992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890260473096073484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukari_ciallo 的確ccp在部分基建領域有所建樹，但是不要忘了這就像當年蘇聯太空競賽和美國打的有來有回一樣，這是一種畸形的發展，是不記犧牲無數社會人其他人的生活保障換來的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1858908750347988992",
+        "conversation_id": "1890260473096073484",
+        "created_at": "2025-02-14T04:43:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T05:43:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890260473096073484"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890260473096073484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国，或说白了，共产党当局好不好，其实是一个很模糊很的问题\n大体上来看，共产党当局确实是一个作独裁，腐败的政权\n但当我坐着广深城际铁路，以300km/h的速度，仅仅只用半小时就能到广州/回深圳时，我突然又在感叹共产党当局还是干了点人事的\n这算什么？辩证地看待嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2537,
+          "following_count": 598,
+          "like_count": 44587,
+          "listed_count": 2,
+          "media_count": 1159,
+          "tweet_count": 22534
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T16:23:07.000Z",
+        "description": "Give people wonderful tools. And they’ll do wonderful things.",
+        "id": "1858908750347988992",
+        "name": "旱獭邮箱📪",
+        "pinned_tweet_id": "1879229173404999694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886235437372686336/DEHU2SDD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 92,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 166
+        },
+        "username": "yukari_ciallo",
+        "verified": true
+      }
+    ]
+  }
+}

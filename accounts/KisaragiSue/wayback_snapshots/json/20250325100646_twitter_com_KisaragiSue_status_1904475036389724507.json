@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1904474125370048932",
+    "created_at": "2025-03-25T10:06:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-25T11:06:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904475036389724507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1588890037474971649",
+          "start": 0,
+          "username": "Spartakist_"
+        },
+        {
+          "end": 25,
+          "id": "1448187795571286017",
+          "start": 13,
+          "username": "shuiyebush1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904475036389724507",
+    "in_reply_to_user_id": "1588890037474971649",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904474224192020563",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Spartakist_ @shuiyebush1 maoi怎麼了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1904474125370048932",
+        "created_at": "2025-03-25T10:06:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T11:06:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904475036389724507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1588890037474971649",
+              "start": 0,
+              "username": "Spartakist_"
+            },
+            {
+              "end": 25,
+              "id": "1448187795571286017",
+              "start": 13,
+              "username": "shuiyebush1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904475036389724507",
+        "in_reply_to_user_id": "1588890037474971649",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904474224192020563",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Spartakist_ @shuiyebush1 maoi怎麼了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588890037474971649",
+        "conversation_id": "1904474125370048932",
+        "created_at": "2025-03-25T10:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-25T11:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904474224192020563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1448187795571286017",
+              "start": 0,
+              "username": "shuiyebush1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904474224192020563",
+        "in_reply_to_user_id": "1448187795571286017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904474125370048932",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuiyebush1 禁止司来吉兰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2558,
+          "following_count": 606,
+          "like_count": 45091,
+          "listed_count": 3,
+          "media_count": 1168,
+          "tweet_count": 22770
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-05T13:44:48.000Z",
+        "description": "理想随风而逝，徒留你和我在废墟上苟活。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "peing.net/zh-TW/dekabris…",
+                "end": 23,
+                "expanded_url": "https://peing.net/zh-TW/dekabristqaq",
+                "start": 0,
+                "url": "https://t.co/8OQKM9gRt9"
+              }
+            ]
+          }
+        },
+        "id": "1588890037474971649",
+        "location": "Commune of Revachol",
+        "name": "Hibiki🏳‍⚧🍥💊清水版",
+        "pinned_tweet_id": "1848309895340413313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589948716022046723/T9Y0R1ea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5965,
+          "following_count": 3660,
+          "like_count": 73367,
+          "listed_count": 16,
+          "media_count": 1851,
+          "tweet_count": 26652
+        },
+        "url": "https://t.co/8OQKM9gRt9",
+        "username": "Spartakist_",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T07:24:21.000Z",
+        "description": "爱人是@FlowersRainFall",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 3,
+                "username": "FlowersRainFall"
+              }
+            ]
+          }
+        },
+        "id": "1448187795571286017",
+        "name": "清水",
+        "pinned_tweet_id": "1882740769926369783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904426347960975360/oEvlysnN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5173,
+          "following_count": 591,
+          "like_count": 42685,
+          "listed_count": 16,
+          "media_count": 2164,
+          "tweet_count": 15945
+        },
+        "username": "shuiyebush1",
+        "verified": false
+      }
+    ]
+  }
+}

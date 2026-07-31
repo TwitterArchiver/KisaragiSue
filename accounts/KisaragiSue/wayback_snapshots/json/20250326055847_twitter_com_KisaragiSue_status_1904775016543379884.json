@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1904760040642535802",
+    "created_at": "2025-03-26T05:58:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T06:58:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904775016543379884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "751765803607875584",
+          "start": 0,
+          "username": "Freeze_Azu5a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904775016543379884",
+    "in_reply_to_user_id": "1079483498686164992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904774963363537252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Freeze_Azu5a 設計挺漂亮的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1904760040642535802",
+        "created_at": "2025-03-26T05:58:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T06:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904775016543379884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "751765803607875584",
+              "start": 0,
+              "username": "Freeze_Azu5a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904775016543379884",
+        "in_reply_to_user_id": "1079483498686164992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904774963363537252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Freeze_Azu5a 設計挺漂亮的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1904760040642535802",
+        "created_at": "2025-03-26T05:58:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T06:58:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904774963363537252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "751765803607875584",
+              "start": 0,
+              "username": "Freeze_Azu5a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904774963363537252",
+        "in_reply_to_user_id": "751765803607875584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904760040642535802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Freeze_Azu5a 水月雨家的轉盤呀~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2554,
+          "following_count": 606,
+          "like_count": 45127,
+          "listed_count": 3,
+          "media_count": 1168,
+          "tweet_count": 22780
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2016-07-09T13:11:49.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Azu5a",
+                "end": 23,
+                "expanded_url": "https://lit.link/Azu5a",
+                "start": 0,
+                "url": "https://t.co/S8XPwl4H5r"
+              }
+            ]
+          }
+        },
+        "id": "751765803607875584",
+        "location": "Trip.com Group",
+        "name": "Azu5a",
+        "pinned_tweet_id": "1289737178428268544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747165832093085696/-qDwUna7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7599,
+          "following_count": 309,
+          "like_count": 63506,
+          "listed_count": 25,
+          "media_count": 1648,
+          "tweet_count": 6023
+        },
+        "url": "https://t.co/S8XPwl4H5r",
+        "username": "Freeze_Azu5a",
+        "verified": false
+      }
+    ]
+  }
+}

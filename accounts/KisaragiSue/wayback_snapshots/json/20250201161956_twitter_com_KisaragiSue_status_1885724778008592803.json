@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1885616686713483438",
+    "created_at": "2025-02-01T16:19:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-01T17:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885724778008592803"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1766858890636120064",
+          "start": 0,
+          "username": "Nuominiang75884"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885724778008592803",
+    "in_reply_to_user_id": "1766858890636120064",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885616686713483438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nuominiang75884 RIP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1885616686713483438",
+        "created_at": "2025-02-01T16:19:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T17:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885724778008592803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1766858890636120064",
+              "start": 0,
+              "username": "Nuominiang75884"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885724778008592803",
+        "in_reply_to_user_id": "1766858890636120064",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885616686713483438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nuominiang75884 RIP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766858890636120064",
+        "conversation_id": "1885616686713483438",
+        "created_at": "2025-02-01T09:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-01T10:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885616686713483438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1496713209394335748",
+              "start": 13,
+              "username": "mystiabaka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885616686713483438",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 14080,
+          "like_count": 200,
+          "quote_count": 0,
+          "reply_count": 34,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "讣告\n潍坊的一位跨性别者，@mystiabaka 的号主，在2025年1月26日01：11 喝亚硝酸钠自杀，2025年1月26日01：39喝下第2杯亚硝酸钠，目前确认身亡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2511,
+          "following_count": 583,
+          "like_count": 44257,
+          "listed_count": 2,
+          "media_count": 1155,
+          "tweet_count": 22367
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-10T16:09:34.000Z",
+        "description": "向光而行，直到燃尽自己\n🏳️‍⚧️/INFP-T /道教徒/摄影/      亲人@Kietter387803/主人（？） @JLGeasy\n/妹妹@liychn30019070",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 41,
+                "username": "Kietter387803"
+              },
+              {
+                "end": 70,
+                "start": 62,
+                "username": "JLGeasy"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "liychn30019070"
+              }
+            ]
+          }
+        },
+        "id": "1766858890636120064",
+        "location": "美国 洛杉矶 Echo Park Ave大街2236号",
+        "name": "糯米🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1882109297418698810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883194309178167296/U_Gr-ghf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2779,
+          "following_count": 809,
+          "like_count": 11119,
+          "listed_count": 3,
+          "media_count": 191,
+          "tweet_count": 1731
+        },
+        "username": "Nuominiang75884",
+        "verified": false
+      }
+    ]
+  }
+}

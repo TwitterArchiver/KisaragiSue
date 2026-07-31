@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1915760194661110133",
+    "created_at": "2025-04-26T09:55:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T10:55:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916068695623041259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1504799211799265282",
+          "start": 0,
+          "username": "LiuSuK7777"
+        }
+      ],
+      "urls": [
+        {
+          "description": "歌曲名《唐伞はカラカラと泣く》，由 ゆんか 演唱，收录于《ホシニネガイヲ》专辑中，《唐伞はカラカラと泣く》下载，《唐伞はカラカラと泣く》在线试听，更多唐伞はカラカラと泣く相关歌曲推荐，尽在网易云音乐",
+          "display_url": "y.music.163.com/m/song?id=6900…",
+          "end": 57,
+          "expanded_url": "https://y.music.163.com/m/song?id=690050&userid=70378805&dlt=0846",
+          "start": 34,
+          "status": 200,
+          "title": "唐伞はカラカラと泣く - ゆんか - 单曲 - 网易云音乐",
+          "unwound_url": "https://y.music.163.com/m/song?id=690050&userid=70378805&dlt=0846",
+          "url": "https://t.co/D28R0OUOV7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916068695623041259",
+    "in_reply_to_user_id": "1504799211799265282",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915760194661110133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiuSuK7777 分享ゆんか的单曲《唐伞はカラカラと泣く》: https://t.co/D28R0OUOV7 (来自@网易云音乐)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1915760194661110133",
+        "created_at": "2025-04-26T09:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T10:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916068695623041259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            }
+          ],
+          "urls": [
+            {
+              "description": "歌曲名《唐伞はカラカラと泣く》，由 ゆんか 演唱，收录于《ホシニネガイヲ》专辑中，《唐伞はカラカラと泣く》下载，《唐伞はカラカラと泣く》在线试听，更多唐伞はカラカラと泣く相关歌曲推荐，尽在网易云音乐",
+              "display_url": "y.music.163.com/m/song?id=6900…",
+              "end": 57,
+              "expanded_url": "https://y.music.163.com/m/song?id=690050&userid=70378805&dlt=0846",
+              "start": 34,
+              "status": 200,
+              "title": "唐伞はカラカラと泣く - ゆんか - 单曲 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/song?id=690050&userid=70378805&dlt=0846",
+              "url": "https://t.co/D28R0OUOV7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916068695623041259",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915760194661110133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 分享ゆんか的单曲《唐伞はカラカラと泣く》: https://t.co/D28R0OUOV7 (来自@网易云音乐)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1504799211799265282",
+        "conversation_id": "1915760194661110133",
+        "created_at": "2025-04-25T13:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-25T14:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915760194661110133"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1915760194661110133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1713,
+          "like_count": 62,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能不能推荐一点东方/音游曲（反正就是一堆硬核什么的 ）/术立口\n找不到好听的了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2569,
+          "following_count": 614,
+          "like_count": 45945,
+          "listed_count": 4,
+          "media_count": 1174,
+          "tweet_count": 23114
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "顺男 |💞对象/主人/唯一所爱之人/最喜欢/男朋友@yeziyu7777",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 25,
+                "username": "yeziyu7777"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arkrog.com",
+                "end": 23,
+                "expanded_url": "https://arkrog.com/",
+                "start": 0,
+                "url": "https://t.co/2xm6Tb7xPR"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "location": "被禁足 无法面基",
+        "name": "流苏",
+        "pinned_tweet_id": "1895049418031931716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914340369237762048/gv6iVx61_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1825,
+          "following_count": 2132,
+          "like_count": 31167,
+          "listed_count": 12,
+          "media_count": 952,
+          "tweet_count": 22877
+        },
+        "url": "https://t.co/2xm6Tb7xPR",
+        "username": "LiuSuK7777",
+        "verified": false
+      }
+    ]
+  }
+}

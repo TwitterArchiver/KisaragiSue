@@ -1,0 +1,208 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1794623697518780810",
+    "created_at": "2024-05-28T00:48:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-28T01:48:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1795255786278703305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1273623965265571840",
+          "start": 0,
+          "username": "BigMac4U_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1795255786278703305",
+    "in_reply_to_user_id": "1273623965265571840",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1794623697518780810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BigMac4U_ 富婆饿饿饭饭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1794623697518780810",
+        "created_at": "2024-05-28T00:48:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-28T01:48:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1795255786278703305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1273623965265571840",
+              "start": 0,
+              "username": "BigMac4U_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1795255786278703305",
+        "in_reply_to_user_id": "1273623965265571840",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1794623697518780810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BigMac4U_ 富婆饿饿饭饭"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1794623690694602753"
+          ]
+        },
+        "author_id": "1273623965265571840",
+        "conversation_id": "1794623697518780810",
+        "created_at": "2024-05-26T06:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-26T07:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1794623697518780810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/zeg9BFn19E",
+              "end": 28,
+              "expanded_url": "https://twitter.com/BigMac4U_/status/1794623697518780810/photo/1",
+              "media_key": "3_1794623690694602753",
+              "start": 5,
+              "url": "https://t.co/zeg9BFn19E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1794623697518780810",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3142,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "彻底成功 https://t.co/zeg9BFn19E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n非二元性别认同\n性別のことは男と女だけではない！🍥\nta、她、他均可\n @chaye621 最爱的妹妹……\n@SuperREEgo 老公……\n元ルーマニア共産党書記長ニコラエ・チャウシェスクさんが大好き💕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "chaye621"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "SuperREEgo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775887241187061760/DeLnaVEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2529,
+          "following_count": 606,
+          "like_count": 45492,
+          "listed_count": 2,
+          "tweet_count": 22187
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-18T14:29:58.000Z",
+        "description": "永远是18岁JK🌟 清醒时间2PM-2AM Whisky/ Flight Sim / JKS / Symphonies / Speak Mandarin & English",
+        "id": "1273623965265571840",
+        "location": "Australia",
+        "name": "Piaomiao⁠ (⁎˃ᆺ˂)求求头发长快点版",
+        "pinned_tweet_id": "1634850242431709187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1781066427006586880/t1cOsKDm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3279,
+          "following_count": 683,
+          "like_count": 33460,
+          "listed_count": 14,
+          "tweet_count": 6943
+        },
+        "username": "BigMac4U_",
+        "verified": false
+      }
+    ]
+  }
+}

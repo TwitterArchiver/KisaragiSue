@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1888801995026468928",
+    "created_at": "2025-02-11T05:00:08.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T06:00:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889177576230568436"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1443482942748037121",
+          "start": 0,
+          "username": "miyahanechan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889177576230568436",
+    "in_reply_to_user_id": "1443482942748037121",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888801995026468928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miyahanechan 羨慕pass"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1888801995026468928",
+        "created_at": "2025-02-11T05:00:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T06:00:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889177576230568436"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1443482942748037121",
+              "start": 0,
+              "username": "miyahanechan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889177576230568436",
+        "in_reply_to_user_id": "1443482942748037121",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888801995026468928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyahanechan 羨慕pass"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1443482942748037121",
+        "conversation_id": "1888801995026468928",
+        "created_at": "2025-02-10T04:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-10T05:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888801995026468928"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1888801995026468928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 12391,
+          "like_count": 155,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "上厕所未遂：试图冲进男厕被旁边女厕排队大妈一把薅住，然后语重心长跟我说女厕人再多也不该去男厕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2527,
+          "following_count": 591,
+          "like_count": 44394,
+          "listed_count": 2,
+          "media_count": 1157,
+          "tweet_count": 22476
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-30T07:48:58.000Z",
+        "description": "She/Her | 大号MtF | HRTing🍥（start at 21.8.1） | 抖S猛1铁T生科猫猫  | 死妹控 | 爱吃豆豆的猫 | 结构搬砖工 | 欢迎扩列＆私信  | ban纯键政，黄推看xp随缘 | 笨蛋妹妹&老婆&最后的家人 @sUqlc1tOOHodYq4",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 140,
+                "start": 124,
+                "username": "sUqlc1tOOHodYq4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "orcid.org/0009-0003-3700…",
+                "end": 23,
+                "expanded_url": "http://orcid.org/0009-0003-3700-0290",
+                "start": 0,
+                "url": "https://t.co/lason4WEeq"
+              }
+            ]
+          }
+        },
+        "id": "1443482942748037121",
+        "location": "豆豆心里",
+        "name": "みやはねちゃん",
+        "pinned_tweet_id": "1789310402540744838",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1757994877915201536/W8kieeZ9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2237,
+          "following_count": 732,
+          "like_count": 1499,
+          "listed_count": 12,
+          "media_count": 177,
+          "tweet_count": 808
+        },
+        "url": "https://t.co/lason4WEeq",
+        "username": "miyahanechan",
+        "verified": false
+      }
+    ]
+  }
+}

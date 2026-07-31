@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1887062065833263133",
+    "created_at": "2025-02-05T10:38:23.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-05T11:38:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887088372403126402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "961552358906802176",
+          "start": 0,
+          "username": "dfdtc7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887088372403126402",
+    "in_reply_to_user_id": "961552358906802176",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887062065833263133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dfdtc7 RIP……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1887062065833263133",
+        "created_at": "2025-02-05T10:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T11:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887088372403126402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "961552358906802176",
+              "start": 0,
+              "username": "dfdtc7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887088372403126402",
+        "in_reply_to_user_id": "961552358906802176",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887062065833263133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dfdtc7 RIP……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "961552358906802176",
+        "conversation_id": "1887062065833263133",
+        "created_at": "2025-02-05T08:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T09:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887062065833263133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/dfdtc7/status/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/dfdtc7/status/1887052731925586401",
+              "start": 21,
+              "url": "https://t.co/Cw7TdNYKBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887062065833263133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7414,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 62,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887052731925586401",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看到了...就是她...已经走了... https://t.co/Cw7TdNYKBX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2515,
+          "following_count": 587,
+          "like_count": 44364,
+          "listed_count": 2,
+          "media_count": 1155,
+          "tweet_count": 22405
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-08T10:48:41.000Z",
+        "description": "是大头菜喵喵(⁠｡⁠•̀⁠ᴗ⁠-⁠)⁠✧ | 变成女孩子ing | 还有最爱的人😽",
+        "id": "961552358906802176",
+        "name": "dfdtc",
+        "pinned_tweet_id": "1887062065833263133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1705631137647808512/zTffC5Qf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3069,
+          "following_count": 1741,
+          "like_count": 51810,
+          "listed_count": 8,
+          "media_count": 2235,
+          "tweet_count": 16328
+        },
+        "username": "dfdtc7",
+        "verified": false
+      }
+    ]
+  }
+}

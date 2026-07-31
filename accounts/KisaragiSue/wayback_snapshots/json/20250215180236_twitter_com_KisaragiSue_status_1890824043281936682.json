@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1890658355951091940",
+    "created_at": "2025-02-15T18:02:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T19:02:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890824043281936682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1393881158849503232",
+          "start": 0,
+          "username": "lynn_archived"
+        },
+        {
+          "end": 29,
+          "id": "1858908750347988992",
+          "start": 15,
+          "username": "yukari_ciallo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890824043281936682",
+    "in_reply_to_user_id": "1393881158849503232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890658355951091940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lynn_archived @yukari_ciallo 掐脖子好舒服的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1890658355951091940",
+        "created_at": "2025-02-15T18:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T19:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890824043281936682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1393881158849503232",
+              "start": 0,
+              "username": "lynn_archived"
+            },
+            {
+              "end": 29,
+              "id": "1858908750347988992",
+              "start": 15,
+              "username": "yukari_ciallo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890824043281936682",
+        "in_reply_to_user_id": "1393881158849503232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890658355951091940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lynn_archived @yukari_ciallo 掐脖子好舒服的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1393881158849503232",
+        "conversation_id": "1890658355951091940",
+        "created_at": "2025-02-15T07:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T08:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890658355951091940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1858908750347988992",
+              "start": 13,
+              "username": "yukari_ciallo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890658355951091940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "终于活过来了……❤️\n\n被@yukari_ciallo 掐了脖子之后就活过来了❤️\n\n喜欢❤️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2541,
+          "following_count": 600,
+          "like_count": 44661,
+          "listed_count": 2,
+          "media_count": 1160,
+          "tweet_count": 22552
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-16T10:49:13.000Z",
+        "description": "我们活着，就是对恶意最大的反抗！",
+        "id": "1393881158849503232",
+        "location": "Betelgeuse",
+        "name": "神楽坂 唯音 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1843350502106640569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886296264545042432/7L0jLDI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 108,
+          "like_count": 1101,
+          "listed_count": 4,
+          "media_count": 90,
+          "tweet_count": 1440
+        },
+        "username": "lynn_archived",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-19T16:23:07.000Z",
+        "description": "Give people wonderful tools. And they’ll do wonderful things.",
+        "id": "1858908750347988992",
+        "name": "旱獭邮箱📪",
+        "pinned_tweet_id": "1879229173404999694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886235437372686336/DEHU2SDD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 93,
+          "like_count": 358,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 167
+        },
+        "username": "yukari_ciallo",
+        "verified": true
+      }
+    ]
+  }
+}

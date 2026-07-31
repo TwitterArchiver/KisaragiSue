@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1868622351908368481",
+    "created_at": "2024-12-16T11:41:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-16T12:41:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1868622351908368481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1587653801305153538",
+          "start": 3,
+          "username": "XiaoHuiHuiH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1868622351908368481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "1868309285802844578",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XiaoHuiHuiH: 【⚠️亚硝酸钠劝诫视频：服用亚硝酸钠后的直接反应❌】\n\n经过我的考虑，我还是决定放出以下这些视频片段。\n\n我希望这个视频材料能够成为一个“亚硝酸钠的劝诫视频”。希望能够对“有这方面念头”的人带来一些影响和改变。… https://t.co/At…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1868622351908368481].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1868622351908368481",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1868622351908368481"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1868308608968019968"
+          ]
+        },
+        "author_id": "1587653801305153538",
+        "conversation_id": "1868309285802844578",
+        "created_at": "2024-12-15T14:56:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-15T15:56:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1868309285802844578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AtZjbSnqAn",
+              "end": 130,
+              "expanded_url": "https://x.com/XiaoHuiHuiH/status/1868309285802844578/video/1",
+              "media_key": "7_1868308608968019968",
+              "start": 107,
+              "url": "https://t.co/AtZjbSnqAn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1868309285802844578",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "【⚠️亚硝酸钠劝诫视频：服用亚硝酸钠后的直接反应❌】\n\n经过我的考虑，我还是决定放出以下这些视频片段。\n\n我希望这个视频材料能够成为一个“亚硝酸钠的劝诫视频”。希望能够对“有这方面念头”的人带来一些影响和改变。\n\n用亚硝酸钠自杀真的很痛苦很痛苦很痛苦……而且人在直面死亡的时候，是会爆发出巨大的恐惧的。\n\n以下的视频内容包含：\"二人服用亚硝酸钠\"、“后悔与报警”、“服用后的反应情况以及描述（包含简单的字幕描述）”等。\n\n⚠️请注意！视频中包含呕吐等画面。视频已添加了敏感标签，如果视频内容令你不适，请及时退出观看。⚠️"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 4329,
+          "like_count": 93,
+          "quote_count": 5,
+          "reply_count": 31,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "【⚠️亚硝酸钠劝诫视频：服用亚硝酸钠后的直接反应❌】\n\n经过我的考虑，我还是决定放出以下这些视频片段。\n\n我希望这个视频材料能够成为一个“亚硝酸钠的劝诫视频”。希望能够对“有这方面念头”的人带来一些影响和改变。… https://t.co/AtZjbSnqAn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2496,
+          "following_count": 584,
+          "like_count": 44233,
+          "listed_count": 1,
+          "media_count": 1152,
+          "tweet_count": 22333
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "好东西都在咱主页的“亮点“里哦😈\n/日常抽象涩涩推🫣/\nENFP(INFP)/偏女性非二元跨mtx(f)🏳️‍⚧️/hrt 2023.12.7🍥/泛性恋/🏳️‍🌈🩷💜/20岁/可1可0可S可M🥵/单身没人要😭/加拿大留学🇨🇦/\n\n⚠️魔怔疯批/时而温柔/时常发癫/淫趴头子/滥交药攻/嗑药地雷💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/LQg5S7YXOr"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🏳️‍⚧️喵喵艺术家~",
+        "pinned_tweet_id": "1822113111270457511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805817537021853699/IF42qnFS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8967,
+          "following_count": 964,
+          "like_count": 73123,
+          "listed_count": 16,
+          "media_count": 2837,
+          "tweet_count": 40769
+        },
+        "url": "https://t.co/LQg5S7YXOr",
+        "username": "XiaoHuiHuiH",
+        "verified": true
+      }
+    ]
+  }
+}

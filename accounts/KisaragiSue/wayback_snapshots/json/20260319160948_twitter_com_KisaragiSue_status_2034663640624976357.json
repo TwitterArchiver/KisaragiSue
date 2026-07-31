@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2034642533566025846",
+    "created_at": "2026-03-19T16:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T17:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034663640624976357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1998791279350874112",
+          "start": 0,
+          "username": "Yamawuchimisaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034663640624976357",
+    "in_reply_to_user_id": "1998791279350874112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034659706040672343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yamawuchimisaki 没人在乎你的精神疾病对你带来多大痛苦，或者你的个人尊严和自由。这个社会只在乎你作为一个精神病人只要对社会“无害”，就算治疗成功了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2034642533566025846",
+        "created_at": "2026-03-19T16:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T17:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034663640624976357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1998791279350874112",
+              "start": 0,
+              "username": "Yamawuchimisaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034663640624976357",
+        "in_reply_to_user_id": "1998791279350874112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034659706040672343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamawuchimisaki 没人在乎你的精神疾病对你带来多大痛苦，或者你的个人尊严和自由。这个社会只在乎你作为一个精神病人只要对社会“无害”，就算治疗成功了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998791279350874112",
+        "conversation_id": "2034642533566025846",
+        "created_at": "2026-03-19T15:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T16:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034659706040672343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1079483498686164992",
+              "start": 0,
+              "username": "KisaragiSue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034659706040672343",
+        "in_reply_to_user_id": "1079483498686164992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034659175717019848",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KisaragiSue 住过精神病院的都知道，医护不会把你当人看待的\n你哭闹，你很痛苦，没人理解你，我看见七八个大男人把一个瘦弱的未成年小女孩按着绑在床上打安定"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2525,
+          "following_count": 593,
+          "like_count": 44490,
+          "listed_count": 4,
+          "media_count": 1183,
+          "tweet_count": 23225
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T16:26:03.000Z",
+        "description": "🇫🇮🇯🇵🇺🇦🇮🇱。请叫我唯酱或者我的全名：山内美咲。我有严重抑郁症双相情感障碍病例，常驻宛平南路600号，不许骂我欺负我，骂我的人必定全家死光🖕 你骂我我就哭哭很难哄的😿兴趣：YOASOBI,Taylor Swift,ボカロ,アニメ,アークナイツ,ブルアカ",
+        "id": "1998791279350874112",
+        "location": "Shanghai",
+        "name": "唯ちゃんがうっとうしい 🇫🇮🇯🇵🇺🇦🇮🇱",
+        "pinned_tweet_id": "2019022518116565328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030593487264182272/oWENhdPV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1165,
+          "following_count": 518,
+          "like_count": 3735,
+          "listed_count": 6,
+          "media_count": 425,
+          "tweet_count": 3174
+        },
+        "username": "Yamawuchimisaki",
+        "verified": false
+      }
+    ]
+  }
+}

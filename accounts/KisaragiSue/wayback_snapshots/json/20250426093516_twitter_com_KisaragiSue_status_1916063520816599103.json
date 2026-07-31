@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1915934580475134138",
+    "created_at": "2025-04-26T09:35:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T10:35:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916063520816599103"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1867432957113204736",
+          "start": 0,
+          "username": "owO123qwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916063520816599103",
+    "in_reply_to_user_id": "1867432957113204736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915934580475134138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@owO123qwe 窝家人也一直想把窝再送回精卫住院，还不让窝和老公见面。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1915934580475134138",
+        "created_at": "2025-04-26T09:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T10:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916063520816599103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1867432957113204736",
+              "start": 0,
+              "username": "owO123qwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916063520816599103",
+        "in_reply_to_user_id": "1867432957113204736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915934580475134138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@owO123qwe 窝家人也一直想把窝再送回精卫住院，还不让窝和老公见面。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1867432957113204736",
+        "conversation_id": "1915934580475134138",
+        "created_at": "2025-04-26T01:02:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T02:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915934580475134138"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1915934580475134138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 763,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "活着好累，这两天都是和家长吵架，他们说还要把我送进精神病院，期间还对我朋友表面一套，背后一套，蛐蛐我朋友，我是不是死了就没这么多事了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2569,
+          "following_count": 614,
+          "like_count": 45925,
+          "listed_count": 4,
+          "media_count": 1174,
+          "tweet_count": 23103
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T04:55:02.000Z",
+        "description": "这里有一只超可爱的小然猫猫🍥~\n喜欢贴贴的可爱阳阳姐姐：@Kiss_light233\n超级可爱的若叶睦：@ai_yin16898",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "ai_yin16898"
+              }
+            ]
+          }
+        },
+        "id": "1867432957113204736",
+        "name": "小然🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1881193515851579611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1914988797529587712/5dGI25lq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 483,
+          "like_count": 2571,
+          "listed_count": 3,
+          "media_count": 106,
+          "tweet_count": 1041
+        },
+        "username": "owO123qwe",
+        "verified": false
+      }
+    ]
+  }
+}

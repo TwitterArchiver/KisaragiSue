@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1916721112848740473",
+    "created_at": "2025-04-28T08:14:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T09:14:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916767956996096026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1426487709917274113",
+          "start": 0,
+          "username": "Alexand83092796"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916767956996096026",
+    "in_reply_to_user_id": "1426487709917274113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916721112848740473",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alexand83092796 怎么知道是跨性别的，之前炸过or出过柜嘛？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1916721107039879168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpmPsQ6bAAA_F75.jpg",
+        "width": 960
+      },
+      {
+        "height": 816,
+        "media_key": "3_1916721105181814784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpmPsJ_bMAAdxK_.jpg",
+        "width": 716
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1916721112848740473",
+        "created_at": "2025-04-28T08:14:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T09:14:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916767956996096026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1426487709917274113",
+              "start": 0,
+              "username": "Alexand83092796"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916767956996096026",
+        "in_reply_to_user_id": "1426487709917274113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916721112848740473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alexand83092796 怎么知道是跨性别的，之前炸过or出过柜嘛？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1916721107039879168",
+            "3_1916721105181814784"
+          ]
+        },
+        "author_id": "1426487709917274113",
+        "conversation_id": "1916721112848740473",
+        "created_at": "2025-04-28T05:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T06:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916721112848740473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rv5YhQE2o7",
+              "end": 97,
+              "expanded_url": "https://x.com/Alexand83092796/status/1916721112848740473/photo/1",
+              "media_key": "3_1916721107039879168",
+              "start": 74,
+              "url": "https://t.co/rv5YhQE2o7"
+            },
+            {
+              "display_url": "pic.x.com/rv5YhQE2o7",
+              "end": 97,
+              "expanded_url": "https://x.com/Alexand83092796/status/1916721112848740473/photo/1",
+              "media_key": "3_1916721105181814784",
+              "start": 74,
+              "url": "https://t.co/rv5YhQE2o7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916721112848740473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3791,
+          "like_count": 82,
+          "quote_count": 1,
+          "reply_count": 13,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "再发一遍我们学校跳楼的MTF跨女\n大概就是四月十一号下午其他学生跑操的时候她因为被收手机跑到六楼跳了，后来有传言家长来学校闹被软禁了不知是真是假。 https://t.co/rv5YhQE2o7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2572,
+          "following_count": 613,
+          "like_count": 46004,
+          "listed_count": 4,
+          "media_count": 1175,
+          "tweet_count": 23138
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-14T10:16:28.000Z",
+        "description": "ゲームやアニメや可愛いものなどがすごく好き。今、日本語を勉強しています。可愛い子になりたい。\nシェアしたツイートは日本語の勉強用です。私の意見ではありません。\n可用语言🇨🇳🇹🇼華語/🇯🇵🎌日本語/🇬🇧🇺🇸English（苦手）",
+        "id": "1426487709917274113",
+        "location": "幻想乡",
+        "name": "香风时雨🌸🇺🇳🇯🇵🏳️‍⚧️",
+        "pinned_tweet_id": "1913968965384323453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915799302959767552/jepoF8C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 643,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 167
+        },
+        "username": "Alexand83092796",
+        "verified": false
+      }
+    ]
+  }
+}

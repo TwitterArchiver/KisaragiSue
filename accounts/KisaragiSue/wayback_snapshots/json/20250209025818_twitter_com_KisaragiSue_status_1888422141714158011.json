@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1888422141714158011",
+    "created_at": "2025-02-09T02:58:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T03:58:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1888422141714158011"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Lycaropia8964/…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/Lycaropia8964/status/1888236229520679302",
+          "start": 18,
+          "url": "https://t.co/DhDlOxuLTT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888422141714158011",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888236229520679302",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "70%重合，但是藥娘以後有男朋友了 https://t.co/DhDlOxuLTT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1888422141714158011",
+        "created_at": "2025-02-09T02:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T03:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888422141714158011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lycaropia8964/…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/Lycaropia8964/status/1888236229520679302",
+              "start": 18,
+              "url": "https://t.co/DhDlOxuLTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888422141714158011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888236229520679302",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "70%重合，但是藥娘以後有男朋友了 https://t.co/DhDlOxuLTT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672822866986024961",
+        "conversation_id": "1888236229520679302",
+        "created_at": "2025-02-08T14:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T15:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888236229520679302"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/moYUDTIvNs6419…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/moYUDTIvNs64199/status/1888038572571377721",
+              "start": 84,
+              "url": "https://t.co/WvODk726AF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888236229520679302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 353,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888038572571377721",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "键政，克苏鲁，galgame，管人，P社，二刺螈，精罗，车万，抽象，西哲，inm，SCP\n沾了12个，是，当时的确跟任何人都没啥缘分。但后面当小药娘去了，反而可以…… https://t.co/WvODk726AF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2516,
+          "following_count": 588,
+          "like_count": 44458,
+          "listed_count": 2,
+          "media_count": 1155,
+          "tweet_count": 22434
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-25T04:24:03.000Z",
+        "description": "JS/TS Fullstack | UI/UX | Queer Feminist | ASD | #INFJ | ❤️@CatTalkerMitaka",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 54,
+                "start": 49,
+                "tag": "INFJ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 75,
+                "start": 59,
+                "username": "CatTalkerMitaka"
+              }
+            ]
+          }
+        },
+        "id": "1672822866986024961",
+        "location": "0.9km",
+        "name": "居眠姬",
+        "pinned_tweet_id": "1835227356170190958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1814328425890643968/Lmc8sqgl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 984,
+          "like_count": 64087,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 8460
+        },
+        "username": "Lycaropia8964",
+        "verified": false
+      }
+    ]
+  }
+}

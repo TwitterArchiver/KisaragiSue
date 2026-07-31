@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1916698812782895511",
+    "created_at": "2025-04-28T08:28:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-28T09:28:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916771438654312667"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1855533603129905152",
+          "start": 0,
+          "username": "quanai_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916771438654312667",
+    "in_reply_to_user_id": "1855533603129905152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916698812782895511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@quanai_qwq 去试着爱自己"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1916698812782895511",
+        "created_at": "2025-04-28T08:28:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T09:28:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916771438654312667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1855533603129905152",
+              "start": 0,
+              "username": "quanai_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916771438654312667",
+        "in_reply_to_user_id": "1855533603129905152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916698812782895511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@quanai_qwq 去试着爱自己"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1855533603129905152",
+        "conversation_id": "1916698812782895511",
+        "created_at": "2025-04-28T03:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T04:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1916698812782895511"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916698812782895511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3378,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "剩下最后不到一个月的时间，大家觉得该做些什么好呢？(⋟﹏⋞)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2572,
+          "following_count": 613,
+          "like_count": 46011,
+          "listed_count": 4,
+          "media_count": 1175,
+          "tweet_count": 23144
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-10T08:51:14.000Z",
+        "description": "抽象/死宅/百合/Furry控_日系全装×2/地雷系_不是yd妹/无自残/无OD/处于永远无法摆脱的忧郁状态中",
+        "id": "1855533603129905152",
+        "location": "在你身后",
+        "name": "不锈肛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893349583306018817/uqE7VVqo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 124,
+          "like_count": 652,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 363
+        },
+        "username": "quanai_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

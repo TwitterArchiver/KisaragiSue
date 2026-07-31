@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1976305347892805632"
+      ],
+      "media_source_tweet_id": [
+        "1976305356038197404"
+      ]
+    },
+    "author_id": "1079483498686164992",
+    "conversation_id": "1976669960484315167",
+    "created_at": "2025-10-10T15:23:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-10T16:23:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976669960484315167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1701484460250890240",
+          "start": 3,
+          "username": "RinneMTF"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y8IyvXixVG",
+          "end": 70,
+          "expanded_url": "https://x.com/RinneMTF/status/1976305356038197404/photo/1",
+          "media_key": "3_1976305347892805632",
+          "start": 47,
+          "url": "https://t.co/Y8IyvXixVG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976669960484315167",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "1976305356038197404",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RinneMTF: 《药娘的天空》第二部要来了，不知道我能活到开书嘛......😭😭 https://t.co/Y8IyvXixVG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1976305347892805632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G20_PjTbAAAaB14.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976305347892805632"
+          ],
+          "media_source_tweet_id": [
+            "1976305356038197404"
+          ]
+        },
+        "author_id": "1079483498686164992",
+        "conversation_id": "1976669960484315167",
+        "created_at": "2025-10-10T15:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-10T16:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976669960484315167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1701484460250890240",
+              "start": 3,
+              "username": "RinneMTF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y8IyvXixVG",
+              "end": 70,
+              "expanded_url": "https://x.com/RinneMTF/status/1976305356038197404/photo/1",
+              "media_key": "3_1976305347892805632",
+              "start": 47,
+              "url": "https://t.co/Y8IyvXixVG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976669960484315167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976305356038197404",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RinneMTF: 《药娘的天空》第二部要来了，不知道我能活到开书嘛......😭😭 https://t.co/Y8IyvXixVG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976305347892805632"
+          ]
+        },
+        "author_id": "1701484460250890240",
+        "conversation_id": "1976305356038197404",
+        "created_at": "2025-10-09T15:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T16:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976305356038197404"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y8IyvXixVG",
+              "end": 56,
+              "expanded_url": "https://x.com/RinneMTF/status/1976305356038197404/photo/1",
+              "media_key": "3_1976305347892805632",
+              "start": 33,
+              "url": "https://t.co/Y8IyvXixVG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976305356038197404",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 12790,
+          "like_count": 133,
+          "quote_count": 4,
+          "reply_count": 20,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "《药娘的天空》第二部要来了，不知道我能活到开书嘛......😭😭 https://t.co/Y8IyvXixVG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2568,
+          "following_count": 603,
+          "like_count": 45522,
+          "listed_count": 4,
+          "media_count": 1182,
+          "tweet_count": 23207
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/中文，English /hrt: 2025.1.15/rle: 2025.2.10/ADHD，ASD，BPD/究极天残党/同类互关/王者，崩铁，碧蓝航线",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2812,
+          "following_count": 2184,
+          "like_count": 829,
+          "listed_count": 4,
+          "media_count": 143,
+          "tweet_count": 984
+        },
+        "username": "RinneMTF",
+        "verified": true
+      }
+    ]
+  }
+}

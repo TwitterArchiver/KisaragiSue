@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1906631671824150887",
+    "created_at": "2025-03-31T08:56:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-31T09:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1906631671824150887"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2840236608",
+          "start": 3,
+          "username": "AsabaSeiban"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1906631671824150887",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1906299663747305969",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AsabaSeiban: 目前三崎仍在 ICU，有生命体征，但无自主意识..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1906631671824150887",
+        "created_at": "2025-03-31T08:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-31T09:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906631671824150887"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2840236608",
+              "start": 3,
+              "username": "AsabaSeiban"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906631671824150887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1906299663747305969",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AsabaSeiban: 目前三崎仍在 ICU，有生命体征，但无自主意识..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2840236608",
+        "conversation_id": "1906299663747305969",
+        "created_at": "2025-03-30T10:57:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-30T11:57:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1906299663747305969"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/misakixyg/stat…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/misakixyg/status/1905939160793493825",
+              "start": 27,
+              "url": "https://t.co/apCeczl2VE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1906299663747305969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7077,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1905939160793493825",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "目前三崎仍在 ICU，有生命体征，但无自主意识... https://t.co/apCeczl2VE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2549,
+          "following_count": 604,
+          "like_count": 45156,
+          "listed_count": 3,
+          "media_count": 1168,
+          "tweet_count": 22790
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-04T14:35:52.000Z",
+        "description": "是一只魔法水母🪄🪼 🥰绝赞伴侣厘米 @ganlongyu_ 🥰绝赞亲密关系小饼干@NyaCookieNeko 奈酱@MeowCatherina 🥰绝赞亲友洛洛小羊一些些 | 因为自卑所以不想主动交朋友只会无意中交朋友，私信互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 18,
+                "username": "ganlongyu_"
+              },
+              {
+                "end": 54,
+                "start": 40,
+                "username": "NyaCookieNeko"
+              },
+              {
+                "end": 71,
+                "start": 57,
+                "username": "MeowCatherina"
+              }
+            ]
+          }
+        },
+        "id": "2840236608",
+        "location": "幻想郷但有時候在羅德島有時候在龍門",
+        "name": "浅羽星晚",
+        "pinned_tweet_id": "1900765702132466165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905590673832902660/OxD26p34_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3518,
+          "following_count": 1211,
+          "like_count": 19730,
+          "listed_count": 10,
+          "media_count": 857,
+          "tweet_count": 6996
+        },
+        "username": "AsabaSeiban",
+        "verified": true
+      }
+    ]
+  }
+}

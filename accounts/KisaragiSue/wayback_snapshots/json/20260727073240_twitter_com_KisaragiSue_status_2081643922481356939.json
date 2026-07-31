@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2081643922481356939",
+    "created_at": "2026-07-27T07:32:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T08:32:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081643922481356939"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yelai431420/st…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/yelai431420/status/2080985123710005314",
+          "start": 45,
+          "url": "https://t.co/56io52GN1u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081643922481356939",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080985123710005314",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不明白戒这些玩意有什么难的，当时就是进精神病院熬了一个多星期也没特别难受之后再也不想了。 https://t.co/56io52GN1u"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2164,
+        "media_key": "3_2080985120962715648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEk8SXbIAAh3tj.jpg",
+        "width": 1139
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2081643922481356939",
+        "created_at": "2026-07-27T07:32:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081643922481356939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yelai431420/st…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/yelai431420/status/2080985123710005314",
+              "start": 45,
+              "url": "https://t.co/56io52GN1u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081643922481356939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080985123710005314",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不明白戒这些玩意有什么难的，当时就是进精神病院熬了一个多星期也没特别难受之后再也不想了。 https://t.co/56io52GN1u"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080985120962715648"
+          ]
+        },
+        "author_id": "1775846129243942912",
+        "conversation_id": "2080985123710005314",
+        "created_at": "2026-07-25T11:54:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:54:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080985123710005314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hWgT0Xg0Jv",
+              "end": 39,
+              "expanded_url": "https://x.com/yelai431420/status/2080985123710005314/photo/1",
+              "media_key": "3_2080985120962715648",
+              "start": 16,
+              "url": "https://t.co/hWgT0Xg0Jv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080985123710005314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 21007,
+          "like_count": 244,
+          "quote_count": 13,
+          "reply_count": 51,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "戒药吧的传奇母亲。我也想要。😿 https://t.co/hWgT0Xg0Jv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2529,
+          "following_count": 590,
+          "like_count": 44113,
+          "listed_count": 5,
+          "media_count": 1189,
+          "tweet_count": 23277
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-04T11:21:36.000Z",
+        "description": "附庸的附庸/💊/爱人TV幸存者/消极自由/https://t.co/7qeRebGwM5",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yelai38900",
+                "end": 44,
+                "expanded_url": "https://ngl.link/yelai38900",
+                "start": 21,
+                "url": "https://t.co/7qeRebGwM5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/yalailinlin",
+                "end": 23,
+                "expanded_url": "https://t.me/yalailinlin",
+                "start": 0,
+                "url": "https://t.co/yiPFTgfmTr"
+              }
+            ]
+          }
+        },
+        "id": "1775846129243942912",
+        "location": "!",
+        "name": "yella nagisa～#天仓五🍡",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005233648988303360/Y2SDBKng_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 281,
+          "like_count": 2857,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 610
+        },
+        "url": "https://t.co/yiPFTgfmTr",
+        "username": "yelai431420",
+        "verified": false
+      }
+    ]
+  }
+}

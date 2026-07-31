@@ -1,0 +1,222 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1811911586812162352",
+    "created_at": "2024-07-13T05:44:04.000Z",
+    "edit_controls": {
+      "editable_until": "2024-07-13T06:44:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1812000019840663704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1596181948975628288",
+          "start": 0,
+          "username": "ddsqqq1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1812000019840663704",
+    "in_reply_to_user_id": "1596181948975628288",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1811911586812162352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ddsqqq1 祝你早日康复QWQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1811911586812162352",
+        "created_at": "2024-07-13T05:44:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T06:44:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1812000019840663704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1596181948975628288",
+              "start": 0,
+              "username": "ddsqqq1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1812000019840663704",
+        "in_reply_to_user_id": "1596181948975628288",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1811911586812162352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ddsqqq1 祝你早日康复QWQ"
+      },
+      {
+        "attachments": {},
+        "author_id": "1596181948975628288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Ongoing News Stories like 'Brexit'",
+              "id": "123",
+              "name": "Ongoing News Story"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1220701888179359745",
+              "name": "COVID-19"
+            }
+          }
+        ],
+        "conversation_id": "1811911586812162352",
+        "created_at": "2024-07-12T23:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-13T00:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1811911586812162352"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1811911586812162352",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3900,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上呼吸道感染2日，喉咙痛，肉眼血尿，吃了一颗泼尼松一颗厄贝沙坦。\n\n确实这应该是我此生仅有的机会，我的判断是正确的，以后身体只会更差。事不随人愿。\n\n可惜，轻松一射，我痛苦一辈子。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n非二元性别认同\n性別のことは男と女だけではない！🍥\nta、她、他均可\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n@Misaka0032 老公……\n元ルーマニア共産党書記長ニコラエ・チャウシェスクさんが大好き💕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "chaye621"
+              },
+              {
+                "end": 98,
+                "start": 84,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2505,
+          "following_count": 596,
+          "like_count": 45082,
+          "listed_count": 2,
+          "tweet_count": 22215
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-25T16:40:27.000Z",
+        "description": "是郭楠",
+        "id": "1596181948975628288",
+        "location": "不知道",
+        "name": "Ningyue",
+        "pinned_tweet_id": "1805289723923251271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797671446837374976/6_HzEhAN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2881,
+          "following_count": 1311,
+          "like_count": 33396,
+          "listed_count": 2,
+          "tweet_count": 3549
+        },
+        "username": "ddsqqq1",
+        "verified": false
+      }
+    ]
+  }
+}

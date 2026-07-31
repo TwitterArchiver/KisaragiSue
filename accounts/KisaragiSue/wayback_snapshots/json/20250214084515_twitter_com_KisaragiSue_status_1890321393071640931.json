@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1890070505295847862",
+    "created_at": "2025-02-14T08:45:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T09:45:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890321393071640931"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1638893284218261504",
+          "start": 0,
+          "username": "Benzyl_titanium"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890321393071640931",
+    "in_reply_to_user_id": "1638893284218261504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890070505295847862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Benzyl_titanium 什麼以毒攻毒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1890070505295847862",
+        "created_at": "2025-02-14T08:45:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T09:45:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890321393071640931"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1638893284218261504",
+              "start": 0,
+              "username": "Benzyl_titanium"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890321393071640931",
+        "in_reply_to_user_id": "1638893284218261504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890070505295847862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Benzyl_titanium 什麼以毒攻毒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890070277884952577",
+            "3_1890070277893341184",
+            "3_1890070277901713408",
+            "3_1890070277889146880"
+          ]
+        },
+        "author_id": "1638893284218261504",
+        "conversation_id": "1890070505295847862",
+        "created_at": "2025-02-13T16:08:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T17:08:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890070505295847862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UGEPQLwcut",
+              "end": 77,
+              "expanded_url": "https://x.com/Benzyl_titanium/status/1890070505295847862/photo/1",
+              "media_key": "3_1890070277884952577",
+              "start": 54,
+              "url": "https://t.co/UGEPQLwcut"
+            },
+            {
+              "display_url": "pic.x.com/UGEPQLwcut",
+              "end": 77,
+              "expanded_url": "https://x.com/Benzyl_titanium/status/1890070505295847862/photo/1",
+              "media_key": "3_1890070277893341184",
+              "start": 54,
+              "url": "https://t.co/UGEPQLwcut"
+            },
+            {
+              "display_url": "pic.x.com/UGEPQLwcut",
+              "end": 77,
+              "expanded_url": "https://x.com/Benzyl_titanium/status/1890070505295847862/photo/1",
+              "media_key": "3_1890070277901713408",
+              "start": 54,
+              "url": "https://t.co/UGEPQLwcut"
+            },
+            {
+              "display_url": "pic.x.com/UGEPQLwcut",
+              "end": 77,
+              "expanded_url": "https://x.com/Benzyl_titanium/status/1890070505295847862/photo/1",
+              "media_key": "3_1890070277889146880",
+              "start": 54,
+              "url": "https://t.co/UGEPQLwcut"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890070505295847862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 11873,
+          "like_count": 103,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "发现一个神药，可以治抑郁焦虑、失眠、ADHD，还可以促智增强记忆力和抗衰老，最重要的是几乎没有副作用（（（ https://t.co/UGEPQLwcut"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2539,
+          "following_count": 599,
+          "like_count": 44532,
+          "listed_count": 2,
+          "media_count": 1158,
+          "tweet_count": 22515
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T13:19:49.000Z",
+        "description": "Tetrabenzyl titanium 四苄基钛 @sibianjitai 苄钛 死变态 mtf 无证不含🍥 Fuck Organic Chemistry 友姬花穴 喜欢研究药物化学,有机合成,精神药理学,网络药理学,计算机辅助药物设计",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 26,
+                "username": "sibianjitai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "benzyl-titanium.pages.dev",
+                "end": 23,
+                "expanded_url": "https://benzyl-titanium.pages.dev/",
+                "start": 0,
+                "url": "https://t.co/gbEi4JVXn5"
+              }
+            ]
+          }
+        },
+        "id": "1638893284218261504",
+        "name": "Benzyl titanium",
+        "pinned_tweet_id": "1689695640509435907",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1843324662987780096/d7hU3bqB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1289,
+          "following_count": 517,
+          "like_count": 8318,
+          "listed_count": 5,
+          "media_count": 280,
+          "tweet_count": 1753
+        },
+        "url": "https://t.co/gbEi4JVXn5",
+        "username": "Benzyl_titanium",
+        "verified": false
+      }
+    ]
+  }
+}

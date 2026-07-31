@@ -1,0 +1,207 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1800457269261549753",
+    "created_at": "2024-06-12T03:12:46.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-12T04:12:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1800727920648044815"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1428272299807965189",
+          "start": 0,
+          "username": "18650LoveMiku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1800727920648044815",
+    "in_reply_to_user_id": "1428272299807965189",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 3,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1800457269261549753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@18650LoveMiku 激素无法改变你的性取向大方向，但是可以影响增强或者减弱某些取向"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1800457269261549753",
+        "created_at": "2024-06-12T03:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-12T04:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1800727920648044815"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1428272299807965189",
+              "start": 0,
+              "username": "18650LoveMiku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1800727920648044815",
+        "in_reply_to_user_id": "1428272299807965189",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1800457269261549753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@18650LoveMiku 激素无法改变你的性取向大方向，但是可以影响增强或者减弱某些取向"
+      },
+      {
+        "attachments": {},
+        "author_id": "1428272299807965189",
+        "conversation_id": "1800457269261549753",
+        "created_at": "2024-06-11T09:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-11T10:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1800457269261549753"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1800457269261549753",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4346,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 21,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "w...有点琢磨不清自己的取向了呢\n有时候会控制不住的对一些男生有好感，大概很想要一种被护着的感觉（？）自己的安全感越来越低...\n但我仍然对绝大多数的国男很厌恶啊...好矛盾好矛盾\n然后之前也喜欢过女生来着\n难道思想真的会被激素牵着鼻子走？有点奇妙..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n非二元性别认同\n性別のことは男と女だけではない！🍥\nta、她、他均可\n @chaye621 最爱的妹妹……\n@SuperREEgo 老公……\n元ルーマニア共産党書記長ニコラエ・チャウシェスクさんが大好き💕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "chaye621"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "SuperREEgo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2533,
+          "following_count": 602,
+          "like_count": 45439,
+          "listed_count": 2,
+          "tweet_count": 22190
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-19T08:27:21.000Z",
+        "description": "Mikufans | VOCALOID Lover | 破玩电脑的 | 会碎碎念的日常推 | 🏳️‍⚧️ | 请和我做朋友~♥",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "snowmiku-HOME.top",
+                "end": 23,
+                "expanded_url": "https://snowmiku-HOME.top",
+                "start": 0,
+                "url": "https://t.co/8r35RpHxzb"
+              }
+            ]
+          }
+        },
+        "id": "1428272299807965189",
+        "location": "fufu怀里",
+        "name": "葱酱nya_",
+        "pinned_tweet_id": "1788093739099210193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775015689470070784/UUYlTKPl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2232,
+          "following_count": 1002,
+          "like_count": 14538,
+          "listed_count": 11,
+          "tweet_count": 6531
+        },
+        "url": "https://t.co/8r35RpHxzb",
+        "username": "18650LoveMiku",
+        "verified": false
+      }
+    ]
+  }
+}

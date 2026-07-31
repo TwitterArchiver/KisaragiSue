@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1925250930536321269",
+    "created_at": "2025-05-23T06:03:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-23T07:03:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1925794639577042953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1867432957113204736",
+          "start": 0,
+          "username": "owO123qwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1925794639577042953",
+    "in_reply_to_user_id": "1867432957113204736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925250930536321269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@owO123qwe 咱虽然玩但是超级菜的萌新"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 559,
+        "media_key": "3_1925250927675809794",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrfdhK-boAILJHw.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1925250930536321269",
+        "created_at": "2025-05-23T06:03:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-23T07:03:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925794639577042953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1867432957113204736",
+              "start": 0,
+              "username": "owO123qwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925794639577042953",
+        "in_reply_to_user_id": "1867432957113204736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925250930536321269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@owO123qwe 咱虽然玩但是超级菜的萌新"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1925250927675809794"
+          ]
+        },
+        "author_id": "1867432957113204736",
+        "conversation_id": "1925250930536321269",
+        "created_at": "2025-05-21T18:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-21T19:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1925250930536321269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kn5W4lDzvv",
+              "end": 46,
+              "expanded_url": "https://x.com/owO123qwe/status/1925250930536321269/photo/1",
+              "media_key": "3_1925250927675809794",
+              "start": 23,
+              "url": "https://t.co/Kn5W4lDzvv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925250930536321269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 7786,
+          "like_count": 132,
+          "quote_count": 0,
+          "reply_count": 48,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "不知道推油们有没有玩三角洲的？想找个人一起打 https://t.co/Kn5W4lDzvv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2574,
+          "following_count": 616,
+          "like_count": 46223,
+          "listed_count": 4,
+          "media_count": 1177,
+          "tweet_count": 23226
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-13T04:55:02.000Z",
+        "description": "这里有一只超可爱的小然猫猫🍥~\n喜欢贴贴的可爱阳阳姐姐：@Kiss_light233\n超级可爱的若叶睦：@ai_yin16898",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 28,
+                "username": "Kiss_light233"
+              },
+              {
+                "end": 64,
+                "start": 52,
+                "username": "ai_yin16898"
+              }
+            ]
+          }
+        },
+        "id": "1867432957113204736",
+        "name": "小然🍥🏳️‍⚧️",
+        "pinned_tweet_id": "1881193515851579611",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917932870381043712/EIGuUAf6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 515,
+          "like_count": 3109,
+          "listed_count": 3,
+          "media_count": 121,
+          "tweet_count": 1141
+        },
+        "username": "owO123qwe",
+        "verified": false
+      }
+    ]
+  }
+}

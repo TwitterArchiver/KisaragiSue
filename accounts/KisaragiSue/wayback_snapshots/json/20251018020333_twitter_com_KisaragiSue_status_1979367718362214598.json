@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1979367718362214598",
+    "created_at": "2025-10-18T02:03:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T03:03:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979367718362214598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1552918719440924672",
+          "start": 3,
+          "username": "Sanx0n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979367718362214598",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 383
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977742179264065721",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sanx0n: 猫卷为了庆祝新店（号）开业 搞个抽奖吧\n\n奖品是：五盒日雌！抽五个人免费送！\n也可折现为266元！或换成其他药物（泰补 诺）～\n参与方法：关注，转发，评论，点赞\n开奖时间：11月1日\n\n需要购买的话欢迎私信～售价380/盒包邮 具体请看置顶 https:…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1176,
+        "media_key": "3_1977742156216549376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3JaAzaaQAATXGV.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1109,
+        "media_key": "3_1977742156208214016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3JaAzYbEAAh9W-.jpg",
+        "width": 1478
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1979367718362214598",
+        "created_at": "2025-10-18T02:03:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T03:03:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979367718362214598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1552918719440924672",
+              "start": 3,
+              "username": "Sanx0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979367718362214598",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 383
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977742179264065721",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sanx0n: 猫卷为了庆祝新店（号）开业 搞个抽奖吧\n\n奖品是：五盒日雌！抽五个人免费送！\n也可折现为266元！或换成其他药物（泰补 诺）～\n参与方法：关注，转发，评论，点赞\n开奖时间：11月1日\n\n需要购买的话欢迎私信～售价380/盒包邮 具体请看置顶 https:…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1977742156216549376",
+            "3_1977742156208214016"
+          ]
+        },
+        "author_id": "1552918719440924672",
+        "conversation_id": "1977742179264065721",
+        "created_at": "2025-10-13T14:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-13T15:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977742179264065721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SKcYBhtUQH",
+              "end": 144,
+              "expanded_url": "https://x.com/Sanx0n/status/1977742179264065721/photo/1",
+              "media_key": "3_1977742156216549376",
+              "start": 121,
+              "url": "https://t.co/SKcYBhtUQH"
+            },
+            {
+              "display_url": "pic.x.com/SKcYBhtUQH",
+              "end": 144,
+              "expanded_url": "https://x.com/Sanx0n/status/1977742179264065721/photo/1",
+              "media_key": "3_1977742156208214016",
+              "start": 121,
+              "url": "https://t.co/SKcYBhtUQH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977742179264065721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 69241,
+          "like_count": 630,
+          "quote_count": 12,
+          "reply_count": 406,
+          "retweet_count": 383
+        },
+        "reply_settings": "everyone",
+        "text": "猫卷为了庆祝新店（号）开业 搞个抽奖吧\n\n奖品是：五盒日雌！抽五个人免费送！\n也可折现为266元！或换成其他药物（泰补 诺）～\n参与方法：关注，转发，评论，点赞\n开奖时间：11月1日\n\n需要购买的话欢迎私信～售价380/盒包邮 具体请看置顶 https://t.co/SKcYBhtUQH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2571,
+          "following_count": 604,
+          "like_count": 45521,
+          "listed_count": 4,
+          "media_count": 1182,
+          "tweet_count": 23212
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "PhD @NTUsg | 💌@HobartR6🐟@Chiyuyu520🐱@_FurryFur_ | 里：@lumigj02 |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "NTUsg"
+              },
+              {
+                "end": 23,
+                "start": 14,
+                "username": "HobartR6"
+              },
+              {
+                "end": 35,
+                "start": 24,
+                "username": "Chiyuyu520"
+              },
+              {
+                "end": 47,
+                "start": 36,
+                "username": "_FurryFur_"
+              },
+              {
+                "end": 61,
+                "start": 52,
+                "username": "lumigj02"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "成都/Singapore",
+        "name": "Sanxon & 猫卷 Co. (日雌泰补诺",
+        "pinned_tweet_id": "1979225533306278000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977456881494065152/mMVbYJ6v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1189,
+          "following_count": 845,
+          "like_count": 325,
+          "listed_count": 2,
+          "media_count": 61,
+          "tweet_count": 896
+        },
+        "username": "Sanx0n",
+        "verified": true
+      }
+    ]
+  }
+}

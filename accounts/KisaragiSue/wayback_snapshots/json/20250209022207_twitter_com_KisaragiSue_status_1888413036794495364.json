@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1888203361406878167",
+    "created_at": "2025-02-09T02:22:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-09T03:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1888413036794495364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1857335218673483776",
+          "start": 0,
+          "username": "mngy289164"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1888413036794495364",
+    "in_reply_to_user_id": "1857335218673483776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888203361406878167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mngy289164 加油！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1888203361406878167",
+        "created_at": "2025-02-09T02:22:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T03:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888413036794495364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1857335218673483776",
+              "start": 0,
+              "username": "mngy289164"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888413036794495364",
+        "in_reply_to_user_id": "1857335218673483776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888203361406878167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mngy289164 加油！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1888203318360698881"
+          ]
+        },
+        "author_id": "1857335218673483776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1888203361406878167",
+        "created_at": "2025-02-08T12:28:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-08T13:28:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1888203361406878167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ol8MuOf0oD",
+              "end": 46,
+              "expanded_url": "https://x.com/mngy289164/status/1888203361406878167/photo/1",
+              "media_key": "3_1888203318360698881",
+              "start": 23,
+              "url": "https://t.co/Ol8MuOf0oD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888203361406878167",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 22046,
+          "like_count": 179,
+          "quote_count": 0,
+          "reply_count": 41,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "现在去蜜雪冰城打工去了，有点累....... https://t.co/Ol8MuOf0oD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2516,
+          "following_count": 588,
+          "like_count": 44437,
+          "listed_count": 2,
+          "media_count": 1155,
+          "tweet_count": 22426
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-15T08:10:07.000Z",
+        "description": "09MTF🍥/原账号@mengyu2334/幸福......？",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "mengyu2334"
+              }
+            ]
+          }
+        },
+        "id": "1857335218673483776",
+        "location": "讨厌所有人",
+        "name": "梦雨🍥",
+        "pinned_tweet_id": "1878110660200161498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884376728015097856/vYJfwFcq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1086,
+          "following_count": 225,
+          "like_count": 580,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 205
+        },
+        "username": "mngy289164",
+        "verified": false
+      }
+    ]
+  }
+}

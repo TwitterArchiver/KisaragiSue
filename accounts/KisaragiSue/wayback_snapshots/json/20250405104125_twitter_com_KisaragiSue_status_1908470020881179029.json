@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1907946220963676620",
+    "created_at": "2025-04-05T10:41:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-05T11:41:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908470020881179029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1125017516055482368",
+          "start": 0,
+          "username": "String_fish"
+        },
+        {
+          "end": 25,
+          "id": "1487651724810723332",
+          "start": 13,
+          "username": "kage_papuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908470020881179029",
+    "in_reply_to_user_id": "1125017516055482368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907946220963676620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@String_fish @kage_papuki 晚安……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_1907838081744646149",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GnoAoI9aMAU_6Qw.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1907946220963676620",
+        "created_at": "2025-04-05T10:41:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-05T11:41:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908470020881179029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1125017516055482368",
+              "start": 0,
+              "username": "String_fish"
+            },
+            {
+              "end": 25,
+              "id": "1487651724810723332",
+              "start": 13,
+              "username": "kage_papuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908470020881179029",
+        "in_reply_to_user_id": "1125017516055482368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907946220963676620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@String_fish @kage_papuki 晚安……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1907838081744646149"
+          ]
+        },
+        "author_id": "1125017516055482368",
+        "conversation_id": "1907946220963676620",
+        "created_at": "2025-04-04T00:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-04T01:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907946220963676620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1487651724810723332",
+              "start": 12,
+              "username": "kage_papuki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FFRy5AxeTT",
+              "end": 183,
+              "expanded_url": "https://x.com/String_fish/status/1907946220963676620/photo/1",
+              "media_key": "3_1907838081744646149",
+              "start": 160,
+              "url": "https://t.co/FFRy5AxeTT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1907946220963676620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 17595,
+          "like_count": 191,
+          "quote_count": 10,
+          "reply_count": 76,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "讣告\nPapuki女士 @Kage_papuki 于2025年3月29日逝世，终年18岁。\n由于特殊原因，我们没有及时发布消息也不能做更多说明。对此，我们表示抱歉。\n我们总希望不留遗憾，却又在遗憾中前行…斯人已逝，生者如光，请尽力爱自己，与身边的人好好度过每一天。\n我最爱的Papuki，在那边，请好好照顾自己，晚安… https://t.co/FFRy5AxeTT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2552,
+          "following_count": 604,
+          "like_count": 45252,
+          "listed_count": 3,
+          "media_count": 1169,
+          "tweet_count": 22844
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-05T12:40:52.000Z",
+        "description": "Salted fish\n一条咸鱼。\n丨HAM CS EE 古典音乐丨建政、看黄、逆天发言号请自动远离。\nIn Memory of @kage_papuki @TianqiChen666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 65,
+                "username": "kage_papuki"
+              },
+              {
+                "end": 92,
+                "start": 78,
+                "username": "TianqiChen666"
+              }
+            ]
+          }
+        },
+        "id": "1125017516055482368",
+        "name": "Arius sul G String",
+        "pinned_tweet_id": "1906695939617878398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1726651138899144704/1YP2C4fU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 481,
+          "following_count": 1525,
+          "like_count": 58492,
+          "listed_count": 3,
+          "media_count": 99,
+          "tweet_count": 1701
+        },
+        "username": "String_fish",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-30T04:59:55.000Z",
+        "description": "Hi~这里是Papuki的纪念账号/是神明大人呢😇/MTF(X ?)/大证家暴党/天残😭/友跨🍥友同🌈/无性恋/社恐(不擅长聊天抱歉🥺)/逃避社交/回避型人格😭/大一/很少键政/互fo私信哦/匿名问答: https://t.co/JsvpYyNNtU /应该也没什么好写了的吧",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kage_papuki",
+                "end": 125,
+                "expanded_url": "https://ngl.link/kage_papuki",
+                "start": 102,
+                "url": "https://t.co/JsvpYyNNtU"
+              }
+            ]
+          }
+        },
+        "id": "1487651724810723332",
+        "location": "🌏    🚀    🌕",
+        "name": "Papuki🍜⛩️🦊🌕😇",
+        "pinned_tweet_id": "1889642425586520182",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897251757920845824/t2B6zUt5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 837,
+          "like_count": 24494,
+          "listed_count": 9,
+          "media_count": 387,
+          "tweet_count": 3233
+        },
+        "username": "kage_papuki",
+        "verified": false
+      }
+    ]
+  }
+}

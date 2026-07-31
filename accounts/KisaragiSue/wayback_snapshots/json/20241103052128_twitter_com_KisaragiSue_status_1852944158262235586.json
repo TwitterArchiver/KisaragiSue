@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1852944158262235586",
+    "created_at": "2024-11-03T05:21:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-03T06:21:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1852944158262235586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1538522512392220672",
+          "start": 3,
+          "username": "chuanchuanQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1852944158262235586",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 29
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852472932356042767",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chuanchuanQAQ: 最近怎么老是在吵跨女外貌穿搭什么的……\n天赋党和家长党都属于概率事件，更多的是可能对于自己情况意识到得比较晚，或者受限于现实条件没法很好的完成rle等等。\n且先不谈先天条件，后天的学习也不是一天两天就能成的事，中小学青春期的时候谁没土过，顺…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1852944158262235586",
+        "created_at": "2024-11-03T05:21:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T06:21:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852944158262235586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1538522512392220672",
+              "start": 3,
+              "username": "chuanchuanQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852944158262235586",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 29
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852472932356042767",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chuanchuanQAQ: 最近怎么老是在吵跨女外貌穿搭什么的……\n天赋党和家长党都属于概率事件，更多的是可能对于自己情况意识到得比较晚，或者受限于现实条件没法很好的完成rle等等。\n且先不谈先天条件，后天的学习也不是一天两天就能成的事，中小学青春期的时候谁没土过，顺…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1852472930040713216"
+          ]
+        },
+        "author_id": "1538522512392220672",
+        "conversation_id": "1852472932356042767",
+        "created_at": "2024-11-01T22:08:59.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-01T23:08:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852472932356042767"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OY7vjUF7Wp",
+              "end": 167,
+              "expanded_url": "https://x.com/chuanchuanQAQ/status/1852472932356042767/photo/1",
+              "media_key": "3_1852472930040713216",
+              "start": 144,
+              "url": "https://t.co/OY7vjUF7Wp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852472932356042767",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 23178,
+          "like_count": 342,
+          "quote_count": 6,
+          "reply_count": 22,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "最近怎么老是在吵跨女外貌穿搭什么的……\n天赋党和家长党都属于概率事件，更多的是可能对于自己情况意识到得比较晚，或者受限于现实条件没法很好的完成rle等等。\n且先不谈先天条件，后天的学习也不是一天两天就能成的事，中小学青春期的时候谁没土过，顺性别还能从小得到相应性别的教育和审美培养（1） https://t.co/OY7vjUF7Wp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n非二元性别认同\n性別のことは男と女だけではない！🍥\nta、她、他均可\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n@Misaka0032 老公……\n元ルーマニア共産党書記長ニコラエ・チャウシェスクさんが大好き💕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "chaye621"
+              },
+              {
+                "end": 98,
+                "start": 84,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2498,
+          "following_count": 586,
+          "like_count": 44372,
+          "listed_count": 1,
+          "tweet_count": 22328
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-19T14:02:15.000Z",
+        "description": "持证含糖mtf（HRT2023.2.15）srs预备中！（2024.11.26）/有对象/同类看到会回fo的～",
+        "id": "1538522512392220672",
+        "location": "吸鲨群岛",
+        "name": "川川",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1823481980119605251/V2KGe31__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6328,
+          "following_count": 658,
+          "like_count": 10007,
+          "listed_count": 17,
+          "tweet_count": 4238
+        },
+        "username": "chuanchuanQAQ",
+        "verified": false
+      }
+    ]
+  }
+}

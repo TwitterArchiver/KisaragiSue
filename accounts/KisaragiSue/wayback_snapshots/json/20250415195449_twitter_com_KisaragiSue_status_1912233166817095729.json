@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1912180404380930101"
+      ],
+      "media_source_tweet_id": [
+        "1912180463910986064"
+      ]
+    },
+    "author_id": "1079483498686164992",
+    "conversation_id": "1912233166817095729",
+    "created_at": "2025-04-15T19:54:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-15T20:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912233166817095729"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1374034349700444161",
+          "start": 3,
+          "username": "pizyj"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Pq4x3yx0zS",
+          "end": 42,
+          "expanded_url": "https://x.com/pizyj/status/1912180463910986064/video/1",
+          "media_key": "13_1912180404380930101",
+          "start": 19,
+          "url": "https://t.co/Pq4x3yx0zS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912233166817095729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912180463910986064",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pizyj: 可以说很舒服了 https://t.co/Pq4x3yx0zS"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1912233166817095729].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1912233166817095729",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1912233166817095729"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2353,
+        "height": 720,
+        "media_key": "13_1912180404380930101",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1912180404380930101/img/jDi9sntaGTGGMlaF.jpg",
+        "public_metrics": {
+          "view_count": 434
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912180404380930101/vid/avc1/480x270/2egITXw02wjKZOa7.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912180404380930101/vid/avc1/640x360/obbxJa8gcrPoglV8.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1912180404380930101/vid/avc1/1280x720/J5HBIMM4fhb4MvhY.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1912180404380930101/pl/juYPjXYJtFs6ONqP.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1912180404380930101"
+          ]
+        },
+        "author_id": "1374034349700444161",
+        "conversation_id": "1912180463910986064",
+        "created_at": "2025-04-15T16:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-15T17:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912180463910986064"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pq4x3yx0zS",
+              "end": 31,
+              "expanded_url": "https://x.com/pizyj/status/1912180463910986064/video/1",
+              "media_key": "13_1912180404380930101",
+              "start": 8,
+              "url": "https://t.co/Pq4x3yx0zS"
+            },
+            {
+              "display_url": "x.com/pizyj/status/1…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/pizyj/status/1912135163812941916",
+              "start": 32,
+              "url": "https://t.co/pfLRsySqFP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912180463910986064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1360,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912135163812941916",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可以说很舒服了 https://t.co/Pq4x3yx0zS https://t.co/pfLRsySqFP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2566,
+          "following_count": 608,
+          "like_count": 45680,
+          "listed_count": 4,
+          "media_count": 1172,
+          "tweet_count": 22997
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-22T16:24:59.000Z",
+        "description": "⬅️⬆️不文明的物种，又丑又凶，打人，还抢东西，sub，内有恶🐱@NekomiyaKoharu ,请勿靠近😈😈😈III 个人梯子，测试通用性还可以https://t.co/RvgI8jhUJf 😺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 32,
+                "username": "NekomiyaKoharu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "wwwwwl.sogood9.com/#/register?cod…",
+                "end": 96,
+                "expanded_url": "https://wwwwwl.sogood9.com/#/register?code=SR31PQgn",
+                "start": 73,
+                "url": "https://t.co/RvgI8jhUJf"
+              }
+            ]
+          }
+        },
+        "id": "1374034349700444161",
+        "location": "猫罐头",
+        "name": "喵小白叫灵白猫",
+        "pinned_tweet_id": "1887077652684824621",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899500314749030403/grMD1iNl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58758,
+          "following_count": 5318,
+          "like_count": 41727,
+          "listed_count": 77,
+          "media_count": 9136,
+          "tweet_count": 50974
+        },
+        "username": "pizyj",
+        "verified": false
+      }
+    ]
+  }
+}

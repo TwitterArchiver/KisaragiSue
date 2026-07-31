@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1889890226329571831",
+    "created_at": "2025-02-14T17:20:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T18:20:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890450933345079663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1831588382159597571",
+          "start": 0,
+          "username": "SNK_LEIN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890450933345079663",
+    "in_reply_to_user_id": "1831588382159597571",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889890226329571831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SNK_LEIN 路徑依賴了唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1889890226329571831",
+        "created_at": "2025-02-14T17:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T18:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890450933345079663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1831588382159597571",
+              "start": 0,
+              "username": "SNK_LEIN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890450933345079663",
+        "in_reply_to_user_id": "1831588382159597571",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889890226329571831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SNK_LEIN 路徑依賴了唉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889890219018870784"
+          ]
+        },
+        "author_id": "1831588382159597571",
+        "conversation_id": "1889890226329571831",
+        "created_at": "2025-02-13T04:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T05:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889890226329571831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KoJJfROcjB",
+              "end": 166,
+              "expanded_url": "https://x.com/SNK_LEIN/status/1889890226329571831/photo/1",
+              "media_key": "3_1889890219018870784",
+              "start": 143,
+              "url": "https://t.co/KoJJfROcjB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889890226329571831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 72234,
+          "like_count": 548,
+          "quote_count": 11,
+          "reply_count": 47,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "曾经问过一个姐姐，靠圆角赚了那么多钱也有足够的存款了，为什么不去srs……\n姐姐说，她自己没有什么技能，没有可以依靠的人，也没有其他可以赚钱的方法……而她的客人……都是冲着她是xyn才肯花钱的……那srs之后，还有谁会去找她呢……\n所以并不是不想srs……而是生活所迫不能去srs…… https://t.co/KoJJfROcjB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2537,
+          "following_count": 598,
+          "like_count": 44569,
+          "listed_count": 2,
+          "media_count": 1159,
+          "tweet_count": 22529
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T07:01:27.000Z",
+        "description": "是一只持证含糖のxyn｜hrt：2024.04.05｜是某个人的影子，作为影子存在着｜希望每个人都能珍惜自己，并且被珍惜｜纯家暴党｜离家出走准备中｜srs准备中",
+        "id": "1831588382159597571",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "𝒦𝓁ℯ𝒾𝓃 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852803222244831232/Lp3xy29x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 35,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 34
+        },
+        "username": "SNK_LEIN",
+        "verified": false
+      }
+    ]
+  }
+}

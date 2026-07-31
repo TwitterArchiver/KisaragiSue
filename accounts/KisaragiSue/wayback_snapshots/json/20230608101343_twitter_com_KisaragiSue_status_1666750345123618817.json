@@ -1,0 +1,188 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1666748018228600837",
+    "created_at": "2023-06-08T10:13:43.000Z",
+    "edit_controls": {
+      "editable_until": "2023-06-08T11:13:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1666750345123618817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1185431906436804608",
+          "start": 0,
+          "username": "AsakuraAkari"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1666750345123618817",
+    "in_reply_to_user_id": "1185431906436804608",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1666748018228600837",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsakuraAkari 这是索家的超采样？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1666748018228600837",
+        "created_at": "2023-06-08T10:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2023-06-08T11:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1666750345123618817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1185431906436804608",
+              "start": 0,
+              "username": "AsakuraAkari"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1666750345123618817",
+        "in_reply_to_user_id": "1185431906436804608",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1666748018228600837",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsakuraAkari 这是索家的超采样？"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1666748014554386433"
+          ]
+        },
+        "author_id": "1185431906436804608",
+        "conversation_id": "1666748018228600837",
+        "created_at": "2023-06-08T10:04:28.000Z",
+        "edit_controls": {
+          "editable_until": "2023-06-08T11:04:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1666748018228600837"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/XEhwMDva5i",
+              "end": 47,
+              "expanded_url": "https://twitter.com/AsakuraAkari/status/1666748018228600837/photo/1",
+              "media_key": "3_1666748014554386433",
+              "start": 24,
+              "url": "https://t.co/XEhwMDva5i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1666748018228600837",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "对于音乐欣赏增强我的观点这个比什么药都管用（。 https://t.co/XEhwMDva5i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/SDSF3asurA"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1079485594818867200/OC7_w9RH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 373,
+          "listed_count": 2,
+          "tweet_count": 10550
+        },
+        "url": "https://t.co/SDSF3asurA",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2019-10-19T05:46:30.000Z",
+        "description": "请仔细阅读说明书并在医师指导下使用 | \n注意－医師等の処方箋により使用すること | \nPlease read the instruction carefully and use under the guidance of doctors",
+        "id": "1185431906436804608",
+        "location": "富士樹海",
+        "name": "对不起（退步bulid version",
+        "pinned_tweet_id": "1660970907228307457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1528335615074308097/bIgvz4YS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 853,
+          "listed_count": 1,
+          "tweet_count": 17968
+        },
+        "username": "AsakuraAkari",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1890632787801125324",
+    "created_at": "2025-02-15T17:15:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T18:15:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890812108561862881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1211879989995421696",
+          "start": 0,
+          "username": "medicagoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890812108561862881",
+    "in_reply_to_user_id": "1211879989995421696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890632787801125324",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@medicagoo 肝：親媽饒了我吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1890632787801125324",
+        "created_at": "2025-02-15T17:15:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T18:15:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890812108561862881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1211879989995421696",
+              "start": 0,
+              "username": "medicagoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890812108561862881",
+        "in_reply_to_user_id": "1211879989995421696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890632787801125324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@medicagoo 肝：親媽饒了我吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1890632780222218240"
+          ]
+        },
+        "author_id": "1211879989995421696",
+        "conversation_id": "1890632787801125324",
+        "created_at": "2025-02-15T05:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T06:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890632787801125324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Db5XaX9WyD",
+              "end": 53,
+              "expanded_url": "https://x.com/medicagoo/status/1890632787801125324/photo/1",
+              "media_key": "3_1890632780222218240",
+              "start": 30,
+              "url": "https://t.co/Db5XaX9WyD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890632787801125324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6604,
+          "like_count": 84,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "每天两片色谱龙。\n哪怕2025年了，照样有新yn重蹈覆辙。 https://t.co/Db5XaX9WyD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2541,
+          "following_count": 599,
+          "like_count": 44626,
+          "listed_count": 2,
+          "media_count": 1159,
+          "tweet_count": 22544
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-31T05:21:31.000Z",
+        "description": "MtF/X🍥，以前的念夏。 推文都是不过脑子的东西，没营养价值，不喜社交，不用回fo。 长期处于解离记忆很差意识恍惚。",
+        "id": "1211879989995421696",
+        "location": "大陆东部沿海多省乱跑",
+        "name": "🎀🍫芒芒萝萝橘橘草🌰",
+        "pinned_tweet_id": "1884057857014051005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867512981070000133/vV8gpQoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 1301,
+          "like_count": 6099,
+          "listed_count": 1,
+          "media_count": 61,
+          "tweet_count": 1584
+        },
+        "username": "medicagoo",
+        "verified": false
+      }
+    ]
+  }
+}

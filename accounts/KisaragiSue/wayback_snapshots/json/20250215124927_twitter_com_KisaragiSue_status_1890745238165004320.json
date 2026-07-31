@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1890644551037071859",
+    "created_at": "2025-02-15T12:49:27.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T13:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890745238165004320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1372184630753853444",
+          "start": 0,
+          "username": "2temisinin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890745238165004320",
+    "in_reply_to_user_id": "1372184630753853444",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890644551037071859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@2temisinin 抱抱，總之能出院就好呢……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1890644551037071859",
+        "created_at": "2025-02-15T12:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T13:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890745238165004320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1372184630753853444",
+              "start": 0,
+              "username": "2temisinin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890745238165004320",
+        "in_reply_to_user_id": "1372184630753853444",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890644551037071859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2temisinin 抱抱，總之能出院就好呢……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1372184630753853444",
+        "conversation_id": "1890644551037071859",
+        "created_at": "2025-02-15T06:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T07:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890644551037071859"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890644551037071859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2288,
+          "like_count": 64,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "最速出院\n不过吵架的时候手机被摔了\n回家还是烂摊子……\n嘛……感觉相比于其他人的经历……我好像挺胆小懦弱的吧……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2541,
+          "following_count": 599,
+          "like_count": 44598,
+          "listed_count": 2,
+          "media_count": 1159,
+          "tweet_count": 22538
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-17T13:54:56.000Z",
+        "description": "最爱@haku_dabai｜可以叫我鸮｜ MtF🏳️‍⚧️｜小证HRT 2024.10.20｜ Wuhan生科大一休学 ，业余药理学习中｜忠实的尼康用户、电台呼号BH6RQG｜彩虹六号、Noita、MC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "haku_dabai"
+              }
+            ]
+          }
+        },
+        "id": "1372184630753853444",
+        "location": "罗德岛",
+        "name": "氯鸮西泮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877945835163619329/HtDpkILh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1456,
+          "following_count": 1401,
+          "like_count": 24422,
+          "listed_count": 3,
+          "media_count": 132,
+          "tweet_count": 1769
+        },
+        "username": "2temisinin",
+        "verified": false
+      }
+    ]
+  }
+}

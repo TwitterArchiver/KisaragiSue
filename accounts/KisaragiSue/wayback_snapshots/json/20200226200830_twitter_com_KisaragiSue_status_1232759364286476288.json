@@ -1,0 +1,196 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Feb 26 20:08:30 +0000 2020",
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          44,
+          53
+        ],
+        "text": "nhk_news"
+      }
+    ],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "www3.nhk.or.jp/news/html/2020…",
+        "expanded_url": "https://www3.nhk.or.jp/news/html/20200227/k10012303331000.html",
+        "indices": [
+          54,
+          77
+        ],
+        "url": "https://t.co/2chLY5dSib"
+      }
+    ],
+    "user_mentions": [
+      {
+        "id": 204245399,
+        "id_str": "204245399",
+        "indices": [
+          3,
+          12
+        ],
+        "name": "NHKニュース",
+        "screen_name": "nhk_news"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1232759364286476288,
+  "id_str": "1232759364286476288",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "ja",
+  "place": null,
+  "possibly_sensitive": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Feb 26 19:42:02 +0000 2020",
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            30,
+            39
+          ],
+          "text": "nhk_news"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "www3.nhk.or.jp/news/html/2020…",
+          "expanded_url": "https://www3.nhk.or.jp/news/html/20200227/k10012303331000.html",
+          "indices": [
+            40,
+            63
+          ],
+          "url": "https://t.co/2chLY5dSib"
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorite_count": 50,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1232752702741811200,
+    "id_str": "1232752702741811200",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "ja",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 10,
+    "reply_count": 14,
+    "retweet_count": 50,
+    "retweeted": false,
+    "source": "<a href=\"http://www.nhk.or.jp/\" rel=\"nofollow\">NHK</a>",
+    "text": "新型コロナウイルスの検査体制 民間にも協力求め拡充へ 政府 #nhk_news https://t.co/2chLY5dSib",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Oct 18 08:15:29 +0000 2010",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 http://nhk.jp/rules をご確認、ご了承ください。問い合わせは http://www.nhk.or.jp/css/",
+      "favourites_count": 0,
+      "follow_request_sent": null,
+      "followers_count": 2801278,
+      "following": null,
+      "friends_count": 19,
+      "geo_enabled": false,
+      "id": 204245399,
+      "id_str": "204245399",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 61322,
+      "location": "東京都渋谷区神南2-2-1",
+      "name": "NHKニュース",
+      "notifications": null,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/204245399/1401946722",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/712261429701713920/mkdC8tNc_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/712261429701713920/mkdC8tNc_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "nhk_news",
+      "statuses_count": 436505,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://nhk.jp/news",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "text": "RT @nhk_news: 新型コロナウイルスの検査体制 民間にも協力求め拡充へ 政府 #nhk_news https://t.co/2chLY5dSib",
+  "timestamp_ms": "1582747710664",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sun Dec 30 21:04:56 +0000 2018",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。",
+    "favourites_count": 3189,
+    "follow_request_sent": null,
+    "followers_count": 320,
+    "following": null,
+    "friends_count": 286,
+    "geo_enabled": false,
+    "id": 1079483498686164992,
+    "id_str": "1079483498686164992",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 2,
+    "location": "Pluto",
+    "name": "如月 末",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1580893223",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1079485594818867200/OC7_w9RH_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079485594818867200/OC7_w9RH_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "KisaragiSue",
+    "statuses_count": 2108,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false
+  }
+}

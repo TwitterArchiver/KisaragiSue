@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2041542384660705580",
+    "created_at": "2026-04-07T22:03:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T23:03:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041638090666831988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1998791279350874112",
+          "start": 0,
+          "username": "Yamawuchimisaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041638090666831988",
+    "in_reply_to_user_id": "1998791279350874112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041542384660705580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yamawuchimisaki 药物滥用带来的问题比它能解决的问题多的多\n请三思"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2041542384660705580",
+        "created_at": "2026-04-07T22:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T23:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041638090666831988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1998791279350874112",
+              "start": 0,
+              "username": "Yamawuchimisaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041638090666831988",
+        "in_reply_to_user_id": "1998791279350874112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041542384660705580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamawuchimisaki 药物滥用带来的问题比它能解决的问题多的多\n请三思"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998791279350874112",
+        "conversation_id": "2041542384660705580",
+        "created_at": "2026-04-07T15:43:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T16:43:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041542384660705580"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041542384660705580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 590,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果OD右美沙芬普瑞巴林真的能缓解极度的精神痛苦\n我也去试试"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2517,
+          "following_count": 595,
+          "like_count": 44496,
+          "listed_count": 4,
+          "media_count": 1184,
+          "tweet_count": 23241
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-10T16:26:03.000Z",
+        "description": "She/Her/Female/Living in Shanghai/IELTS 8/JLPT N1/Traumatized by PRC/Liberalism/共産主義に断固反対/ 🇫🇮🇯🇵🇺🇦🇮🇱 。看得出，中国人的考妣在世时没有教育它们要文明礼貌😅 被你们中国人害成重度精神病，治疗中ing🖕",
+        "id": "1998791279350874112",
+        "location": "Shanghai",
+        "name": "Misaki Yamawuchi🇫🇮🇯🇵🇺🇦🇮🇱",
+        "pinned_tweet_id": "2040307822748197305",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041533227794624512/T7pfyUcl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1439,
+          "following_count": 614,
+          "like_count": 4892,
+          "listed_count": 5,
+          "media_count": 507,
+          "tweet_count": 3951
+        },
+        "username": "Yamawuchimisaki",
+        "verified": false
+      }
+    ]
+  }
+}

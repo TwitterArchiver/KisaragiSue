@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1892158278010065329",
+    "created_at": "2025-02-21T02:11:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-21T03:11:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892759119376851210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1863024822147809280",
+          "start": 0,
+          "username": "Moli_Lanxi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892759119376851210",
+    "in_reply_to_user_id": "1863024822147809280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1892158278010065329",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Moli_Lanxi 没必要把刻板印象强加于自己来尝试获得认同感。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1892158278010065329",
+        "created_at": "2025-02-21T02:11:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-21T03:11:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892759119376851210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1863024822147809280",
+              "start": 0,
+              "username": "Moli_Lanxi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892759119376851210",
+        "in_reply_to_user_id": "1863024822147809280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1892158278010065329",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moli_Lanxi 没必要把刻板印象强加于自己来尝试获得认同感。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863024822147809280",
+        "conversation_id": "1892158278010065329",
+        "created_at": "2025-02-19T10:24:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T11:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1892158278010065329"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1892158278010065329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 31,
+          "impression_count": 46645,
+          "like_count": 384,
+          "quote_count": 15,
+          "reply_count": 88,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "小药娘有的大多数特点在我身上都没有：无任何双相ADHD等心理疾病，不od，不爱打maimai，不切手，不喜欢说话带喵，不爱养猫，不喜欢在id或者头像等地方带上鱼板或者五色旗等标志，不涩涩，不需要门槛，不喜欢找人贴贴，不社恐，不内向自闭……我可能是个假的小药娘？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2535,
+          "following_count": 601,
+          "like_count": 44740,
+          "listed_count": 2,
+          "media_count": 1161,
+          "tweet_count": 22581
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T00:58:38.000Z",
+        "description": "98年的少女（永远都是刚满十八岁～）| 研二在读| mtf| hrt24.8.9 | 资深二次元，coser ，漫展糕手| 喜好jk和cos | 喜欢各地旅游见群友| 最喜欢結城さくな小姐了 | 不键政，不涩涩 | 最好的闺蜜兼姐姐是@Jw2325532",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Jw2325532"
+              }
+            ]
+          }
+        },
+        "id": "1863024822147809280",
+        "location": "是野怪，随机刷新",
+        "name": "茉莉",
+        "pinned_tweet_id": "1892718668615975401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1880781986975133696/FzwlfKFp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 159,
+          "like_count": 75,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 381
+        },
+        "username": "Moli_Lanxi",
+        "verified": false
+      }
+    ]
+  }
+}

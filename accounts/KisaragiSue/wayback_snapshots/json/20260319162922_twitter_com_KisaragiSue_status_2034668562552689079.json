@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2034552672796483611",
+    "created_at": "2026-03-19T16:29:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T17:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034668562552689079"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2012958305308565505",
+          "start": 0,
+          "username": "raindreamya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034668562552689079",
+    "in_reply_to_user_id": "2012958305308565505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034552672796483611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raindreamya 其实只不过是大数据推送变得更加智能了，你的人群标签也被更加精细的划分到了跨性别者。所以你能看到更多的同类人群。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2034552672796483611",
+        "created_at": "2026-03-19T16:29:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T17:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034668562552689079"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2012958305308565505",
+              "start": 0,
+              "username": "raindreamya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034668562552689079",
+        "in_reply_to_user_id": "2012958305308565505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034552672796483611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raindreamya 其实只不过是大数据推送变得更加智能了，你的人群标签也被更加精细的划分到了跨性别者。所以你能看到更多的同类人群。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012958305308565505",
+        "conversation_id": "2034552672796483611",
+        "created_at": "2026-03-19T08:48:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T09:48:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034552672796483611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034552672796483611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8966,
+          "like_count": 84,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感觉墙内xyn变多了（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2525,
+          "following_count": 593,
+          "like_count": 44500,
+          "listed_count": 4,
+          "media_count": 1184,
+          "tweet_count": 23232
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-18T18:41:01.000Z",
+        "description": "🏳️‍⚧️🍥暂时是只刚出炉的mtf喵~🍥🏳️‍⚧️\n🏳️‍⚧️生产日期10.3.5 | 无证含糖 | 🍬HRT 26.2.13 | 💥 26.3.2 炸柜 |「坐标江苏徐州」 |180cm 62kg  | ✈️全国可飞，路费不报销 | 匿名消息在instagram里问答喵👇",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/stories/raindr…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/stories/raindream35/3854226259014778232?utm_source=ig_story_item_share&igs",
+                "start": 0,
+                "url": "https://t.co/j9VYCr0i35"
+              }
+            ]
+          }
+        },
+        "id": "2012958305308565505",
+        "name": "雨梦🍥",
+        "pinned_tweet_id": "2033436042792169692",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030692046701473792/st46wcwq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 112,
+          "like_count": 229,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 197
+        },
+        "url": "https://t.co/j9VYCr0i35",
+        "username": "raindreamya",
+        "verified": false
+      }
+    ]
+  }
+}

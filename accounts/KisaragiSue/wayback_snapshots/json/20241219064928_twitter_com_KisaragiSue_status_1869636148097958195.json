@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1869636148097958195",
+    "created_at": "2024-12-19T06:49:28.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-19T07:49:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1869636148097958195"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2524054428",
+          "start": 3,
+          "username": "LuoSays"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1869636148097958195",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 284
+    },
+    "referenced_tweets": [
+      {
+        "id": "1869307487830077725",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LuoSays: 日本人最近开发了一个 SNS App，名字叫“对多”，主打伪中国语交流（即打破日语原有语序，只使用汉字组句对话）。现在很多日本用户甚至直接改用手写汉字输入法，因为他们发现直接手写比用日语输入法打汉字更加方便。… https://t.co/Em7j9jo…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1869636148097958195",
+        "created_at": "2024-12-19T06:49:28.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-19T07:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869636148097958195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2524054428",
+              "start": 3,
+              "username": "LuoSays"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869636148097958195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 284
+        },
+        "referenced_tweets": [
+          {
+            "id": "1869307487830077725",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LuoSays: 日本人最近开发了一个 SNS App，名字叫“对多”，主打伪中国语交流（即打破日语原有语序，只使用汉字组句对话）。现在很多日本用户甚至直接改用手写汉字输入法，因为他们发现直接手写比用日语输入法打汉字更加方便。… https://t.co/Em7j9jo…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1869307475855364096",
+            "3_1869307478518665216",
+            "3_1869307482071343105",
+            "3_1869307485254832128"
+          ]
+        },
+        "author_id": "2524054428",
+        "conversation_id": "1869307487830077725",
+        "created_at": "2024-12-18T09:03:29.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-18T10:03:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1869307487830077725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Em7j9joTvv",
+              "end": 129,
+              "expanded_url": "https://x.com/LuoSays/status/1869307487830077725/photo/1",
+              "media_key": "3_1869307475855364096",
+              "start": 106,
+              "url": "https://t.co/Em7j9joTvv"
+            },
+            {
+              "display_url": "pic.x.com/Em7j9joTvv",
+              "end": 129,
+              "expanded_url": "https://x.com/LuoSays/status/1869307487830077725/photo/1",
+              "media_key": "3_1869307478518665216",
+              "start": 106,
+              "url": "https://t.co/Em7j9joTvv"
+            },
+            {
+              "display_url": "pic.x.com/Em7j9joTvv",
+              "end": 129,
+              "expanded_url": "https://x.com/LuoSays/status/1869307487830077725/photo/1",
+              "media_key": "3_1869307482071343105",
+              "start": 106,
+              "url": "https://t.co/Em7j9joTvv"
+            },
+            {
+              "display_url": "pic.x.com/Em7j9joTvv",
+              "end": 129,
+              "expanded_url": "https://x.com/LuoSays/status/1869307487830077725/photo/1",
+              "media_key": "3_1869307485254832128",
+              "start": 106,
+              "url": "https://t.co/Em7j9joTvv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1869307487830077725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "日本人最近开发了一个 SNS App，名字叫“对多”，主打伪中国语交流（即打破日语原有语序，只使用汉字组句对话）。现在很多日本用户甚至直接改用手写汉字输入法，因为他们发现直接手写比用日语输入法打汉字更加方便。\n\n社区里大事小情包罗万象，你可以在里面发现大量搞笑帖子，尤其是那句“金玉激痛”，给我看笑了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 788,
+          "impression_count": 517125,
+          "like_count": 2005,
+          "quote_count": 71,
+          "reply_count": 179,
+          "retweet_count": 284
+        },
+        "reply_settings": "everyone",
+        "text": "日本人最近开发了一个 SNS App，名字叫“对多”，主打伪中国语交流（即打破日语原有语序，只使用汉字组句对话）。现在很多日本用户甚至直接改用手写汉字输入法，因为他们发现直接手写比用日语输入法打汉字更加方便。… https://t.co/Em7j9joTvv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2497,
+          "following_count": 584,
+          "like_count": 44244,
+          "listed_count": 1,
+          "media_count": 1152,
+          "tweet_count": 22334
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-26T03:49:28.000Z",
+        "description": "不信命的无名草莽创业者：\n- https://t.co/MNlf5lc1G3\n- https://t.co/KZEK3kuwNU\n\n主打从 0 到 1 冷启动的出海陪跑师：@chuhaiqu\n\n上过榜的 AI 音乐练习生：@LuoSuno\n\n分享优秀独立开发案例，推荐优质产品，探索一人公司 build in public 实践。\n\n私信开放，广结善缘，欢迎建联！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 86,
+                "username": "chuhaiqu"
+              },
+              {
+                "end": 119,
+                "start": 111,
+                "username": "LuoSuno"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "heyform.net",
+                "end": 38,
+                "expanded_url": "http://heyform.net",
+                "start": 15,
+                "url": "https://t.co/MNlf5lc1G3"
+              },
+              {
+                "display_url": "earlybird.im",
+                "end": 64,
+                "expanded_url": "http://earlybird.im",
+                "start": 41,
+                "url": "https://t.co/KZEK3kuwNU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "luosays.com",
+                "end": 23,
+                "expanded_url": "https://luosays.com",
+                "start": 0,
+                "url": "https://t.co/6ipqaTJp6m"
+              }
+            ]
+          }
+        },
+        "id": "2524054428",
+        "location": "404 Not Found",
+        "name": "Luo说不啰嗦",
+        "pinned_tweet_id": "1766977611773935914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735526136405434368/CgtbRyhq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22334,
+          "following_count": 577,
+          "like_count": 7077,
+          "listed_count": 285,
+          "media_count": 699,
+          "tweet_count": 11245
+        },
+        "url": "https://t.co/6ipqaTJp6m",
+        "username": "LuoSays",
+        "verified": true
+      }
+    ]
+  }
+}

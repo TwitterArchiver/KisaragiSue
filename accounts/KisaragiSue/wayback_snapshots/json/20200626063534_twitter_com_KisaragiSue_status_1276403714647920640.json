@@ -1,0 +1,349 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jun 26 06:35:34 +0000 2020",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "display_url": "pic.twitter.com/IzQuyEaBKj",
+        "expanded_url": "https://twitter.com/Kafuu_Chino_201/status/1276043983404191744/photo/1",
+        "id": 1276043977909628929,
+        "id_str": "1276043977909628929",
+        "indices": [
+          35,
+          58
+        ],
+        "media_url": "http://pbs.twimg.com/media/EbVrPLUUcAE3wLr.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EbVrPLUUcAE3wLr.jpg",
+        "sizes": {
+          "large": {
+            "h": 576,
+            "resize": "fit",
+            "w": 960
+          },
+          "medium": {
+            "h": 576,
+            "resize": "fit",
+            "w": 960
+          },
+          "small": {
+            "h": 408,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1276043983404191744,
+        "source_status_id_str": "1276043983404191744",
+        "source_user_id": 760252923087499264,
+        "source_user_id_str": "760252923087499264",
+        "type": "photo",
+        "url": "https://t.co/IzQuyEaBKj"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 760252923087499264,
+        "id_str": "760252923087499264",
+        "indices": [
+          3,
+          19
+        ],
+        "name": "チノ(Ｊ)",
+        "screen_name": "Kafuu_Chino_201"
+      },
+      {
+        "id": 1032476593,
+        "id_str": "1032476593",
+        "indices": [
+          21,
+          34
+        ],
+        "name": "きよ蔵🐘BOOTHにて新刊頒布中",
+        "screen_name": "kiyotan_1107"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "display_url": "pic.twitter.com/IzQuyEaBKj",
+        "expanded_url": "https://twitter.com/Kafuu_Chino_201/status/1276043983404191744/photo/1",
+        "id": 1276043977909628929,
+        "id_str": "1276043977909628929",
+        "indices": [
+          35,
+          58
+        ],
+        "media_url": "http://pbs.twimg.com/media/EbVrPLUUcAE3wLr.jpg",
+        "media_url_https": "https://pbs.twimg.com/media/EbVrPLUUcAE3wLr.jpg",
+        "sizes": {
+          "large": {
+            "h": 576,
+            "resize": "fit",
+            "w": 960
+          },
+          "medium": {
+            "h": 576,
+            "resize": "fit",
+            "w": 960
+          },
+          "small": {
+            "h": 408,
+            "resize": "fit",
+            "w": 680
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1276043983404191744,
+        "source_status_id_str": "1276043983404191744",
+        "source_user_id": 760252923087499264,
+        "source_user_id_str": "760252923087499264",
+        "type": "photo",
+        "url": "https://t.co/IzQuyEaBKj"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1276403714647920640,
+  "id_str": "1276403714647920640",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "und",
+  "place": null,
+  "possibly_sensitive": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Jun 25 06:46:08 +0000 2020",
+    "display_text_range": [
+      13,
+      13
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/IzQuyEaBKj",
+          "expanded_url": "https://twitter.com/Kafuu_Chino_201/status/1276043983404191744/photo/1",
+          "id": 1276043977909628929,
+          "id_str": "1276043977909628929",
+          "indices": [
+            14,
+            37
+          ],
+          "media_url": "http://pbs.twimg.com/media/EbVrPLUUcAE3wLr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EbVrPLUUcAE3wLr.jpg",
+          "sizes": {
+            "large": {
+              "h": 576,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 576,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 408,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/IzQuyEaBKj"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "id": 1032476593,
+          "id_str": "1032476593",
+          "indices": [
+            0,
+            13
+          ],
+          "name": "きよ蔵🐘BOOTHにて新刊頒布中",
+          "screen_name": "kiyotan_1107"
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/IzQuyEaBKj",
+          "expanded_url": "https://twitter.com/Kafuu_Chino_201/status/1276043983404191744/photo/1",
+          "id": 1276043977909628929,
+          "id_str": "1276043977909628929",
+          "indices": [
+            14,
+            37
+          ],
+          "media_url": "http://pbs.twimg.com/media/EbVrPLUUcAE3wLr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EbVrPLUUcAE3wLr.jpg",
+          "sizes": {
+            "large": {
+              "h": 576,
+              "resize": "fit",
+              "w": 960
+            },
+            "medium": {
+              "h": 576,
+              "resize": "fit",
+              "w": 960
+            },
+            "small": {
+              "h": 408,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/IzQuyEaBKj"
+        }
+      ]
+    },
+    "favorite_count": 12,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1276043983404191744,
+    "id_str": "1276043983404191744",
+    "in_reply_to_screen_name": "kiyotan_1107",
+    "in_reply_to_status_id": 1276025753264467968,
+    "in_reply_to_status_id_str": "1276025753264467968",
+    "in_reply_to_user_id": 1032476593,
+    "in_reply_to_user_id_str": "1032476593",
+    "is_quote_status": false,
+    "lang": "und",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 0,
+    "reply_count": 0,
+    "retweet_count": 3,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "text": "@kiyotan_1107 https://t.co/IzQuyEaBKj",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Aug 01 23:16:36 +0000 2016",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "ごちうさ好きの19歳の♂\n推しキャラは「チノ」🐰\n3期待ちきれん(੭˙꒳​˙)੭\nココチノ姉妹はサイコーだよねぇ〜(´∀｀)\n無言フォロー失礼するッス(๑• ̀ω•́๑)✧",
+      "favourites_count": 10738,
+      "follow_request_sent": null,
+      "followers_count": 95,
+      "following": null,
+      "friends_count": 309,
+      "geo_enabled": false,
+      "id": 760252923087499264,
+      "id_str": "760252923087499264",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 0,
+      "location": "心は2次元",
+      "name": "チノ(Ｊ)",
+      "notifications": null,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": "",
+      "profile_background_image_url_https": "",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/760252923087499264/1570288180",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/891944205215350784/5bV4ZA4c_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/891944205215350784/5bV4ZA4c_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "Kafuu_Chino_201",
+      "statuses_count": 3025,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "RT @Kafuu_Chino_201: @kiyotan_1107 https://t.co/IzQuyEaBKj",
+  "timestamp_ms": "1593153334663",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sun Dec 30 21:04:56 +0000 2018",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。",
+    "favourites_count": 15820,
+    "follow_request_sent": null,
+    "followers_count": 1049,
+    "following": null,
+    "friends_count": 358,
+    "geo_enabled": false,
+    "id": 1079483498686164992,
+    "id_str": "1079483498686164992",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 3,
+    "location": "Pluto",
+    "name": "如月 末",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1079485594818867200/OC7_w9RH_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079485594818867200/OC7_w9RH_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "KisaragiSue",
+    "statuses_count": 7301,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "http://kisaragi-workroom.site",
+    "utc_offset": null,
+    "verified": false
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Sat Feb 15 11:57:10 +0000 2020",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1228649449666183169,
+  "id_str": "1228649449666183169",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "ja",
+  "place": null,
+  "quote_count": 0,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Sat Feb 15 00:28:02 +0000 2020",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Fqj0ta6IHj",
+          "expanded_url": "https://twitter.com/fangshimin/status/1228476020828733440/photo/1",
+          "id": 1228476016852553733,
+          "id_str": "1228476016852553733",
+          "indices": [
+            37,
+            60
+          ],
+          "media_url": "http://pbs.twimg.com/media/EQxsbbeVUAU6UeE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EQxsbbeVUAU6UeE.jpg",
+          "sizes": {
+            "large": {
+              "h": 780,
+              "resize": "fit",
+              "w": 1080
+            },
+            "medium": {
+              "h": 780,
+              "resize": "fit",
+              "w": 1080
+            },
+            "small": {
+              "h": 491,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Fqj0ta6IHj"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "display_url": "pic.twitter.com/Fqj0ta6IHj",
+          "expanded_url": "https://twitter.com/fangshimin/status/1228476020828733440/photo/1",
+          "id": 1228476016852553733,
+          "id_str": "1228476016852553733",
+          "indices": [
+            37,
+            60
+          ],
+          "media_url": "http://pbs.twimg.com/media/EQxsbbeVUAU6UeE.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/EQxsbbeVUAU6UeE.jpg",
+          "sizes": {
+            "large": {
+              "h": 780,
+              "resize": "fit",
+              "w": 1080
+            },
+            "medium": {
+              "h": 780,
+              "resize": "fit",
+              "w": 1080
+            },
+            "small": {
+              "h": 491,
+              "resize": "fit",
+              "w": 680
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/Fqj0ta6IHj"
+        }
+      ]
+    },
+    "favorite_count": 263,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1228476020828733440,
+    "id_str": "1228476020828733440",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "zh",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 5,
+    "reply_count": 118,
+    "retweet_count": 53,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "钟南山公共场合戴口罩，去病房探望新冠肺炎患者反而没戴口罩，这是什么规范？ https://t.co/Fqj0ta6IHj",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Dec 30 14:24:21 +0000 2010",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "方舟子，本名方是民，科普作家，新语丝网站。",
+      "favourites_count": 1718,
+      "follow_request_sent": null,
+      "followers_count": 258083,
+      "following": null,
+      "friends_count": 44,
+      "geo_enabled": false,
+      "id": 232201624,
+      "id_str": "232201624",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 988,
+      "location": "California, USA",
+      "name": "方舟子",
+      "notifications": null,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/232201624/1480282070",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/526015624963555328/2-0WdMOV_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/526015624963555328/2-0WdMOV_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "fangshimin",
+      "statuses_count": 28912,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://www.xysblogs.org/fangzhouzi",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1228476020828733440,
+  "quoted_status_id_str": "1228476020828733440",
+  "quoted_status_permalink": {
+    "display": "twitter.com/fangshimin/sta…",
+    "expanded": "https://twitter.com/fangshimin/status/1228476020828733440",
+    "url": "https://t.co/D5GdfK2sUb"
+  },
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "作秀",
+  "timestamp_ms": "1581767830660",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sun Dec 30 21:04:56 +0000 2018",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。",
+    "favourites_count": 1024,
+    "follow_request_sent": null,
+    "followers_count": 87,
+    "following": null,
+    "friends_count": 210,
+    "geo_enabled": false,
+    "id": 1079483498686164992,
+    "id_str": "1079483498686164992",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 1,
+    "location": "Pluto",
+    "name": "如月 末",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1580893223",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1079485594818867200/OC7_w9RH_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079485594818867200/OC7_w9RH_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "KisaragiSue",
+    "statuses_count": 937,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false
+  }
+}

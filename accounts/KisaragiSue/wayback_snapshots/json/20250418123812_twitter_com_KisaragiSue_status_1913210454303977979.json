@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1912871164923326514",
+    "created_at": "2025-04-18T12:38:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T13:38:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913210454303977979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1495635928949616642",
+          "start": 0,
+          "username": "Meizakini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913210454303977979",
+    "in_reply_to_user_id": "1495635928949616642",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912871164923326514",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meizakini 特别能吃苦，所以就有吃不完的苦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1912871164923326514",
+        "created_at": "2025-04-18T12:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T13:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913210454303977979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1495635928949616642",
+              "start": 0,
+              "username": "Meizakini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913210454303977979",
+        "in_reply_to_user_id": "1495635928949616642",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912871164923326514",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meizakini 特别能吃苦，所以就有吃不完的苦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495635928949616642",
+        "conversation_id": "1912871164923326514",
+        "created_at": "2025-04-17T14:09:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T15:09:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912871164923326514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xxxx123yyy545/…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/xxxx123yyy545/status/1912038098822963666",
+              "start": 79,
+              "url": "https://t.co/1Hz1CjXkQY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912871164923326514",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6570,
+          "like_count": 112,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912038098822963666",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "东亚人吃的苦更多所以活下来的人也更能吃苦，所以呢？苦是不该吃的，不要比谁吃的苦多，不要比谁更能吃苦，也不要因为自己吃的苦更多就觉得别人矫情，我是这么觉得的。 https://t.co/1Hz1CjXkQY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2563,
+          "following_count": 608,
+          "like_count": 45774,
+          "listed_count": 4,
+          "media_count": 1172,
+          "tweet_count": 23029
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-21T05:46:25.000Z",
+        "description": "Trans girl | 女同单身中 | INFP | 常驻上海 | 178 cm | 物理 PhD 在读 | mston @meizakini@o3o.ca | tg@meizakini | 手术日记 https://t.co/mRGIEVmg7T | 小号@meizitsubaki | 小红书同名",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "meizitsubaki"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/meizaSRS",
+                "end": 125,
+                "expanded_url": "https://t.me/meizaSRS",
+                "start": 102,
+                "url": "https://t.co/mRGIEVmg7T"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "meiza.cc",
+                "end": 23,
+                "expanded_url": "https://meiza.cc",
+                "start": 0,
+                "url": "https://t.co/1ZyXkX11lS"
+              }
+            ]
+          }
+        },
+        "id": "1495635928949616642",
+        "location": "0.7 km",
+        "name": "Meiza",
+        "pinned_tweet_id": "1910995732263522787",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1909095447438000128/wnbRaCr0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4998,
+          "following_count": 1279,
+          "like_count": 21606,
+          "listed_count": 14,
+          "media_count": 663,
+          "tweet_count": 8043
+        },
+        "url": "https://t.co/1ZyXkX11lS",
+        "username": "Meizakini",
+        "verified": true
+      }
+    ]
+  }
+}

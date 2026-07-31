@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1882440708650602894",
+    "created_at": "2025-01-24T10:39:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-24T11:39:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1882739954973073493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1588890037474971649",
+          "start": 0,
+          "username": "Spartakist_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1882739954973073493",
+    "in_reply_to_user_id": "1588890037474971649",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1882466327870525884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Spartakist_ 再也不o了嗚嗚嗚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1882440708650602894",
+        "created_at": "2025-01-24T10:39:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-24T11:39:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882739954973073493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1588890037474971649",
+              "start": 0,
+              "username": "Spartakist_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882739954973073493",
+        "in_reply_to_user_id": "1588890037474971649",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882466327870525884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Spartakist_ 再也不o了嗚嗚嗚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588890037474971649",
+        "conversation_id": "1882440708650602894",
+        "created_at": "2025-01-23T16:32:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-23T17:32:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1882466327870525884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1079483498686164992",
+              "start": 0,
+              "username": "KisaragiSue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1882466327870525884",
+        "in_reply_to_user_id": "1079483498686164992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 52,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1882440708650602894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KisaragiSue 叫你o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2513,
+          "following_count": 583,
+          "like_count": 44283,
+          "listed_count": 2,
+          "media_count": 1155,
+          "tweet_count": 22364
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-05T13:44:48.000Z",
+        "description": "理想随风而逝，徒留你和我在废墟上苟活。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "peing.net/zh-TW/dekabris…",
+                "end": 23,
+                "expanded_url": "https://peing.net/zh-TW/dekabristqaq",
+                "start": 0,
+                "url": "https://t.co/8OQKM9gRt9"
+              }
+            ]
+          }
+        },
+        "id": "1588890037474971649",
+        "location": "Commune of Revachol",
+        "name": "Hibiki🏳‍⚧🍥💊清水版",
+        "pinned_tweet_id": "1848309895340413313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589948716022046723/T9Y0R1ea_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5866,
+          "following_count": 3622,
+          "like_count": 70659,
+          "listed_count": 16,
+          "media_count": 1749,
+          "tweet_count": 25359
+        },
+        "url": "https://t.co/8OQKM9gRt9",
+        "username": "Spartakist_",
+        "verified": false
+      }
+    ]
+  }
+}

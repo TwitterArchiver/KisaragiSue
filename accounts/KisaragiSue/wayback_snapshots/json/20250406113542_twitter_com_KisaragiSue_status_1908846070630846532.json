@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1908705210790195319",
+    "created_at": "2025-04-06T11:35:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-06T12:35:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1908846070630846532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1420072716963520520",
+          "start": 0,
+          "username": "meiqinyuban"
+        },
+        {
+          "end": 26,
+          "id": "1884959792390938624",
+          "start": 13,
+          "username": "mengqing8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1908846070630846532",
+    "in_reply_to_user_id": "1420072716963520520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1908805475455684613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meiqinyuban @mengqing8964 最可悲的是往往这些最低价最低端的下沉层商品反而是最畅销的。尤其是现在这个状况，很多人丢失了工作没了收入，从普通家庭返贫……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1908705210790195319",
+        "created_at": "2025-04-06T11:35:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T12:35:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908846070630846532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1420072716963520520",
+              "start": 0,
+              "username": "meiqinyuban"
+            },
+            {
+              "end": 26,
+              "id": "1884959792390938624",
+              "start": 13,
+              "username": "mengqing8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908846070630846532",
+        "in_reply_to_user_id": "1420072716963520520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908805475455684613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meiqinyuban @mengqing8964 最可悲的是往往这些最低价最低端的下沉层商品反而是最畅销的。尤其是现在这个状况，很多人丢失了工作没了收入，从普通家庭返贫……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1420072716963520520",
+        "conversation_id": "1908705210790195319",
+        "created_at": "2025-04-06T08:54:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-06T09:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1908805475455684613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1884959792390938624",
+              "start": 0,
+              "username": "mengqing8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1908805475455684613",
+        "in_reply_to_user_id": "1884959792390938624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1908705210790195319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengqing8964 低价电视，低价手机，低价的组装电脑，给很多低收入人群创造一扇可以浏览世界的窗口，减少文化代沟，如果不是这些低价商品，可能他们连很多信息都接触不到，评论区有很多买家为了商家几块钱的返利，晒出了自家不怎么样的环境，和组装起来歪歪扭扭的支架，如果不是生活所迫，谁会买这种低价商品呢？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2551,
+          "following_count": 606,
+          "like_count": 45385,
+          "listed_count": 3,
+          "media_count": 1169,
+          "tweet_count": 22894
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-27T17:25:17.000Z",
+        "description": "河北邯郸 中国CN/EN 双性恋 性别中立，娱乐级街机音游玩家/电子DIY， 把我当男的当女的都行 或许是男娘（？ 看到有营养或好看的帖子会转转，合得来的会回关，加咱QQ请私信奥",
+        "id": "1420072716963520520",
+        "location": "Handan Hebei China",
+        "name": "美琴御坂🏳️‍🌈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908806629270884352/fSDOVqtG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 153,
+          "like_count": 1210,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 1244
+        },
+        "username": "meiqinyuban",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-30T13:40:24.000Z",
+        "description": "11年出生的mtf哦🏳️‍⚧️（已出柜、未含糖）🥹/反战反侵略🇨🇳🇹🇼🇺🇦🇵🇸社会民主主义+温和民族主义＋全球主义🤔（反对极端主义）/中度抑郁（住院中）/infp/想和大家交朋友捏🥺同类会回fo🥰/stand with 🇹🇼/最好的妹妹鸭：@odelia21321",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 120,
+                "username": "odelia21321"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lisa8964",
+                "end": 23,
+                "expanded_url": "https://t.me/lisa8964",
+                "start": 0,
+                "url": "https://t.co/81dSoqDAA3"
+              }
+            ]
+          }
+        },
+        "id": "1884959792390938624",
+        "location": "Taipei City, Taiwan",
+        "name": "梦情🏳️‍⚧️",
+        "pinned_tweet_id": "1901510794690625774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908326418850996228/qdg_d-52_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 911,
+          "following_count": 721,
+          "like_count": 7480,
+          "listed_count": 3,
+          "media_count": 168,
+          "tweet_count": 3252
+        },
+        "url": "https://t.co/81dSoqDAA3",
+        "username": "mengqing8964",
+        "verified": true
+      }
+    ]
+  }
+}

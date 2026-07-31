@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1916846775991763421",
+    "created_at": "2025-04-29T09:19:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-29T10:19:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1917146789674983581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1882424383224029184",
+          "start": 0,
+          "username": "YuJian21145"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1917146789674983581",
+    "in_reply_to_user_id": "1882424383224029184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1916846775991763421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuJian21145 被强制住院了吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1916846775991763421",
+        "created_at": "2025-04-29T09:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-29T10:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1917146789674983581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1882424383224029184",
+              "start": 0,
+              "username": "YuJian21145"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1917146789674983581",
+        "in_reply_to_user_id": "1882424383224029184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1916846775991763421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuJian21145 被强制住院了吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882424383224029184",
+        "conversation_id": "1916846775991763421",
+        "created_at": "2025-04-28T13:27:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-28T14:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916846775991763421"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1916846775991763421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2491,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "共价键对我来说，是相当重要的朋友，我最开始上推，我只是一个人发癫，直到遇到了共价键，她发了一个求助贴，没有人回复，我打算帮她，我转发那个帖子，并且试图找救助者帮她，我成功了，我认识到了救助者，救助者也去联系了共价键，从此，我开始当中介，转发那些跨性别求助贴并联系救助者。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2579,
+          "following_count": 615,
+          "like_count": 46048,
+          "listed_count": 4,
+          "media_count": 1175,
+          "tweet_count": 23160
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T13:45:41.000Z",
+        "description": "看不见我，看不见我(〜￣▽￣)〜",
+        "id": "1882424383224029184",
+        "name": "yoyo🏳️‍⚧️",
+        "pinned_tweet_id": "1916084153499472144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890682663452782592/khG4x7fZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 282,
+          "like_count": 2160,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 549
+        },
+        "username": "YuJian21145",
+        "verified": false
+      }
+    ]
+  }
+}

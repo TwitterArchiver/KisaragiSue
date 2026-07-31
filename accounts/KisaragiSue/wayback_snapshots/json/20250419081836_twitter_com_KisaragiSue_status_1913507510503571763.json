@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1913112864979837301",
+    "created_at": "2025-04-19T08:18:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T09:18:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913507510503571763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1244865662142447617",
+          "start": 0,
+          "username": "Hatsushigure_c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913507510503571763",
+    "in_reply_to_user_id": "1244865662142447617",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913112864979837301",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hatsushigure_c 国内精神科医生什么妖魔鬼怪都有，混日子加老保多的是……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1913112864979837301",
+        "created_at": "2025-04-19T08:18:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T09:18:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913507510503571763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1244865662142447617",
+              "start": 0,
+              "username": "Hatsushigure_c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913507510503571763",
+        "in_reply_to_user_id": "1244865662142447617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913112864979837301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hatsushigure_c 国内精神科医生什么妖魔鬼怪都有，混日子加老保多的是……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1244865662142447617",
+        "conversation_id": "1913112864979837301",
+        "created_at": "2025-04-18T06:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T07:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913112864979837301"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913112864979837301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 17908,
+          "like_count": 282,
+          "quote_count": 1,
+          "reply_count": 25,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "今天陪着糯米去精卫，医生问我俩关系\n：你们是性伴侣吗\n我：？\n：是同性恋吗\n我：不是，我是跨女\n：什么是跨女\n糯米：就是生理上是男性…（没说完）\n：那就是同性恋了，跨性别分同性恋和双性恋，你这就是同性恋\n……\n整个给我无语住了，这傻逼怎么好意思在这干的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2566,
+          "following_count": 609,
+          "like_count": 45830,
+          "listed_count": 4,
+          "media_count": 1172,
+          "tweet_count": 23051
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-31T05:54:45.000Z",
+        "description": "持证含糖 MtF | HRT 2024.3.5 | 天残党 | 家暴党 | 焦虑 | INFP-T | 同类互 fo | 废物 | 拖延症 | 伪音学习中 | 日常发情 | 老公 @QED05107807 | PM https://t.co/pyZlODsSJf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 90,
+                "username": "QED05107807"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ShigureForward…",
+                "end": 131,
+                "expanded_url": "https://t.me/ShigureForwardBot",
+                "start": 108,
+                "url": "https://t.co/pyZlODsSJf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.hatsushigure.shop",
+                "end": 23,
+                "expanded_url": "https://blog.hatsushigure.shop",
+                "start": 0,
+                "url": "https://t.co/fXZJPL8mf7"
+              }
+            ]
+          }
+        },
+        "id": "1244865662142447617",
+        "location": "二次元",
+        "name": "初時雨🍥",
+        "pinned_tweet_id": "1809846871785107896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830464990702419968/ynXWslRp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1268,
+          "following_count": 740,
+          "like_count": 20389,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 2485
+        },
+        "url": "https://t.co/fXZJPL8mf7",
+        "username": "Hatsushigure_c",
+        "verified": false
+      }
+    ]
+  }
+}

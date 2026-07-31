@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1820028040828825742",
+    "created_at": "2024-08-06T02:41:35.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-06T03:41:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820651405742641182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1804587925805596672",
+          "start": 0,
+          "username": "OverSpeed_Wiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820651405742641182",
+    "in_reply_to_user_id": "1804587925805596672",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820028040828825742",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OverSpeed_Wiki pri80不至于因为这个不管"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1820028040828825742",
+        "created_at": "2024-08-06T02:41:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T03:41:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820651405742641182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1804587925805596672",
+              "start": 0,
+              "username": "OverSpeed_Wiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820651405742641182",
+        "in_reply_to_user_id": "1804587925805596672",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820028040828825742",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OverSpeed_Wiki pri80不至于因为这个不管"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804587925805596672",
+        "conversation_id": "1820028040828825742",
+        "created_at": "2024-08-04T09:24:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-04T10:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820028040828825742"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1820028040828825742",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 47515,
+          "like_count": 304,
+          "quote_count": 7,
+          "reply_count": 34,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "小道消息：上层里面有些老人需要普瑞止痛，所以开绿灯，短期内不会禁，媒体也很少吱声。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n非二元性别认同\n性別のことは男と女だけではない！🍥\nta、她、他均可\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n@Misaka0032 老公……\n元ルーマニア共産党書記長ニコラエ・チャウシェスクさんが大好き💕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "chaye621"
+              },
+              {
+                "end": 98,
+                "start": 84,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2487,
+          "following_count": 594,
+          "like_count": 45054,
+          "listed_count": 2,
+          "tweet_count": 22252
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-22T18:51:15.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "overspeed.wiki/about/",
+                "end": 23,
+                "expanded_url": "https://overspeed.wiki/about/",
+                "start": 0,
+                "url": "https://t.co/tnegj5Lbot"
+              }
+            ]
+          }
+        },
+        "id": "1804587925805596672",
+        "location": "白云山右美沙芬制药厂",
+        "name": "OverSpeed Wiki",
+        "pinned_tweet_id": "1810253570194976859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806463087572393984/YX1f9713_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1111,
+          "following_count": 380,
+          "like_count": 4260,
+          "listed_count": 0,
+          "tweet_count": 1136
+        },
+        "url": "https://t.co/tnegj5Lbot",
+        "username": "OverSpeed_Wiki",
+        "verified": false
+      }
+    ]
+  }
+}

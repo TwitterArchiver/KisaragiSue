@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1978771716806426682",
+    "created_at": "2025-10-18T00:53:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-18T01:53:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1979350167678783768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1817584080437014528",
+          "start": 0,
+          "username": "N552AA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1979350167678783768",
+    "in_reply_to_user_id": "1817584080437014528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978771716806426682",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N552AA 这什么缘分"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1978771709068296192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3YCYqqbwAALwt9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1978771716806426682",
+        "created_at": "2025-10-18T00:53:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-18T01:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1979350167678783768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1817584080437014528",
+              "start": 0,
+              "username": "N552AA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979350167678783768",
+        "in_reply_to_user_id": "1817584080437014528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978771716806426682",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N552AA 这什么缘分"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978771709068296192"
+          ]
+        },
+        "author_id": "1817584080437014528",
+        "conversation_id": "1978771716806426682",
+        "created_at": "2025-10-16T10:35:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T11:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978771716806426682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/J40iRqNoSv",
+              "end": 34,
+              "expanded_url": "https://x.com/N552AA/status/1978771716806426682/photo/1",
+              "media_key": "3_1978771709068296192",
+              "start": 11,
+              "url": "https://t.co/J40iRqNoSv"
+            },
+            {
+              "display_url": "x.com/N552AA/status/…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/N552AA/status/1978412221974585459",
+              "start": 35,
+              "url": "https://t.co/uAtiB1VqIh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978771716806426682",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 95460,
+          "like_count": 361,
+          "quote_count": 8,
+          "reply_count": 70,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978412221974585459",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "算了直接官宣\n谈上了 https://t.co/J40iRqNoSv https://t.co/uAtiB1VqIh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2571,
+          "following_count": 602,
+          "like_count": 45514,
+          "listed_count": 4,
+          "media_count": 1182,
+          "tweet_count": 23209
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-28T15:33:18.000Z",
+        "description": "08/MTX（f?/ENTP-T/家长吓坏党/ADHD/BPD/断续含糖/坐标上海/有小证/抱抱最最可爱的姐姐: @yizhikapaiqaq 妈妈：@bolichara0 主人：@yumekaayumi @nahida_miao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 71,
+                "start": 57,
+                "username": "yizhikapaiqaq"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "bolichara0"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "yumekaayumi"
+              },
+              {
+                "end": 115,
+                "start": 103,
+                "username": "nahida_miao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/zkiZZtLQUz"
+              }
+            ]
+          }
+        },
+        "id": "1817584080437014528",
+        "location": "参宿四",
+        "name": "N552AA🍥🍜🍣🍕💊🍰🥥",
+        "pinned_tweet_id": "1953496186738069992",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927899559306612736/St9dcsoX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1410,
+          "following_count": 958,
+          "like_count": 3573,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 1274
+        },
+        "url": "https://t.co/zkiZZtLQUz",
+        "username": "N552AA",
+        "verified": false
+      }
+    ]
+  }
+}

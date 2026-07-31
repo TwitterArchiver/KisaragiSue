@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1887161614862012461",
+    "created_at": "2025-02-06T07:07:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-06T08:07:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887397564959584310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1451422182614069251",
+          "start": 0,
+          "username": "DavariT72"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887397564959584310",
+    "in_reply_to_user_id": "1451422182614069251",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887161614862012461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DavariT72 晚安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1887161614862012461",
+        "created_at": "2025-02-06T07:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-06T08:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887397564959584310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1451422182614069251",
+              "start": 0,
+              "username": "DavariT72"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887397564959584310",
+        "in_reply_to_user_id": "1451422182614069251",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887161614862012461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DavariT72 晚安"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_1887161600874106880"
+          ]
+        },
+        "author_id": "1451422182614069251",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1887161614862012461",
+        "created_at": "2025-02-05T15:29:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-05T16:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887161614862012461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OI9CrsCPnj",
+              "end": 86,
+              "expanded_url": "https://x.com/DavariT72/status/1887161614862012461/photo/1",
+              "media_key": "16_1887161600874106880",
+              "start": 63,
+              "url": "https://t.co/OI9CrsCPnj"
+            },
+            {
+              "display_url": "x.com/dfdtc7/status/…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/dfdtc7/status/1887062065833263133",
+              "start": 87,
+              "url": "https://t.co/SjCgc6v8xE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887161614862012461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6527,
+          "like_count": 122,
+          "quote_count": 3,
+          "reply_count": 20,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887062065833263133",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "抗癌斗士思函，因罹患白血病，其一直积极治疗。\n后并发症较多，于今天紫砂离世🙏\n希望她不再痛苦，在另一个世界开心的活着！RIP https://t.co/OI9CrsCPnj https://t.co/SjCgc6v8xE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2514,
+          "following_count": 587,
+          "like_count": 44372,
+          "listed_count": 2,
+          "media_count": 1155,
+          "tweet_count": 22411
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-22T05:36:37.000Z",
+        "description": "欢迎来到我的主页，可爱的肥橘猫(178，MTF抖m，k6k8，植物科普\n含糖天残党/已嘎蛋HRT起始日(2022/5/24)。欢迎同类贴贴(´｡✪ω✪｡，有时会难过崩溃，可能会重开。身体状况差，不在线请见谅，爱吃水果!热爱植物\n成分（40%可爱+20%焦虑+30%烟花和水果+2%雌二醇+8%抑郁",
+        "id": "1451422182614069251",
+        "location": "Peñamellera Baja, Españ",
+        "name": "水果甜野猫~😋🥑🐱",
+        "pinned_tweet_id": "1574387867362545664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1638112105386905600/tQG19HFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41664,
+          "following_count": 1646,
+          "like_count": 69609,
+          "listed_count": 43,
+          "media_count": 3383,
+          "tweet_count": 47025
+        },
+        "username": "DavariT72",
+        "verified": false
+      }
+    ]
+  }
+}

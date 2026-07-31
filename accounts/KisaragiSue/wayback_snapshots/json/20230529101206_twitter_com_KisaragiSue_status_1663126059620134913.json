@@ -1,0 +1,252 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Sociology",
+          "id": "1088163371365482496",
+          "name": "Sociology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "1662893887395102720",
+    "created_at": "2023-05-29T10:12:06.000Z",
+    "edit_controls": {
+      "editable_until": "2023-05-29T10:42:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1663126059620134913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "880389073281536000",
+          "start": 0,
+          "username": "AyagawaSeirin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1663126059620134913",
+    "in_reply_to_user_id": "880389073281536000",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1662893887395102720",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyagawaSeirin 自然语言是指着社会学概念的天然演进形成的语言，可以在文化类群上追溯源头。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sociology",
+              "id": "1088163371365482496",
+              "name": "Sociology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "1662893887395102720",
+        "created_at": "2023-05-29T10:12:06.000Z",
+        "edit_controls": {
+          "editable_until": "2023-05-29T10:42:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1663126059620134913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "880389073281536000",
+              "start": 0,
+              "username": "AyagawaSeirin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1663126059620134913",
+        "in_reply_to_user_id": "880389073281536000",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1662893887395102720",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyagawaSeirin 自然语言是指着社会学概念的天然演进形成的语言，可以在文化类群上追溯源头。"
+      },
+      {
+        "attachments": {},
+        "author_id": "880389073281536000",
+        "conversation_id": "1662893887395102720",
+        "created_at": "2023-05-28T18:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2023-05-28T19:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1662893887395102720"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1662893887395102720",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "impression_count": 9882,
+          "like_count": 93,
+          "quote_count": 1,
+          "reply_count": 20,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为什么世界语是人造语言，难道汉语，英语这些不是人造的吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/SDSF3asurA"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1079485594818867200/OC7_w9RH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1009,
+          "following_count": 361,
+          "listed_count": 2,
+          "tweet_count": 9976
+        },
+        "url": "https://t.co/SDSF3asurA",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-29T11:34:46.000Z",
+        "description": "女大 | 网络安全菜鸡 | 生活西化中 | 🏳️‍⚧️ TransFem 🏳️‍🌈 | 术后保养中 | 她/she/her | 💙💛 | #TransRight | ❤️ @chenranjun",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 69,
+                "tag": "TransRight"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 97,
+                "start": 86,
+                "username": "chenranjun"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/rinrinmoe",
+                "end": 23,
+                "expanded_url": "http://t.me/rinrinmoe",
+                "start": 0,
+                "url": "https://t.co/LAkp1XLefs"
+              }
+            ]
+          }
+        },
+        "id": "880389073281536000",
+        "location": "HongKong",
+        "name": "綾川星凛",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1431224826807480325/0dvM3Zgw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20436,
+          "following_count": 462,
+          "listed_count": 59,
+          "tweet_count": 6263
+        },
+        "url": "https://t.co/LAkp1XLefs",
+        "username": "AyagawaSeirin",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1790211983943594270",
+    "created_at": "2024-05-14T02:46:12.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-14T03:46:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1790211983943594270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "705777407794352129",
+          "start": 3,
+          "username": "ServalCandle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1790211983943594270",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1789976963865600496",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ServalCandle: 咴咴发生这种事情我真的很难受\n\n然后刚才和家里说了咴咴的事情\n\n家里帮笨猫分析了一下，觉得咴咴如果想跑回加拿大肯定是可以办到的…\n\n所以觉得她并没有走到绝路\n\n但是怕她因为和家里彻底闹掰，失去希望选择自杀…\n\n笨猫现在就很怕…\n\n说回来，有Y…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1790211983943594270",
+        "created_at": "2024-05-14T02:46:12.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-14T03:46:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1790211983943594270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "705777407794352129",
+              "start": 3,
+              "username": "ServalCandle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1790211983943594270",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1789976963865600496",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ServalCandle: 咴咴发生这种事情我真的很难受\n\n然后刚才和家里说了咴咴的事情\n\n家里帮笨猫分析了一下，觉得咴咴如果想跑回加拿大肯定是可以办到的…\n\n所以觉得她并没有走到绝路\n\n但是怕她因为和家里彻底闹掰，失去希望选择自杀…\n\n笨猫现在就很怕…\n\n说回来，有Y…"
+      },
+      {
+        "attachments": {},
+        "author_id": "705777407794352129",
+        "conversation_id": "1789976963865600496",
+        "created_at": "2024-05-13T11:12:19.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-13T12:12:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1789976963865600496"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1789976963865600496",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 15527,
+          "like_count": 68,
+          "quote_count": 3,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "咴咴发生这种事情我真的很难受\n\n然后刚才和家里说了咴咴的事情\n\n家里帮笨猫分析了一下，觉得咴咴如果想跑回加拿大肯定是可以办到的…\n\n所以觉得她并没有走到绝路\n\n但是怕她因为和家里彻底闹掰，失去希望选择自杀…\n\n笨猫现在就很怕…\n\n说回来，有Yumi和咴咴的教训，你们这些在加拿大的跨还敢回中国？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n非二元性别认同\n性別のことは男と女だけではない！🍥\nta、她、他均可\n @chaye621 最爱的妹妹……\n@SuperREEgo 老公……\n元ルーマニア共産党書記長ニコラエ・チャウシェスクさんが大好き💕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "chaye621"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "SuperREEgo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775887241187061760/DeLnaVEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2528,
+          "following_count": 600,
+          "like_count": 45309,
+          "listed_count": 2,
+          "tweet_count": 22117
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2016-03-04T15:30:21.000Z",
+        "description": "多倫多警方的六項刑事指控，說了六次我因為過於可愛導致犯罪(⁠・⁠–⁠・⁠;⁠)⁠ゞ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.servalcandle.com",
+                "end": 23,
+                "expanded_url": "https://blog.servalcandle.com/",
+                "start": 0,
+                "url": "https://t.co/PBHqsUWnyu"
+              }
+            ]
+          }
+        },
+        "id": "705777407794352129",
+        "location": "喵拿大 /  Meownada 🧋",
+        "name": "🧶サーバル キャンドル🦈🎋",
+        "pinned_tweet_id": "1775562492493566112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752428846102597632/s3e8RaIs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29504,
+          "following_count": 348,
+          "like_count": 224027,
+          "listed_count": 106,
+          "tweet_count": 45305
+        },
+        "url": "https://t.co/PBHqsUWnyu",
+        "username": "ServalCandle",
+        "verified": true
+      }
+    ]
+  }
+}

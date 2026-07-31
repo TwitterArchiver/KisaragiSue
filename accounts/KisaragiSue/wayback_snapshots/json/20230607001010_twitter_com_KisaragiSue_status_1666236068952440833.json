@@ -1,0 +1,191 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1666130227721019392",
+    "created_at": "2023-06-07T00:10:10.000Z",
+    "edit_controls": {
+      "editable_until": "2023-06-07T01:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1666236068952440833"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1479811966503772160",
+          "start": 0,
+          "username": "funwinn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1666236068952440833",
+    "in_reply_to_user_id": "1479811966503772160",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1666130227721019392",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@funwinn 创持，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1666130227721019392",
+        "created_at": "2023-06-07T00:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2023-06-07T01:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1666236068952440833"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1479811966503772160",
+              "start": 0,
+              "username": "funwinn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1666236068952440833",
+        "in_reply_to_user_id": "1479811966503772160",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1666130227721019392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@funwinn 创持，，，"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1666130208225902592"
+          ]
+        },
+        "author_id": "1479811966503772160",
+        "conversation_id": "1666130227721019392",
+        "created_at": "2023-06-06T17:09:36.000Z",
+        "edit_controls": {
+          "editable_until": "2023-06-06T18:09:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1666130227721019392"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/uu2JZVmIWA",
+              "end": 31,
+              "expanded_url": "https://twitter.com/funwinn/status/1666130227721019392/photo/1",
+              "media_key": "3_1666130208225902592",
+              "start": 8,
+              "url": "https://t.co/uu2JZVmIWA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1666130227721019392",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4064,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "半夜请大家喝粥 https://t.co/uu2JZVmIWA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/SDSF3asurA"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1079485594818867200/OC7_w9RH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1035,
+          "following_count": 373,
+          "listed_count": 2,
+          "tweet_count": 10432
+        },
+        "url": "https://t.co/SDSF3asurA",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-08T13:47:42.000Z",
+        "description": "我是一个巨型坦克牲口 Just Funny Winnie (Funwinn)",
+        "id": "1479811966503772160",
+        "location": "一个不为人知地方",
+        "name": "Funny Winnie",
+        "pinned_tweet_id": "1597634648246394880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1567126036852408320/kR11QTEC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8230,
+          "following_count": 736,
+          "listed_count": 30,
+          "tweet_count": 40131
+        },
+        "username": "funwinn",
+        "verified": false
+      }
+    ]
+  }
+}

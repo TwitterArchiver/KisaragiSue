@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1913281115772932127",
+    "created_at": "2025-04-19T08:31:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T09:31:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913510856727691562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1769742689514455040",
+          "start": 0,
+          "username": "HzShibari86"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913510856727691562",
+    "in_reply_to_user_id": "1769742689514455040",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913281115772932127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HzShibari86 羡慕被绑哭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1913281115772932127",
+        "created_at": "2025-04-19T08:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T09:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913510856727691562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1769742689514455040",
+              "start": 0,
+              "username": "HzShibari86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913510856727691562",
+        "in_reply_to_user_id": "1769742689514455040",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913281115772932127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HzShibari86 羡慕被绑哭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1769742689514455040",
+        "conversation_id": "1913281115772932127",
+        "created_at": "2025-04-18T17:18:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T18:18:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913281115772932127"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1913281115772932127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5805,
+          "like_count": 63,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天第一次把人绑哭了，不知道该是喜报还是悲报(挠头)\n\n不过也是头一次体验到了责绳的快乐(?)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2566,
+          "following_count": 609,
+          "like_count": 45841,
+          "listed_count": 4,
+          "media_count": 1172,
+          "tweet_count": 23056
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-18T15:08:37.000Z",
+        "description": "这里是燃～\n是一只爱哭爱闹爱说爱笑的家养刺猬～\n疯疯癫癫的馋嘴吃货～抽象乐子人~\n主人: @TarsMark2\n老婆: @Bismark_fmpire \n宠物: @Vincy1230 \n绳缚号: @HzShibari\n不存在的小号: @HzShibari404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 45,
+                "username": "TarsMark2"
+              },
+              {
+                "end": 75,
+                "start": 60,
+                "username": "Bismark_fmpire"
+              },
+              {
+                "end": 91,
+                "start": 81,
+                "username": "Vincy1230"
+              },
+              {
+                "end": 108,
+                "start": 98,
+                "username": "HzShibari"
+              },
+              {
+                "end": 130,
+                "start": 117,
+                "username": "HzShibari404"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hzshibari86",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hzshibari86",
+                "start": 0,
+                "url": "https://t.co/td3HIYM3kY"
+              }
+            ]
+          }
+        },
+        "id": "1769742689514455040",
+        "location": "沃陆之邦",
+        "name": "燃",
+        "pinned_tweet_id": "1909926830431420448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1906881687742758912/CUCwn8jx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2126,
+          "following_count": 329,
+          "like_count": 8866,
+          "listed_count": 2,
+          "media_count": 955,
+          "tweet_count": 3612
+        },
+        "url": "https://t.co/td3HIYM3kY",
+        "username": "HzShibari86",
+        "verified": false
+      }
+    ]
+  }
+}

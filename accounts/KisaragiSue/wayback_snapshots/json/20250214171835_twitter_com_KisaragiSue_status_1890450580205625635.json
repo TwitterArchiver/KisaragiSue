@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1889890226329571831",
+    "created_at": "2025-02-14T17:18:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-14T18:18:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890450580205625635"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1516428117161689091",
+          "start": 0,
+          "username": "MiaoShenXiuSi"
+        },
+        {
+          "end": 27,
+          "id": "1866050038088024064",
+          "start": 15,
+          "username": "123456wwerr"
+        },
+        {
+          "end": 37,
+          "id": "1831588382159597571",
+          "start": 28,
+          "username": "SNK_LEIN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890450580205625635",
+    "in_reply_to_user_id": "1516428117161689091",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890038760269853121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MiaoShenXiuSi @123456wwerr @SNK_LEIN 不許！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1889890226329571831",
+        "created_at": "2025-02-14T17:18:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-14T18:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890450580205625635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1516428117161689091",
+              "start": 0,
+              "username": "MiaoShenXiuSi"
+            },
+            {
+              "end": 27,
+              "id": "1866050038088024064",
+              "start": 15,
+              "username": "123456wwerr"
+            },
+            {
+              "end": 37,
+              "id": "1831588382159597571",
+              "start": 28,
+              "username": "SNK_LEIN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890450580205625635",
+        "in_reply_to_user_id": "1516428117161689091",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890038760269853121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiaoShenXiuSi @123456wwerr @SNK_LEIN 不許！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516428117161689091",
+        "conversation_id": "1889890226329571831",
+        "created_at": "2025-02-13T14:02:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T15:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890038760269853121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866050038088024064",
+              "start": 0,
+              "username": "123456wwerr"
+            },
+            {
+              "end": 22,
+              "id": "1831588382159597571",
+              "start": 13,
+              "username": "SNK_LEIN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890038760269853121",
+        "in_reply_to_user_id": "1866050038088024064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 169,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890038149952458778",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123456wwerr @SNK_LEIN 这不跟我一样，生活太苦了，天天哭，天天抑郁躯体化痛苦，痛苦得痛哭/想跳楼自s，跳楼大概是我最终的宿命吧。\n\n不过亚硝酸钠车票也不错考虑一下。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2537,
+          "following_count": 598,
+          "like_count": 44566,
+          "listed_count": 2,
+          "media_count": 1159,
+          "tweet_count": 22528
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-19T14:48:04.000Z",
+        "description": "女大大一/双性恋跨女/童意识19雌二醇20泰蔡达武变女性术喉结术/废物穷鬼没闺蜜男友爱/通模难久残废跨女无法骄傲/天赋党母亲党父家暴/脸好看女相女嗓260Hz无伪音/学金融/过期JK/喜欢可爱/凝胶猫猫求求买衣服叭/民主自由人权福利/微键政不爆照/167/55/80A好小呜/39码/沙漏型/抑郁症哭泣/吾将死勿fo",
+        "id": "1516428117161689091",
+        "location": "深圳～喵～",
+        "name": "喵喵～快润🍁或快跳L！",
+        "pinned_tweet_id": "1888896524958183547",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1829205405588959236/dsr23eTn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4082,
+          "following_count": 426,
+          "like_count": 66115,
+          "listed_count": 12,
+          "media_count": 753,
+          "tweet_count": 32298
+        },
+        "username": "MiaoShenXiuSi",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T09:19:43.000Z",
+        "description": "悲观主义者",
+        "id": "1866050038088024064",
+        "location": "Hokkaidō, Japan",
+        "name": "荻原沙优",
+        "pinned_tweet_id": "1886412746863808969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873386768524836864/dTJUI6I0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 142,
+          "like_count": 21312,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 4776
+        },
+        "username": "123456wwerr",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-05T07:01:27.000Z",
+        "description": "是一只持证含糖のxyn｜hrt：2024.04.05｜是某个人的影子，作为影子存在着｜希望每个人都能珍惜自己，并且被珍惜｜纯家暴党｜离家出走准备中｜srs准备中",
+        "id": "1831588382159597571",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "𝒦𝓁ℯ𝒾𝓃 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852803222244831232/Lp3xy29x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 35,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 34
+        },
+        "username": "SNK_LEIN",
+        "verified": false
+      }
+    ]
+  }
+}

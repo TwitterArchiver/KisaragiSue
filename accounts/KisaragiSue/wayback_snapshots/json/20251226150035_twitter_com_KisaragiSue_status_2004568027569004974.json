@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2004568027569004974",
+    "created_at": "2025-12-26T15:00:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T16:00:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2004568027569004974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ayawo11_/statu…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/ayawo11_/status/2004125877127589962",
+          "start": 3,
+          "url": "https://t.co/l311IefQK1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004568027569004974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004125877127589962",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "确实 https://t.co/l311IefQK1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2004568027569004974",
+        "created_at": "2025-12-26T15:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T16:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004568027569004974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayawo11_/statu…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/ayawo11_/status/2004125877127589962",
+              "start": 3,
+              "url": "https://t.co/l311IefQK1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004568027569004974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004125877127589962",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "确实 https://t.co/l311IefQK1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697158457450012672",
+        "conversation_id": "2004125877127589962",
+        "created_at": "2025-12-25T09:43:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-25T10:43:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004125877127589962"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004125877127589962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 17780,
+          "like_count": 477,
+          "quote_count": 7,
+          "reply_count": 10,
+          "retweet_count": 58
+        },
+        "reply_settings": "everyone",
+        "text": "2023年年底：\n今年真是太恶心了，明年一定会更好的！\n2024年年底：\n今年真是太恶心了，明年一定会更好的！ ​\n2025年年底：\n今年真是太恶心了，明年一定会更恶心的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2550,
+          "following_count": 595,
+          "like_count": 44645,
+          "listed_count": 4,
+          "media_count": 1182,
+          "tweet_count": 23221
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-31T08:04:48.000Z",
+        "description": "当朋友圈玩 看到有趣的碎碎念都会关注喵不聊骚不约｜本人素质低下^ ^｜有喜欢的小男生了所以不看私信咪｜置顶推广转发推广自辨",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/aya1136304",
+                "end": 23,
+                "expanded_url": "https://ngl.link/aya1136304",
+                "start": 0,
+                "url": "https://t.co/l517hVsKSx"
+              }
+            ]
+          }
+        },
+        "id": "1697158457450012672",
+        "name": "小夜",
+        "pinned_tweet_id": "1990018683566268669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976204301942083584/u2mumVAj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2577,
+          "following_count": 135,
+          "like_count": 4165,
+          "listed_count": 5,
+          "media_count": 222,
+          "tweet_count": 2826
+        },
+        "url": "https://t.co/l517hVsKSx",
+        "username": "ayawo11_",
+        "verified": false
+      }
+    ]
+  }
+}

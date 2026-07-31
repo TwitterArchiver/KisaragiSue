@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1890626945634955565",
+    "created_at": "2025-02-15T17:33:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-15T18:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1890816646656258415"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1393881158849503232",
+          "start": 0,
+          "username": "lynn_archived"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1890816646656258415",
+    "in_reply_to_user_id": "1393881158849503232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1890626945634955565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lynn_archived 摸摸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1890626945634955565",
+        "created_at": "2025-02-15T17:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T18:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1890816646656258415"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1393881158849503232",
+              "start": 0,
+              "username": "lynn_archived"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1890816646656258415",
+        "in_reply_to_user_id": "1393881158849503232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1890626945634955565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lynn_archived 摸摸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1393881158849503232",
+        "conversation_id": "1890626945634955565",
+        "created_at": "2025-02-15T04:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-15T05:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1890626945634955565"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1890626945634955565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "做…算是噩梦…了……？\n\n还是关于我的学校……\n\n但其实不完全算噩梦……？\n\n（以下是梦的内容，如与现实有误差，不必在意）\n\n之前提过，我已经三次尝试返校都没成功了。而我的梦就是关于第四次返校的。\n\n这次返校，我在课堂上，顶着剧烈的躯体化，硬是答完了一张卷子（好像是数学？）\n\n交卷后，我哭出来了。算是终于能坚持住返校了……？\n\n之后好像是被带去做心理咨询。咨询师（梦里甚至没给咨询师面部画面 x）给我头上套了个不透光的垃圾袋（好像还有个垃圾桶？），这样我就看不见外面了。然后她（好像是女性的声音，所以就用“她”了）抱着我，一遍遍地说：“放心吧，这里是安全的。”\n\n嚎啕大哭……\n\n止不住的哭……\n\n然后就被惊醒了……\n\n醒来发现眼中都是……应该是泪水……？"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做…算是噩梦…了……？\n\n还是关于我的学校……\n\n但其实不完全算噩梦……？\n\n（以下是梦的内容，如与现实有误差，不必在意）\n\n之前提过，我已经三次尝试返校都没成功了。而我的梦就是关于第四次返校的。\n\n这次返校，我在课堂上，顶着剧烈的躯体化，硬是答完了一张卷子（好像是数学？）…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2541,
+          "following_count": 600,
+          "like_count": 44642,
+          "listed_count": 2,
+          "media_count": 1159,
+          "tweet_count": 22547
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-16T10:49:13.000Z",
+        "description": "我们活着，就是对恶意最大的反抗！",
+        "id": "1393881158849503232",
+        "location": "Betelgeuse",
+        "name": "神楽坂 唯音 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "1843350502106640569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886296264545042432/7L0jLDI7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 108,
+          "like_count": 1101,
+          "listed_count": 4,
+          "media_count": 90,
+          "tweet_count": 1440
+        },
+        "username": "lynn_archived",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu Apr 16 18:35:10 +0000 2020",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [
+      {
+        "display_url": "twitter.com/i/web/status/1…",
+        "expanded_url": "https://twitter.com/i/web/status/1250855269459914752",
+        "indices": [
+          117,
+          140
+        ],
+        "url": "https://t.co/5LcpDEHtwe"
+      }
+    ],
+    "user_mentions": []
+  },
+  "extended_tweet": {
+    "display_text_range": [
+      0,
+      145
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "full_text": "狠狠打了我的脸，那并不是想象中“泛着彩色光芒的黑曜石”，而是一张普通到不敢相信的磁卡……“厄……我说……”“怎么了？”她转过头来“刚才被自行车撞的那一下不至于让你失忆了吧？”“……”她没继续理我，用卡片贴进了两门中间。熟悉到不能再熟悉的蜂鸣器滴滴后，“咔”的一声，两个门扇缓缓地自己张开来。"
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1250855269459914752,
+  "id_str": "1250855269459914752",
+  "in_reply_to_screen_name": "KisaragiSue",
+  "in_reply_to_status_id": 1250855268230946816,
+  "in_reply_to_status_id_str": "1250855268230946816",
+  "in_reply_to_user_id": 1079483498686164992,
+  "in_reply_to_user_id_str": "1079483498686164992",
+  "is_quote_status": false,
+  "lang": "zh",
+  "place": null,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "text": "狠狠打了我的脸，那并不是想象中“泛着彩色光芒的黑曜石”，而是一张普通到不敢相信的磁卡……“厄……我说……”“怎么了？”她转过头来“刚才被自行车撞的那一下不至于让你失忆了吧？”“……”她没继续理我，用卡片贴进了两门中间。熟悉到不能再… https://t.co/5LcpDEHtwe",
+  "timestamp_ms": "1587062110663",
+  "truncated": true,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sun Dec 30 21:04:56 +0000 2018",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。",
+    "favourites_count": 6936,
+    "follow_request_sent": null,
+    "followers_count": 684,
+    "following": null,
+    "friends_count": 326,
+    "geo_enabled": false,
+    "id": 1079483498686164992,
+    "id_str": "1079483498686164992",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 6,
+    "location": "Pluto",
+    "name": "如月 末",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1580893223",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1079485594818867200/OC7_w9RH_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079485594818867200/OC7_w9RH_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "KisaragiSue",
+    "statuses_count": 3962,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false
+  }
+}

@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1889142817571873271",
+    "created_at": "2025-02-11T03:25:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-11T04:25:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889153792408699361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1773877435748270080",
+          "start": 0,
+          "username": "manakaao68"
+        },
+        {
+          "end": 21,
+          "id": "868831876315848705",
+          "start": 12,
+          "username": "idr_labs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889153792408699361",
+    "in_reply_to_user_id": "1773877435748270080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889153265142829300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manakaao68 @idr_labs 抱抱~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1889142817571873271",
+        "created_at": "2025-02-11T03:25:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T04:25:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889153792408699361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1773877435748270080",
+              "start": 0,
+              "username": "manakaao68"
+            },
+            {
+              "end": 21,
+              "id": "868831876315848705",
+              "start": 12,
+              "username": "idr_labs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889153792408699361",
+        "in_reply_to_user_id": "1773877435748270080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889153265142829300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manakaao68 @idr_labs 抱抱~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1773877435748270080",
+        "conversation_id": "1889142817571873271",
+        "created_at": "2025-02-11T03:23:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T04:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889153265142829300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1079483498686164992",
+              "start": 0,
+              "username": "KisaragiSue"
+            },
+            {
+              "end": 22,
+              "id": "868831876315848705",
+              "start": 13,
+              "username": "idr_labs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889153265142829300",
+        "in_reply_to_user_id": "1079483498686164992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889152788586008978",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KisaragiSue @idr_labs 互fo好哦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2526,
+          "following_count": 591,
+          "like_count": 44390,
+          "listed_count": 2,
+          "media_count": 1157,
+          "tweet_count": 22473
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T00:59:05.000Z",
+        "description": "真中あお/真中藍/真中苍 です /国旗设计者/传统能源公交车主义者\n🍥🏳️/mtf/交通/态度温和/喜欢看恋爱小行星/喜欢真中苍和木之幡米拉\n同类互fo 谢绝鉴证 \n我永远爱你！！@heiwawomamore",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 104,
+                "start": 90,
+                "username": "heiwawomamore"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hzbus.com.cn",
+                "end": 23,
+                "expanded_url": "https://www.hzbus.com.cn/",
+                "start": 0,
+                "url": "https://t.co/6ccqwCfA2Q"
+              }
+            ]
+          }
+        },
+        "id": "1773877435748270080",
+        "location": "杭州公交集団",
+        "name": "小小の真中あお^_^🐳⭐️🎄🍥🍊🍔",
+        "pinned_tweet_id": "1877669811678802255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885008919795556353/gedKif8l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1931,
+          "following_count": 3608,
+          "like_count": 17254,
+          "listed_count": 7,
+          "media_count": 974,
+          "tweet_count": 20728
+        },
+        "url": "https://t.co/6ccqwCfA2Q",
+        "username": "manakaao68",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-28T14:10:36.000Z",
+        "description": "",
+        "id": "868831876315848705",
+        "name": "IDR Labs",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/966651156813504512/DxWIg43W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9882,
+          "following_count": 0,
+          "like_count": 1,
+          "listed_count": 43,
+          "media_count": 19,
+          "tweet_count": 784
+        },
+        "username": "idr_labs",
+        "verified": false
+      }
+    ]
+  }
+}

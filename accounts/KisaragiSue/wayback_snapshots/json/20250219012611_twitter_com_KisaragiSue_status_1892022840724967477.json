@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1891820026576994479",
+    "created_at": "2025-02-19T01:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-19T02:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1892022840724967477"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 13,
+          "normalized_text": "恭喜",
+          "probability": 0.6438,
+          "start": 12,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1605171476881371136",
+          "start": 0,
+          "username": "haku_dabai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1892022840724967477",
+    "in_reply_to_user_id": "1605171476881371136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1891820026576994479",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haku_dabai 恭喜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1891820026576994479",
+        "created_at": "2025-02-19T01:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-19T02:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1892022840724967477"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "恭喜",
+              "probability": 0.6438,
+              "start": 12,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1605171476881371136",
+              "start": 0,
+              "username": "haku_dabai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1892022840724967477",
+        "in_reply_to_user_id": "1605171476881371136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1891820026576994479",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haku_dabai 恭喜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605171476881371136",
+        "conversation_id": "1891820026576994479",
+        "created_at": "2025-02-18T12:00:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-18T13:00:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1891820026576994479"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1891820026576994479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 905,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天甚至炸了厕所，最爽的一集"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2532,
+          "following_count": 601,
+          "like_count": 44734,
+          "listed_count": 2,
+          "media_count": 1161,
+          "tweet_count": 22577
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-20T12:01:24.000Z",
+        "description": "最爱@2temisinin | 里@haku_uchi | mtf  持证含糖 家长党 | 躁郁 | ENFP-T",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "2temisinin"
+              },
+              {
+                "end": 27,
+                "start": 17,
+                "username": "haku_uchi"
+              }
+            ]
+          }
+        },
+        "id": "1605171476881371136",
+        "location": "中国-四川省",
+        "name": "大白-はく",
+        "pinned_tweet_id": "1849401311860867118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872460637403852800/NAq594BI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2115,
+          "following_count": 1393,
+          "like_count": 20550,
+          "listed_count": 9,
+          "media_count": 1067,
+          "tweet_count": 15536
+        },
+        "username": "haku_dabai",
+        "verified": false
+      }
+    ]
+  }
+}

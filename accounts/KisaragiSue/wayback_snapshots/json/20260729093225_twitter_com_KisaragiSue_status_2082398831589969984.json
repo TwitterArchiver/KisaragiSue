@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2082398831589969984",
+    "created_at": "2026-07-29T09:32:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T10:32:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082398831589969984"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Donna1054957/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/Donna1054957/status/2082128589231981009",
+          "start": 7,
+          "url": "https://t.co/9JZ8w5IGja"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082398831589969984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082128589231981009",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "做梦都得笑醒 https://t.co/9JZ8w5IGja"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2082398831589969984",
+        "created_at": "2026-07-29T09:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082398831589969984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Donna1054957/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/Donna1054957/status/2082128589231981009",
+              "start": 7,
+              "url": "https://t.co/9JZ8w5IGja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082398831589969984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082128589231981009",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "做梦都得笑醒 https://t.co/9JZ8w5IGja"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971244609943564290",
+        "conversation_id": "2082128589231981009",
+        "created_at": "2026-07-28T15:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082128589231981009"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082128589231981009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2568,
+          "like_count": 52,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你终于醒了。你的睾丸已经被切掉喽。睾丸扭转超过180°，拖的时间太长了，送过来都已经变紫发黑了。好在你还只是单侧的扭转。下次如果发现另一个睾丸也出现了异常疼痛、肿大、坚硬的情况，可千万别硬撑着。一定要及时来医院检查。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2533,
+          "following_count": 593,
+          "like_count": 44140,
+          "listed_count": 5,
+          "media_count": 1190,
+          "tweet_count": 23300
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-25T16:05:21.000Z",
+        "description": "无我梦中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ot78725",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ot78725",
+                "start": 0,
+                "url": "https://t.co/JWVe9rD2hI"
+              }
+            ]
+          }
+        },
+        "id": "1971244609943564290",
+        "location": "沃尔库塔-5",
+        "name": "OT夏树",
+        "pinned_tweet_id": "2079489884654555350",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081482275225739264/layUdQ90_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 221,
+          "like_count": 680,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 331
+        },
+        "url": "https://t.co/JWVe9rD2hI",
+        "username": "Donna1054957",
+        "verified": false
+      }
+    ]
+  }
+}

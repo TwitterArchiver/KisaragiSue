@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1911609243507314707",
+    "created_at": "2025-04-14T11:15:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-14T12:15:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1911740200545599741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1620322708994068481",
+          "start": 0,
+          "username": "jinsenala"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1911740200545599741",
+    "in_reply_to_user_id": "1620322708994068481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1911609243507314707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinsenala 好可怕……赶快逃走吧……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1911609243507314707",
+        "created_at": "2025-04-14T11:15:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T12:15:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1911740200545599741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1620322708994068481",
+              "start": 0,
+              "username": "jinsenala"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911740200545599741",
+        "in_reply_to_user_id": "1620322708994068481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911609243507314707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinsenala 好可怕……赶快逃走吧……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620322708994068481",
+        "conversation_id": "1911609243507314707",
+        "created_at": "2025-04-14T02:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-14T03:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1911609243507314707"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jinsenala/stat…",
+              "end": 100,
+              "expanded_url": "https://twitter.com/jinsenala/status/1911591723752632675",
+              "start": 77,
+              "url": "https://t.co/5gk7JMwlZE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1911609243507314707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9873,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1911591723752632675",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨天被家暴了，手指被掰肿，拿输液器针头扎指甲缝，手机和药都没收了（今天早上把手机偷偷拿回来了），只剩下一周量的色和垫底的凝胶了，全身上下只剩800金币（ https://t.co/5gk7JMwlZE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2566,
+          "following_count": 607,
+          "like_count": 45625,
+          "listed_count": 4,
+          "media_count": 1172,
+          "tweet_count": 22976
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-31T07:27:34.000Z",
+        "description": "时间流逝吧，你是多么的残酷｜\n对那菈最好最好超级好的姐姐！@Puddingbs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 29,
+                "username": "Puddingbs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jinsenala",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jinsenala",
+                "start": 0,
+                "url": "https://t.co/hD2vn4klWw"
+              }
+            ]
+          }
+        },
+        "id": "1620322708994068481",
+        "location": "终之空",
+        "name": "金色那菈🏳️‍⚧️",
+        "pinned_tweet_id": "1908974040947331153",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1819587398030053378/F0OxzlKh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 492,
+          "like_count": 1450,
+          "listed_count": 2,
+          "media_count": 90,
+          "tweet_count": 938
+        },
+        "url": "https://t.co/hD2vn4klWw",
+        "username": "jinsenala",
+        "verified": false
+      }
+    ]
+  }
+}

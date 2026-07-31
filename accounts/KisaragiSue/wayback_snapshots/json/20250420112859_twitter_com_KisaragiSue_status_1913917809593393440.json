@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1913917805814239232",
+        "3_1913917806183325696"
+      ]
+    },
+    "author_id": "1079483498686164992",
+    "conversation_id": "1913917809593393440",
+    "created_at": "2025-04-20T11:28:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-20T12:28:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1913917809593393440"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DDtZ0Lkw2U",
+          "end": 103,
+          "expanded_url": "https://x.com/KisaragiSue/status/1913917809593393440/photo/1",
+          "media_key": "3_1913917805814239232",
+          "start": 80,
+          "url": "https://t.co/DDtZ0Lkw2U"
+        },
+        {
+          "display_url": "pic.x.com/DDtZ0Lkw2U",
+          "end": 103,
+          "expanded_url": "https://x.com/KisaragiSue/status/1913917809593393440/photo/1",
+          "media_key": "3_1913917806183325696",
+          "start": 80,
+          "url": "https://t.co/DDtZ0Lkw2U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913917809593393440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "换了双木三林的h400耳放，hifiman的平板一下子推开了。果然还是要大电流耳放才行。试了试高阻抗动圈（250Ωdt990）推得也像模像样。希望能耐用些吧。 https://t.co/DDtZ0Lkw2U"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1913917805814239232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go-aGqDaUAAZQRV.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1913917806183325696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Go-aGrbaIAAVmOZ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1913917805814239232",
+            "3_1913917806183325696"
+          ]
+        },
+        "author_id": "1079483498686164992",
+        "conversation_id": "1913917809593393440",
+        "created_at": "2025-04-20T11:28:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-20T12:28:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1913917809593393440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DDtZ0Lkw2U",
+              "end": 103,
+              "expanded_url": "https://x.com/KisaragiSue/status/1913917809593393440/photo/1",
+              "media_key": "3_1913917805814239232",
+              "start": 80,
+              "url": "https://t.co/DDtZ0Lkw2U"
+            },
+            {
+              "display_url": "pic.x.com/DDtZ0Lkw2U",
+              "end": 103,
+              "expanded_url": "https://x.com/KisaragiSue/status/1913917809593393440/photo/1",
+              "media_key": "3_1913917806183325696",
+              "start": 80,
+              "url": "https://t.co/DDtZ0Lkw2U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913917809593393440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "换了双木三林的h400耳放，hifiman的平板一下子推开了。果然还是要大电流耳放才行。试了试高阻抗动圈（250Ωdt990）推得也像模像样。希望能耐用些吧。 https://t.co/DDtZ0Lkw2U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2569,
+          "following_count": 611,
+          "like_count": 45888,
+          "listed_count": 4,
+          "media_count": 1173,
+          "tweet_count": 23071
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      }
+    ]
+  }
+}

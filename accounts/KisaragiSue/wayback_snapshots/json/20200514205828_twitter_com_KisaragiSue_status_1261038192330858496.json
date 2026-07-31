@@ -1,0 +1,271 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Thu May 14 20:58:28 +0000 2020",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1261038192330858496,
+  "id_str": "1261038192330858496",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "zh",
+  "place": null,
+  "quote_count": 0,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu May 14 20:31:16 +0000 2020",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/8fKF7RPrmf",
+          "expanded_url": "https://twitter.com/fangshimin/status/1261031348040396801/video/1",
+          "id": 1261031007341424643,
+          "id_str": "1261031007341424643",
+          "indices": [
+            28,
+            51
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1261031007341424643/pu/img/X9xVQaYjLWZxghgM.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1261031007341424643/pu/img/X9xVQaYjLWZxghgM.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/8fKF7RPrmf"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/8fKF7RPrmf",
+          "expanded_url": "https://twitter.com/fangshimin/status/1261031348040396801/video/1",
+          "id": 1261031007341424643,
+          "id_str": "1261031007341424643",
+          "indices": [
+            28,
+            51
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1261031007341424643/pu/img/X9xVQaYjLWZxghgM.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1261031007341424643/pu/img/X9xVQaYjLWZxghgM.jpg",
+          "sizes": {
+            "large": {
+              "h": 1280,
+              "resize": "fit",
+              "w": 720
+            },
+            "medium": {
+              "h": 1200,
+              "resize": "fit",
+              "w": 675
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/8fKF7RPrmf",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 138998,
+            "variants": [
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1261031007341424643/pu/vid/320x568/oFpYUfvc-qvxaiSe.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1261031007341424643/pu/vid/720x1280/CNwLWZWrd8EHb1gg.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1261031007341424643/pu/pl/hpImWskSlQg-6MK-.m3u8?tag=10"
+              },
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1261031007341424643/pu/vid/360x640/Wp0u2YQeoM56Ip9y.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 19,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1261031348040396801,
+    "id_str": "1261031348040396801",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "zh",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 1,
+    "reply_count": 7,
+    "retweet_count": 7,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "河北邯郸，失业的复员军人人山人海，红旗招展，歌声嘹亮。 https://t.co/8fKF7RPrmf",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Thu Dec 30 14:24:21 +0000 2010",
+      "default_profile": true,
+      "default_profile_image": false,
+      "description": "方舟子，本名方是民，科普作家，新语丝网站。YouTube频道：https://www.youtube.com/channel/UCgTxdmY7L0I5MKWrrf0Ejtg",
+      "favourites_count": 1749,
+      "follow_request_sent": null,
+      "followers_count": 287657,
+      "following": null,
+      "friends_count": 46,
+      "geo_enabled": false,
+      "id": 232201624,
+      "id_str": "232201624",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1143,
+      "location": "California, USA",
+      "name": "方舟子",
+      "notifications": null,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/232201624/1480282070",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/526015624963555328/2-0WdMOV_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/526015624963555328/2-0WdMOV_normal.png",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "fangshimin",
+      "statuses_count": 30733,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://www.xys.org",
+      "utc_offset": null,
+      "verified": true
+    }
+  },
+  "quoted_status_id": 1261031348040396801,
+  "quoted_status_id_str": "1261031348040396801",
+  "quoted_status_permalink": {
+    "display": "twitter.com/fangshimin/sta…",
+    "expanded": "https://twitter.com/fangshimin/status/1261031348040396801",
+    "url": "https://t.co/xzSNakhGoU"
+  },
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+  "text": "当狗腿子的，那可真是得匹下了（无慈悲）",
+  "timestamp_ms": "1589489908665",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sun Dec 30 21:04:56 +0000 2018",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。",
+    "favourites_count": 10079,
+    "follow_request_sent": null,
+    "followers_count": 832,
+    "following": null,
+    "friends_count": 345,
+    "geo_enabled": false,
+    "id": 1079483498686164992,
+    "id_str": "1079483498686164992",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 4,
+    "location": "Pluto",
+    "name": "如月 末",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1079485594818867200/OC7_w9RH_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079485594818867200/OC7_w9RH_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "KisaragiSue",
+    "statuses_count": 5300,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": "https://en.whotwi.com/KisaragiSue",
+    "utc_offset": null,
+    "verified": false
+  }
+}

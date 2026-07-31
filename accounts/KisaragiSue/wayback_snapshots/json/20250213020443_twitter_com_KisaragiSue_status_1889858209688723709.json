@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1889665101185122446",
+    "created_at": "2025-02-13T02:04:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-13T03:04:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889858209688723709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1773877435748270080",
+          "start": 0,
+          "username": "manakaao68"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889858209688723709",
+    "in_reply_to_user_id": "1773877435748270080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889665101185122446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@manakaao68 可愛哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1889665101185122446",
+        "created_at": "2025-02-13T02:04:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-13T03:04:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889858209688723709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1773877435748270080",
+              "start": 0,
+              "username": "manakaao68"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889858209688723709",
+        "in_reply_to_user_id": "1773877435748270080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889665101185122446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@manakaao68 可愛哦"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889664596027514881"
+          ]
+        },
+        "author_id": "1773877435748270080",
+        "conversation_id": "1889665101185122446",
+        "created_at": "2025-02-12T13:17:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T14:17:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889665101185122446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tuBeR0XFRG",
+              "end": 39,
+              "expanded_url": "https://x.com/manakaao68/status/1889665101185122446/photo/1",
+              "media_key": "3_1889664596027514881",
+              "start": 16,
+              "url": "https://t.co/tuBeR0XFRG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889665101185122446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2079,
+          "like_count": 63,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "迫真露脸（因为我真容太吓人了） https://t.co/tuBeR0XFRG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2534,
+          "following_count": 595,
+          "like_count": 44491,
+          "listed_count": 2,
+          "media_count": 1158,
+          "tweet_count": 22505
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-30T00:59:05.000Z",
+        "description": "真中あお/真中藍/真中苍 です /国旗设计者/传统能源主义者\n🍥🏳️/mtf/交通/态度温和/喜欢看恋爱小行星/喜欢真中苍和木之幡米拉\n同类互fo 谢绝鉴证 \n我会一直爱你哦！@heiwawomamore\n里推/ @ND5_0179",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 88,
+                "username": "heiwawomamore"
+              },
+              {
+                "end": 116,
+                "start": 107,
+                "username": "ND5_0179"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hzbus.com.cn",
+                "end": 23,
+                "expanded_url": "https://www.hzbus.com.cn/",
+                "start": 0,
+                "url": "https://t.co/6ccqwCfA2Q"
+              }
+            ]
+          }
+        },
+        "id": "1773877435748270080",
+        "location": "杭州公交集団",
+        "name": "小小の真中あお^_^🐳⭐️🎄🍥🍊🍔",
+        "pinned_tweet_id": "1877669811678802255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885008919795556353/gedKif8l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1994,
+          "following_count": 3681,
+          "like_count": 18314,
+          "listed_count": 7,
+          "media_count": 1016,
+          "tweet_count": 21574
+        },
+        "url": "https://t.co/6ccqwCfA2Q",
+        "username": "manakaao68",
+        "verified": false
+      }
+    ]
+  }
+}

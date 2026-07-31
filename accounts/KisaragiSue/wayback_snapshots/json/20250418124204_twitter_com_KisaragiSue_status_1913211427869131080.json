@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1912947003082064248",
+    "created_at": "2025-04-18T12:42:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-18T13:42:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913211427869131080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1125325219671842817",
+          "start": 0,
+          "username": "hokaming_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913211427869131080",
+    "in_reply_to_user_id": "1125325219671842817",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912947003082064248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hokaming_ 快吃hiv阻隔药！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1912947003082064248",
+        "created_at": "2025-04-18T12:42:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T13:42:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913211427869131080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1125325219671842817",
+              "start": 0,
+              "username": "hokaming_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913211427869131080",
+        "in_reply_to_user_id": "1125325219671842817",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912947003082064248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hokaming_ 快吃hiv阻隔药！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1125325219671842817",
+        "conversation_id": "1912947003082064248",
+        "created_at": "2025-04-17T19:11:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T20:11:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912947003082064248"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1912947003082064248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 67457,
+          "like_count": 357,
+          "quote_count": 0,
+          "reply_count": 55,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "断片被强奸 自杀未遂后od 口供 现场指认 封锁房间 抽走了两管血 拍了私处照片 取证 笔录\n我的一天…\n唉，很有生活了（苦笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2564,
+          "following_count": 608,
+          "like_count": 45781,
+          "listed_count": 4,
+          "media_count": 1172,
+          "tweet_count": 23030
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-06T09:03:34.000Z",
+        "description": "这里是🐟/01年/🏳️‍🌈双性恋/贫乳QAQ/坏brat 请准备降压药😈/有主(♂)不约❕/小e(♀)是我soulmate/负能量巨多 道德感低下 生活混乱 谨慎关注",
+        "id": "1125325219671842817",
+        "location": "广东",
+        "name": "鱼是不能喝中药的",
+        "pinned_tweet_id": "1875114905713746177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660355160244359168/R387vl88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473,
+          "following_count": 692,
+          "like_count": 3560,
+          "listed_count": 0,
+          "media_count": 631,
+          "tweet_count": 3765
+        },
+        "username": "hokaming_",
+        "verified": false
+      }
+    ]
+  }
+}

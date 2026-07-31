@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1904234917325930731",
+    "created_at": "2025-03-26T05:50:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-26T06:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904772824109134313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1597567529303437315",
+          "start": 0,
+          "username": "dzhdo2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904772824109134313",
+    "in_reply_to_user_id": "1597567529303437315",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904234917325930731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dzhdo2 做這圖的死媽了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 790,
+        "media_key": "3_1904234914460893184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gm0zkM1WgAANpR_.jpg",
+        "width": 906
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1904234917325930731",
+        "created_at": "2025-03-26T05:50:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-26T06:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904772824109134313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1597567529303437315",
+              "start": 0,
+              "username": "dzhdo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904772824109134313",
+        "in_reply_to_user_id": "1597567529303437315",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904234917325930731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dzhdo2 做這圖的死媽了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1904234914460893184"
+          ]
+        },
+        "author_id": "1597567529303437315",
+        "conversation_id": "1904234917325930731",
+        "created_at": "2025-03-24T18:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T19:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904234917325930731"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6N3q22opvg",
+              "end": 42,
+              "expanded_url": "https://x.com/dzhdo2/status/1904234917325930731/photo/1",
+              "media_key": "3_1904234914460893184",
+              "start": 19,
+              "url": "https://t.co/6N3q22opvg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904234917325930731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4612,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "悄悄告诉大家，世界其实是肮脏不堪的哦 https://t.co/6N3q22opvg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2554,
+          "following_count": 606,
+          "like_count": 45123,
+          "listed_count": 3,
+          "media_count": 1168,
+          "tweet_count": 22777
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T12:26:15.000Z",
+        "description": "シュポガキたちの雑魚\n请勿骚扰与模拟（）",
+        "id": "1597567529303437315",
+        "location": "阴影",
+        "name": "攫备饴（ungrounding）",
+        "pinned_tweet_id": "1904238205081162173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730306563435335680/AssLtYPK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 467,
+          "like_count": 2401,
+          "listed_count": 3,
+          "media_count": 217,
+          "tweet_count": 955
+        },
+        "username": "dzhdo2",
+        "verified": false
+      }
+    ]
+  }
+}

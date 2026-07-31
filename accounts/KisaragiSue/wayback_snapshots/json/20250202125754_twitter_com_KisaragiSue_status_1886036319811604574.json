@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1886036319811604574",
+    "created_at": "2025-02-02T12:57:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-02T13:57:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886036319811604574"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1779149099084009472",
+          "start": 3,
+          "username": "MikuLoverr_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886036319811604574",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1885916151404003481",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MikuLoverr_: 我真的不是故意吃糖的\n我只是买维C不小心买成泰补了\n钙片不小心买成土色了\n免洗洗手液不小心买成凝胶了\n生长激素不小心买成日雌了\n买都买了，咱也不能浪费，只能用了\n用都用了，就不能断了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1886036319811604574",
+        "created_at": "2025-02-02T12:57:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T13:57:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886036319811604574"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1779149099084009472",
+              "start": 3,
+              "username": "MikuLoverr_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886036319811604574",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1885916151404003481",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MikuLoverr_: 我真的不是故意吃糖的\n我只是买维C不小心买成泰补了\n钙片不小心买成土色了\n免洗洗手液不小心买成凝胶了\n生长激素不小心买成日雌了\n买都买了，咱也不能浪费，只能用了\n用都用了，就不能断了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1779149099084009472",
+        "conversation_id": "1885916151404003481",
+        "created_at": "2025-02-02T05:00:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T06:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1885916151404003481"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1885916151404003481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2782,
+          "like_count": 90,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我真的不是故意吃糖的\n我只是买维C不小心买成泰补了\n钙片不小心买成土色了\n免洗洗手液不小心买成凝胶了\n生长激素不小心买成日雌了\n买都买了，咱也不能浪费，只能用了\n用都用了，就不能断了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2512,
+          "following_count": 583,
+          "like_count": 44279,
+          "listed_count": 2,
+          "media_count": 1155,
+          "tweet_count": 22373
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-13T14:06:24.000Z",
+        "description": "168cm/47kg/mtf/HRT：2024.11.16/重慶09年16歳の高校牲です（理科）/深柜/重庆一中唯一含糖🏳️‍⚧️🍥（暴论）/简中/繁中/Eng/日本語（在学）/成分正常都会回fo的/善待一个抑郁症孩子吧/逃生舱@Mikufans_/请fo @mikumiku3648/药商推荐：@Minokakay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 124,
+                "start": 114,
+                "username": "Mikufans_"
+              },
+              {
+                "end": 142,
+                "start": 129,
+                "username": "mikumiku3648"
+              },
+              {
+                "end": 158,
+                "start": 148,
+                "username": "Minokakay"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ys-api.mihoyo.com/event/download…",
+                "end": 23,
+                "expanded_url": "https://ys-api.mihoyo.com/event/download_porter/link/ys_cn/official/android_default",
+                "start": 0,
+                "url": "https://t.co/rz5fLl5d1r"
+              }
+            ]
+          }
+        },
+        "id": "1779149099084009472",
+        "location": "Chongqing or back of you",
+        "name": "(attractive)emm🏳️‍⚧️🍥(depressing)",
+        "pinned_tweet_id": "1884488453842460899",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884101359940886529/Q7xEg_xl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 802,
+          "following_count": 845,
+          "like_count": 15276,
+          "listed_count": 7,
+          "media_count": 508,
+          "tweet_count": 7857
+        },
+        "url": "https://t.co/rz5fLl5d1r",
+        "username": "MikuLoverr_",
+        "verified": false
+      }
+    ]
+  }
+}

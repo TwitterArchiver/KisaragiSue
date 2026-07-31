@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2041335307694707156",
+    "created_at": "2026-04-07T22:11:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T23:11:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041639929852346529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4223840896",
+          "start": 0,
+          "username": "dreamhawk_cn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041639929852346529",
+    "in_reply_to_user_id": "4223840896",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041335307694707156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dreamhawk_cn 生日快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2041335307694707156",
+        "created_at": "2026-04-07T22:11:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T23:11:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041639929852346529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4223840896",
+              "start": 0,
+              "username": "dreamhawk_cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041639929852346529",
+        "in_reply_to_user_id": "4223840896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041335307694707156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dreamhawk_cn 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4223840896",
+        "conversation_id": "2041335307694707156",
+        "created_at": "2026-04-07T02:00:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T03:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041335307694707156"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041335307694707156",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 8391,
+          "like_count": 204,
+          "quote_count": 0,
+          "reply_count": 103,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天我生日！😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2517,
+          "following_count": 596,
+          "like_count": 44504,
+          "listed_count": 4,
+          "media_count": 1184,
+          "tweet_count": 23247
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2015-11-19T05:00:10.000Z",
+        "description": "Male/INFJ-T/Bi/自立、自强、自由/😘Never lament, stride forever./😑负能里:@dreamhawk_cn_in/✍️匿名提问：https://t.co/tCv3oXISZG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "dreamhawk_cn_in"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/garnetstar_cn",
+                "end": 107,
+                "expanded_url": "https://ngl.link/garnetstar_cn",
+                "start": 84,
+                "url": "https://t.co/tCv3oXISZG"
+              }
+            ]
+          }
+        },
+        "id": "4223840896",
+        "location": "Henan/Canton, P.R.China",
+        "name": "DreamHawk🦅🍭",
+        "pinned_tweet_id": "1933387075707154766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999061516575035392/Ifxancax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 1007,
+          "like_count": 94936,
+          "listed_count": 6,
+          "media_count": 879,
+          "tweet_count": 12023
+        },
+        "username": "dreamhawk_cn",
+        "verified": true
+      },
+      {
+        "created_at": "2015-11-19T05:00:10.000Z",
+        "description": "Male/INFJ-T/Bi/自立、自强、自由/😘Never lament, stride forever./😑负能里:@dreamhawk_cn_in/✍️匿名提问：https://t.co/tCv3oXISZG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "dreamhawk_cn_in"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/garnetstar_cn",
+                "end": 107,
+                "expanded_url": "https://ngl.link/garnetstar_cn",
+                "start": 84,
+                "url": "https://t.co/tCv3oXISZG"
+              }
+            ]
+          }
+        },
+        "id": "4223840896",
+        "location": "Henan/Canton, P.R.China",
+        "name": "DreamHawk🦅🍭",
+        "pinned_tweet_id": "1933387075707154766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999061516575035392/Ifxancax_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 676,
+          "following_count": 1007,
+          "like_count": 94936,
+          "listed_count": 6,
+          "media_count": 879,
+          "tweet_count": 12023
+        },
+        "username": "dreamhawk_cn",
+        "verified": false
+      }
+    ]
+  }
+}

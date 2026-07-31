@@ -1,0 +1,99 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Apr 13 14:06:51 +0000 2020",
+  "display_text_range": [
+    26,
+    30
+  ],
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 965012141664174080,
+        "id_str": "965012141664174080",
+        "indices": [
+          0,
+          13
+        ],
+        "name": "Linzh",
+        "screen_name": "PoetessLinzh"
+      },
+      {
+        "id": 1131710205551624192,
+        "id_str": "1131710205551624192",
+        "indices": [
+          14,
+          25
+        ],
+        "name": "硝酸銅🇨🇦夜行少女",
+        "screen_name": "xstdaisuki"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1249700581767139331,
+  "id_str": "1249700581767139331",
+  "in_reply_to_screen_name": "PoetessLinzh",
+  "in_reply_to_status_id": 1249672854993432576,
+  "in_reply_to_status_id_str": "1249672854993432576",
+  "in_reply_to_user_id": 965012141664174080,
+  "in_reply_to_user_id_str": "965012141664174080",
+  "is_quote_status": false,
+  "lang": "zh",
+  "place": null,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "@PoetessLinzh @xstdaisuki 为什么？",
+  "timestamp_ms": "1586786811664",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Sun Dec 30 21:04:56 +0000 2018",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。",
+    "favourites_count": 6659,
+    "follow_request_sent": null,
+    "followers_count": 662,
+    "following": null,
+    "friends_count": 322,
+    "geo_enabled": false,
+    "id": 1079483498686164992,
+    "id_str": "1079483498686164992",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 7,
+    "location": "Pluto",
+    "name": "如月 末",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1580893223",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1079485594818867200/OC7_w9RH_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1079485594818867200/OC7_w9RH_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "KisaragiSue",
+    "statuses_count": 3841,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false
+  }
+}

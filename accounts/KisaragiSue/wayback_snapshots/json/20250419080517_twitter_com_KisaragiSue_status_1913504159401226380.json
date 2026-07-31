@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1913230309757518218",
+    "created_at": "2025-04-19T08:05:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-19T09:05:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913504159401226380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1872296054756102144",
+          "start": 0,
+          "username": "Shi_wu_nian"
+        },
+        {
+          "end": 28,
+          "id": "1244865662142447617",
+          "start": 13,
+          "username": "Hatsushigure_c"
+        },
+        {
+          "end": 38,
+          "id": "1701484460250890240",
+          "start": 29,
+          "username": "9485274a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913504159401226380",
+    "in_reply_to_user_id": "1872296054756102144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913252680178565230",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shi_wu_nian @Hatsushigure_c @9485274a 一个反跨团体"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1913230309757518218",
+        "created_at": "2025-04-19T08:05:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-19T09:05:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913504159401226380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1872296054756102144",
+              "start": 0,
+              "username": "Shi_wu_nian"
+            },
+            {
+              "end": 28,
+              "id": "1244865662142447617",
+              "start": 13,
+              "username": "Hatsushigure_c"
+            },
+            {
+              "end": 38,
+              "id": "1701484460250890240",
+              "start": 29,
+              "username": "9485274a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913504159401226380",
+        "in_reply_to_user_id": "1872296054756102144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913252680178565230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shi_wu_nian @Hatsushigure_c @9485274a 一个反跨团体"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872296054756102144",
+        "conversation_id": "1913230309757518218",
+        "created_at": "2025-04-18T15:26:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-18T16:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913252680178565230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1244865662142447617",
+              "start": 0,
+              "username": "Hatsushigure_c"
+            },
+            {
+              "end": 25,
+              "id": "1701484460250890240",
+              "start": 16,
+              "username": "9485274a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913252680178565230",
+        "in_reply_to_user_id": "1244865662142447617",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1011,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913236132797850085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hatsushigure_c @9485274a 啥意思？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2566,
+          "following_count": 609,
+          "like_count": 45821,
+          "listed_count": 4,
+          "media_count": 1172,
+          "tweet_count": 23046
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-26T14:59:51.000Z",
+        "description": "生产日期2007.6.2｜可以叫我小包喔，半家长党｜徐州的无证含糖xyn，刷新地点南京、徐州｜高中休学中，炸过柜。糖🍥经常被没收，求投喂，目前不接线下，只想要甜甜的恋爱，关系好的话可以无偿撅小包🥺，绿泡泡🚪槛25（同类可免）",
+        "id": "1872296054756102144",
+        "location": "徐州",
+        "name": "十五年🍥",
+        "pinned_tweet_id": "1888250909676958043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872306991408029696/vo7Tq4wp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 105,
+          "like_count": 373,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 163
+        },
+        "username": "Shi_wu_nian",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-31T05:54:45.000Z",
+        "description": "持证含糖 MtF | HRT 2024.3.5 | 天残党 | 家暴党 | 焦虑 | INFP-T | 同类互 fo | 废物 | 拖延症 | 伪音学习中 | 日常发情 | 老公 @QED05107807 | PM https://t.co/pyZlODsSJf",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 90,
+                "username": "QED05107807"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/ShigureForward…",
+                "end": 131,
+                "expanded_url": "https://t.me/ShigureForwardBot",
+                "start": 108,
+                "url": "https://t.co/pyZlODsSJf"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.hatsushigure.shop",
+                "end": 23,
+                "expanded_url": "https://blog.hatsushigure.shop",
+                "start": 0,
+                "url": "https://t.co/fXZJPL8mf7"
+              }
+            ]
+          }
+        },
+        "id": "1244865662142447617",
+        "location": "二次元",
+        "name": "初時雨🍥",
+        "pinned_tweet_id": "1809846871785107896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830464990702419968/ynXWslRp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1268,
+          "following_count": 740,
+          "like_count": 20385,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 2485
+        },
+        "url": "https://t.co/fXZJPL8mf7",
+        "username": "Hatsushigure_c",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/英语雅思6.5/hrt: 2025.1.15/rle: 2025.2.10/中度抑郁，焦虑症ing/恐跨深柜觉醒党/家长党/生物系毕业/王者，崩铁，碧蓝航线",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1201,
+          "following_count": 1074,
+          "like_count": 276,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 376
+        },
+        "username": "9485274a",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1923704467595329765",
+    "created_at": "2025-05-18T07:27:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-18T08:27:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1924003810055426050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1764820595387305984",
+          "start": 0,
+          "username": "miaoning000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924003810055426050",
+    "in_reply_to_user_id": "1764820595387305984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923704467595329765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaoning000 最关键是窝觉得30颗是把补剂什么的也算上了。她这个诊断也是很乱，双相本身就包含焦虑强迫倾向，按理说不应该算作独立诊断结果。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 300,
+        "media_key": "3_1923704465191731200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrJfBNSWAAANq2i.jpg",
+        "width": 475
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1923704467595329765",
+        "created_at": "2025-05-18T07:27:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-18T08:27:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1924003810055426050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1764820595387305984",
+              "start": 0,
+              "username": "miaoning000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924003810055426050",
+        "in_reply_to_user_id": "1764820595387305984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923704467595329765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaoning000 最关键是窝觉得30颗是把补剂什么的也算上了。她这个诊断也是很乱，双相本身就包含焦虑强迫倾向，按理说不应该算作独立诊断结果。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923704465191731200"
+          ]
+        },
+        "author_id": "1764820595387305984",
+        "conversation_id": "1923704467595329765",
+        "created_at": "2025-05-17T11:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T12:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923704467595329765"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "“她”每天要吃约30颗药, 视频播放量 80543、弹幕量 194、点赞数 1816、投硬币枚数 289、收藏人数 802、转发人数 615, 视频作者 白小衣的医护朋友圈, 作者简介 我是白小衣，我在深圳有很多医护朋友。，相关视频：抑郁患者眼神变化，贵阳颜医生：抑郁真的能改变一个人，重度抑郁是吧，看我不玩死你😋，12岁女孩被确诊焦虑症和重度抑郁症，看哭了！来自自杀者最后的视频…，中度焦虑加重度抑郁？看哭全网的12岁小女孩~，乔任梁早年抑郁症明显，突然情绪低落，徐璐吓得不敢说话，14岁女孩被母亲逼到自杀，好不容易抢救回来，母亲却冲进ICU送书，原来这是躯体化啊，女子下肢发紫发疼，医：不用看了，你把号退了吧，看到杨天真瘦成小码模特的热搜，真的惊掉下巴！",
+              "display_url": "b23.tv/DogJOeu",
+              "end": 36,
+              "expanded_url": "https://b23.tv/DogJOeu",
+              "start": 13,
+              "status": 200,
+              "title": "“她”每天要吃约30颗药_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1hpEszJEcs/?buvid=XU8F3F38482E2103CF61802E80C3470987B4E&from_spmid=main.my-history.0.0&is_story_h5=false&mid=9Uk%2Bn%2FyRdJ08JXLvGW%2BPAw%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android_i&share_plat=android&share_session_id=52c51762-7d74-44bf-9f01-e36449533b33&share_source=TWITTER&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1747481673&unique_k=DogJOeu&up_id=2088663159",
+              "url": "https://t.co/jNCCGTRxiD"
+            },
+            {
+              "display_url": "pic.x.com/cHD3RKLqZU",
+              "end": 180,
+              "expanded_url": "https://x.com/miaoning000/status/1923704467595329765/photo/1",
+              "media_key": "3_1923704465191731200",
+              "start": 157,
+              "url": "https://t.co/cHD3RKLqZU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923704467595329765",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1429,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "“她”每天要吃约30颗药 https://t.co/jNCCGTRxiD\n穿搭和剪辑只是为了以点见面，视频拍摄方故意的安排，把视频当成疾病科普就行了，对了解MTF相对有点片面，其实我感觉精神疾病真的算不了什么，只能说雪秋的状态已经很正常了，而且许多人都被ta深深伤害过，虽然这也是圈子常态了，资本面前流量利益至上 https://t.co/cHD3RKLqZU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2568,
+          "following_count": 618,
+          "like_count": 46173,
+          "listed_count": 4,
+          "media_count": 1176,
+          "tweet_count": 23210
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T01:10:05.000Z",
+        "description": "呐…这里是喵宁 谢谢你喜欢我♪ 看见会回fo│高一的网络寄生虫/🚪30￥/MTX/ overdose💊/双相/我真的很友善，不信你和我说句话就知道了♡\n愿神明保佑世人✙",
+        "id": "1764820595387305984",
+        "location": "氢溴酸右美沙芬-普瑞巴林-盐酸美金刚-盐酸金刚烷胺",
+        "name": "喵宁💊🏳‍⚧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1764821147739357184/b-2HvW7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2381,
+          "following_count": 2471,
+          "like_count": 12834,
+          "listed_count": 3,
+          "media_count": 316,
+          "tweet_count": 5679
+        },
+        "username": "miaoning000",
+        "verified": false
+      }
+    ]
+  }
+}

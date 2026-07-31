@@ -1,0 +1,193 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1787880338259316736",
+    "created_at": "2024-05-08T00:13:11.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-08T01:13:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1787999149352501739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1645416050555781120",
+          "start": 0,
+          "username": "chanchanchanle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1787999149352501739",
+    "in_reply_to_user_id": "1645416050555781120",
+    "lang": "ja",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1787880338259316736",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chanchanchanle 止咳糖浆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1787880338259316736",
+        "created_at": "2024-05-08T00:13:11.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-08T01:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1787999149352501739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1645416050555781120",
+              "start": 0,
+              "username": "chanchanchanle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1787999149352501739",
+        "in_reply_to_user_id": "1645416050555781120",
+        "lang": "ja",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1787880338259316736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chanchanchanle 止咳糖浆"
+      },
+      {
+        "attachments": {},
+        "author_id": "1645416050555781120",
+        "conversation_id": "1787880338259316736",
+        "created_at": "2024-05-07T16:21:04.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-07T17:21:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1787880338259316736"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1787880338259316736",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "記得看過說沒有藥品可以替代右美\n現在大家沒了右美以後o什麼啊？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n非二元性别认同\n性別のことは男と女だけではない！🍥\nta、她、他均可\n @chaye621 最爱的妹妹……\n@SuperREEgo 老公……\n元ルーマニア共産党書記長ニコラエ・チャウシェスクさんが大好き💕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "chaye621"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "SuperREEgo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775887241187061760/DeLnaVEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2516,
+          "following_count": 598,
+          "like_count": 45098,
+          "listed_count": 2,
+          "tweet_count": 22033
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-10T13:19:05.000Z",
+        "description": "chan/05/女/香港//互fol大感謝(*´╰╯`)♡//一個積極走向正軌但是連正軌是什麼樣都不知道的人/手機上癮程度百份百“Wired”/有自殘自殺史///今天也在逃避生活(づ ●─● )づ",
+        "id": "1645416050555781120",
+        "location": "Hong Kong",
+        "name": "̷C̷h̷a̷n̷C̷h̷a̷n̷",
+        "pinned_tweet_id": "1783542153580539968",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1645416109926137857/u9pAp-wu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 330,
+          "like_count": 6509,
+          "listed_count": 0,
+          "tweet_count": 673
+        },
+        "username": "chanchanchanle",
+        "verified": false
+      }
+    ]
+  }
+}

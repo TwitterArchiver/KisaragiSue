@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1866022566785368463",
+    "created_at": "2024-12-09T07:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-09T08:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1866022566785368463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1451422182614069251",
+          "start": 3,
+          "username": "DavariT72"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1866022566785368463",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "1865760339515564106",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DavariT72: 年度总结\n这一年里，你HRT了360天，吃了9盒诺坤复，尝起来一股怪味。\n24盒补佳乐，甜甜的你最爱了！\n两盒色谱龙，尝起来和淀粉片子一个味儿。还有两支凝胶，冬天它冰冰凉凉，你总是不愿涂它。\n9月的某一天有人给你扎了1针日雌，扎完你发情了，对身边所…"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1866022566785368463].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1866022566785368463",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1866022566785368463"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1865760329822539776"
+          ]
+        },
+        "author_id": "1451422182614069251",
+        "conversation_id": "1865760339515564106",
+        "created_at": "2024-12-08T14:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-08T15:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1865760339515564106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rPysm0yutn",
+              "end": 154,
+              "expanded_url": "https://x.com/DavariT72/status/1865760339515564106/photo/1",
+              "media_key": "3_1865760329822539776",
+              "start": 131,
+              "url": "https://t.co/rPysm0yutn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1865760339515564106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1498,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "年度总结\n这一年里，你HRT了360天，吃了9盒诺坤复，尝起来一股怪味。\n24盒补佳乐，甜甜的你最爱了！\n两盒色谱龙，尝起来和淀粉片子一个味儿。还有两支凝胶，冬天它冰冰凉凉，你总是不愿涂它。\n9月的某一天有人给你扎了1针日雌，扎完你发情了，对身边所有人要透透。 https://t.co/rPysm0yutn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2494,
+          "following_count": 583,
+          "like_count": 44380,
+          "listed_count": 1,
+          "media_count": 1152,
+          "tweet_count": 22345
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-22T05:36:37.000Z",
+        "description": "欢迎来到我的主页，可爱的肥橘猫(178，MTF抖m，k6k8，植物科普\n含糖天残党/已嘎蛋HRT起始日(2022/5/24)。欢迎同类贴贴(´｡✪ω✪｡，有时会难过崩溃，可能会重开。身体状况差，不在线请见谅，爱吃水果!热爱植物\n成分（40%可爱+20%焦虑+30%烟花和水果+2%雌二醇+8%抑郁",
+        "id": "1451422182614069251",
+        "location": "Peñamellera Baja, Españ",
+        "name": "水果甜野猫~😋🥑🐱",
+        "pinned_tweet_id": "1574387867362545664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1638112105386905600/tQG19HFL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40262,
+          "following_count": 1598,
+          "like_count": 67853,
+          "listed_count": 44,
+          "media_count": 3262,
+          "tweet_count": 45476
+        },
+        "username": "DavariT72",
+        "verified": false
+      }
+    ]
+  }
+}

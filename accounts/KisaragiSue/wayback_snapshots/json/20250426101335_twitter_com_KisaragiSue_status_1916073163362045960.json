@@ -1,0 +1,316 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1915972224336683083",
+    "created_at": "2025-04-26T10:13:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-26T11:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1916073163362045960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1682445540695609345",
+          "start": 0,
+          "username": "zfuihg81263"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1916073163362045960",
+    "in_reply_to_user_id": "1682445540695609345",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1915972224336683083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zfuihg81263 羡慕美女"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1915972200294932480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpbmkJ4aYAAx7yz.jpg",
+        "width": 1365
+      },
+      {
+        "height": 1365,
+        "media_key": "3_1915972206200557568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gpbmkf4bEAA1UKN.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1365,
+        "media_key": "3_1915972210914955264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpbmkxcbEAABs-I.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1915972203830775809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GpbmkXDbEAExz2M.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1915972224336683083",
+        "created_at": "2025-04-26T10:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T11:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1916073163362045960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1682445540695609345",
+              "start": 0,
+              "username": "zfuihg81263"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1916073163362045960",
+        "in_reply_to_user_id": "1682445540695609345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1915972224336683083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zfuihg81263 羡慕美女"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1915972200294932480",
+            "3_1915972206200557568",
+            "3_1915972210914955264",
+            "3_1915972203830775809"
+          ]
+        },
+        "author_id": "1682445540695609345",
+        "conversation_id": "1915972224336683083",
+        "created_at": "2025-04-26T03:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-26T04:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1915972224336683083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FXWkJYcoaZ",
+              "end": 70,
+              "expanded_url": "https://x.com/zfuihg81263/status/1915972224336683083/photo/1",
+              "media_key": "3_1915972200294932480",
+              "start": 47,
+              "url": "https://t.co/FXWkJYcoaZ"
+            },
+            {
+              "display_url": "pic.x.com/FXWkJYcoaZ",
+              "end": 70,
+              "expanded_url": "https://x.com/zfuihg81263/status/1915972224336683083/photo/1",
+              "media_key": "3_1915972206200557568",
+              "start": 47,
+              "url": "https://t.co/FXWkJYcoaZ"
+            },
+            {
+              "display_url": "pic.x.com/FXWkJYcoaZ",
+              "end": 70,
+              "expanded_url": "https://x.com/zfuihg81263/status/1915972224336683083/photo/1",
+              "media_key": "3_1915972210914955264",
+              "start": 47,
+              "url": "https://t.co/FXWkJYcoaZ"
+            },
+            {
+              "display_url": "pic.x.com/FXWkJYcoaZ",
+              "end": 70,
+              "expanded_url": "https://x.com/zfuihg81263/status/1915972224336683083/photo/1",
+              "media_key": "3_1915972203830775809",
+              "start": 47,
+              "url": "https://t.co/FXWkJYcoaZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1915972224336683083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3355,
+          "like_count": 58,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "更新一下图片喵喵喵~实际上已经拍了很久啦🍥（小提示手机内存不够的看图片可能会闪退）bushi https://t.co/FXWkJYcoaZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2570,
+          "following_count": 614,
+          "like_count": 45973,
+          "listed_count": 4,
+          "media_count": 1174,
+          "tweet_count": 23122
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-21T17:41:09.000Z",
+        "description": "09年无证含糖 | 163cm45kg |HRT2024.10.2 |已炸柜|想和同类贴贴|性取向是同类和男娘|梦想是成为可爱的小女孩|TG:@cmyf_qwq|有事请联系我的TG|颜控|不要上来就私信要我联系方式请说明原因|不援交！|我们活着就是对恶意的最大反抗！|老公～@daiduodexs|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 71,
+                "username": "cmyf_qwq"
+              },
+              {
+                "end": 148,
+                "start": 137,
+                "username": "daiduodexs"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/cmyf_qwq",
+                "end": 23,
+                "expanded_url": "http://t.me/cmyf_qwq",
+                "start": 0,
+                "url": "https://t.co/Xg5Th62LhY"
+              }
+            ]
+          }
+        },
+        "id": "1682445540695609345",
+        "location": "小药娘和小男娘怀里",
+        "name": "朝梦引帆🍥",
+        "pinned_tweet_id": "1903313856602181945",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1864086343007268864/zYe352zI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 978,
+          "following_count": 393,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 247
+        },
+        "url": "https://t.co/Xg5Th62LhY",
+        "username": "zfuihg81263",
+        "verified": false
+      }
+    ]
+  }
+}

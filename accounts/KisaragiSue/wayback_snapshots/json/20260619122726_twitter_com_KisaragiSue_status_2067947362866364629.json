@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2067927742075809850",
+    "created_at": "2026-06-19T12:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T13:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067947362866364629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1756513049488633856",
+          "start": 0,
+          "username": "yizhiyangguang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067947362866364629",
+    "in_reply_to_user_id": "1756513049488633856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067927742075809850",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yizhiyangguang 恭喜哦！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2067927733704040448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLLBUUSboAA7__c.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2067927742075809850",
+        "created_at": "2026-06-19T12:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067947362866364629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1756513049488633856",
+              "start": 0,
+              "username": "yizhiyangguang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067947362866364629",
+        "in_reply_to_user_id": "1756513049488633856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067927742075809850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yizhiyangguang 恭喜哦！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067927733704040448"
+          ]
+        },
+        "author_id": "1756513049488633856",
+        "conversation_id": "2067927742075809850",
+        "created_at": "2026-06-19T11:09:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T12:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067927742075809850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QUdvhDj0G0",
+              "end": 36,
+              "expanded_url": "https://x.com/yizhiyangguang/status/2067927742075809850/photo/1",
+              "media_key": "3_2067927733704040448",
+              "start": 13,
+              "url": "https://t.co/QUdvhDj0G0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067927742075809850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一针！完美成功！🥰🥰🥰 https://t.co/QUdvhDj0G0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2508,
+          "following_count": 590,
+          "like_count": 44357,
+          "listed_count": 4,
+          "media_count": 1187,
+          "tweet_count": 23256
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-11T02:59:03.000Z",
+        "description": "叫我惠子咪/06出厂/玉玉症/炸柜/家暴党/intp-t/mtf/xyn/无证含糖/大学不在读\n这里只是发些碎碎念，随缘发\n\n对上我的电波就请fo我吧！",
+        "id": "1756513049488633856",
+        "location": "Rainbow🌈",
+        "name": "草莓味惠子🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061955030790369280/_ravmONh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 46,
+          "like_count": 140,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 176
+        },
+        "url": "",
+        "username": "yizhiyangguang",
+        "verified": false
+      }
+    ]
+  }
+}

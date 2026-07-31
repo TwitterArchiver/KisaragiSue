@@ -1,0 +1,221 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1798735964065673383",
+    "created_at": "2024-06-07T00:54:51.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-07T01:54:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1798881272934117679"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1647247348534489092",
+          "start": 0,
+          "username": "zzj876"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1798881272934117679",
+    "in_reply_to_user_id": "1647247348534489092",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1798735964065673383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzj876 还是解开误会承认自己给别人口过吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1798735964065673383",
+        "created_at": "2024-06-07T00:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-07T01:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1798881272934117679"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1647247348534489092",
+              "start": 0,
+              "username": "zzj876"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798881272934117679",
+        "in_reply_to_user_id": "1647247348534489092",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1798735964065673383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzj876 还是解开误会承认自己给别人口过吧"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "3_1798735945883410432"
+          ]
+        },
+        "author_id": "1647247348534489092",
+        "conversation_id": "1798735964065673383",
+        "created_at": "2024-06-06T15:17:27.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-06T16:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1798735964065673383"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/ohD2uUeXMf",
+              "end": 71,
+              "expanded_url": "https://twitter.com/zzj876/status/1798735964065673383/photo/1",
+              "media_key": "3_1798735945883410432",
+              "start": 48,
+              "url": "https://t.co/ohD2uUeXMf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1798735964065673383",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 959,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“有人造你黄谣”\n“不是，真有人造太监黄谣啊”\n“他说你给别人口过”\n“啊…嗯…这个吧…嗯…” https://t.co/ohD2uUeXMf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n非二元性别认同\n性別のことは男と女だけではない！🍥\nta、她、他均可\n @chaye621 最爱的妹妹……\n@SuperREEgo 老公……\n元ルーマニア共産党書記長ニコラエ・チャウシェスクさんが大好き💕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "chaye621"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "SuperREEgo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775887241187061760/DeLnaVEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2533,
+          "following_count": 602,
+          "like_count": 45449,
+          "listed_count": 2,
+          "tweet_count": 22188
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-15T14:36:02.000Z",
+        "description": "这里是姬姬🏳️‍⚧️🍥 /不许叫我姬巴（气鼓鼓）/（07/11/02）/172、127/无证含糖mtf（HRT2023/5/7）深柜党/天残党/是鲨鲨剑士/无主/有老婆/备注：经常喝酒，可能会冒犯别人/自用VPN：https://t.co/HtrlAXfwUl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skycloud.life/#/register?cod…",
+                "end": 130,
+                "expanded_url": "http://skycloud.life/#/register?code=PkXnDKfS",
+                "start": 107,
+                "url": "https://t.co/HtrlAXfwUl"
+              }
+            ]
+          }
+        },
+        "id": "1647247348534489092",
+        "location": "参宿四",
+        "name": "是姬姬呀🍥（色普瑞日雌贩子）",
+        "pinned_tweet_id": "1798397026549547218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661268758730780672/yqx6IrMJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6125,
+          "following_count": 916,
+          "like_count": 14531,
+          "listed_count": 17,
+          "tweet_count": 5028
+        },
+        "username": "zzj876",
+        "verified": false
+      }
+    ]
+  }
+}
