@@ -1,0 +1,206 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1793134258850247113",
+    "created_at": "2024-05-22T08:40:06.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-22T09:40:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1793200151160336604"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1505596113813876736",
+          "start": 0,
+          "username": "SHITOUKOU_17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1793200151160336604",
+    "in_reply_to_user_id": "1505596113813876736",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1793134258850247113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SHITOUKOU_17 什么时候快进到大脑插管"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1793134258850247113",
+        "created_at": "2024-05-22T08:40:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T09:40:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1793200151160336604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1505596113813876736",
+              "start": 0,
+              "username": "SHITOUKOU_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1793200151160336604",
+        "in_reply_to_user_id": "1505596113813876736",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1793134258850247113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHITOUKOU_17 什么时候快进到大脑插管"
+      },
+      {
+        "attachments": {},
+        "author_id": "1505596113813876736",
+        "conversation_id": "1793134258850247113",
+        "created_at": "2024-05-22T04:18:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-22T05:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1793134258850247113"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1793134258850247113",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 109,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "///暴论注意///\nHiFi  嗨你吗臭嗨\n与其追求功放 不如提升脑放\n\n普瑞巴林过量600mg \n\n音乐会格外具有穿透性 你不仅能加强音乐辨析度 还能够准确判断出每个声部在脑海中的位置\n\n所以说 大脑超频才是真正的臭嗨 啊不是 hifi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n非二元性别认同\n性別のことは男と女だけではない！🍥\nta、她、他均可\n @chaye621 最爱的妹妹……\n@SuperREEgo 老公……\n元ルーマニア共産党書記長ニコラエ・チャウシェスクさんが大好き💕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "chaye621"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "SuperREEgo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775887241187061760/DeLnaVEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2531,
+          "following_count": 605,
+          "like_count": 45410,
+          "listed_count": 2,
+          "tweet_count": 22156
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-20T17:24:36.000Z",
+        "description": "泛 | 05 | 雙相(躁鬱)  | 重鬱 | 焦慮 | 自傷 | 薬濫",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+ptrlC5rClZFlN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+ptrlC5rClZFlNjhl",
+                "start": 0,
+                "url": "https://t.co/S90iLDAKgt"
+              }
+            ]
+          }
+        },
+        "id": "1505596113813876736",
+        "location": "Fiume",
+        "name": "ChrorinE",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760745633219289088/gZug_FWF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 175,
+          "like_count": 7672,
+          "listed_count": 4,
+          "tweet_count": 2808
+        },
+        "url": "https://t.co/S90iLDAKgt",
+        "username": "SHITOUKOU_17",
+        "verified": false
+      }
+    ]
+  }
+}

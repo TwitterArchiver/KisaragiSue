@@ -1,0 +1,224 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1792768989816594799",
+    "created_at": "2024-05-21T04:06:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-21T05:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1792768989816594799"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1401733664682102786",
+          "start": 3,
+          "username": "Misoka___"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1792768989816594799",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "1792201769092809074",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Misoka___: 简单地说，当你在指控跨性别者维护性别（刻板印象）或意图成为他们臆想中的女性/男性时，你最好去看看相应的顺性别者正在做什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1792768989816594799",
+        "created_at": "2024-05-21T04:06:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-21T05:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1792768989816594799"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1401733664682102786",
+              "start": 3,
+              "username": "Misoka___"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1792768989816594799",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1792201769092809074",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Misoka___: 简单地说，当你在指控跨性别者维护性别（刻板印象）或意图成为他们臆想中的女性/男性时，你最好去看看相应的顺性别者正在做什么"
+      },
+      {
+        "attachments": {},
+        "author_id": "1401733664682102786",
+        "conversation_id": "1792201769092809074",
+        "created_at": "2024-05-19T14:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-19T15:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1792201769092809074"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1792201769092809074",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4776,
+          "like_count": 98,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "简单地说，当你在指控跨性别者维护性别（刻板印象）或意图成为他们臆想中的女性/男性时，你最好去看看相应的顺性别者正在做什么"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n非二元性别认同\n性別のことは男と女だけではない！🍥\nta、她、他均可\n @chaye621 最爱的妹妹……\n@SuperREEgo 老公……\n元ルーマニア共産党書記長ニコラエ・チャウシェスクさんが大好き💕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "chaye621"
+              },
+              {
+                "end": 90,
+                "start": 79,
+                "username": "SuperREEgo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1775887241187061760/DeLnaVEa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2528,
+          "following_count": 602,
+          "like_count": 45322,
+          "listed_count": 2,
+          "tweet_count": 22133
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-07T02:52:13.000Z",
+        "description": "IG: ilhajugvn丨Asexual&Panromantic丨Fight like a girl丨不完美女子丨満州語bot：@manju_gisun丨裏垢：@Fulgiyan丨桔桔：@__Ju___Ju__丨花瓣洒落在向你走来的路",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 65,
+                "username": "manju_gisun"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "Fulgiyan"
+              },
+              {
+                "end": 106,
+                "start": 94,
+                "username": "__Ju___Ju__"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xyz.damo3.site/#/register?cod…",
+                "end": 23,
+                "expanded_url": "https://xyz.damo3.site/#/register?code=P96et4ns",
+                "start": 0,
+                "url": "https://t.co/1G1Jz64Dew"
+              }
+            ]
+          }
+        },
+        "id": "1401733664682102786",
+        "location": "自用VPN🪜➡️",
+        "name": "花路",
+        "pinned_tweet_id": "1759218808835936260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1791011118682660865/LPtlGw_V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5879,
+          "following_count": 651,
+          "like_count": 99483,
+          "listed_count": 38,
+          "tweet_count": 13033
+        },
+        "url": "https://t.co/1G1Jz64Dew",
+        "username": "Misoka___",
+        "verified": false
+      }
+    ]
+  }
+}

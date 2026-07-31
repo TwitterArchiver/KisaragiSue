@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1861382655788622296",
+    "created_at": "2024-11-28T17:47:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-28T18:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1862191475016310797"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1596473224711151618",
+          "start": 0,
+          "username": "a823149315"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1862191475016310797",
+    "in_reply_to_user_id": "1596473224711151618",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1861382655788622296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a823149315 冈本超润滑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1861382655788622296",
+        "created_at": "2024-11-28T17:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-28T18:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1862191475016310797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1596473224711151618",
+              "start": 0,
+              "username": "a823149315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1862191475016310797",
+        "in_reply_to_user_id": "1596473224711151618",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1861382655788622296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a823149315 冈本超润滑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1596473224711151618",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Perfumes",
+              "id": "855110667916918784",
+              "name": "Perfumes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fragrances",
+              "id": "856559465000091648",
+              "name": "Perfumes & fragrances"
+            }
+          }
+        ],
+        "conversation_id": "1861382655788622296",
+        "created_at": "2024-11-26T12:13:02.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-26T13:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1861382655788622296"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1861382655788622296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11123,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "新买了一大盒tt，然后套上是水果味，但是是那种，网约车上劣质香水味，好想吐啊\n但是买了一大盒……\n有术后党推荐一下买哪家的tt吗我受不了了\n最好便宜一些……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2496,
+          "following_count": 581,
+          "like_count": 44412,
+          "listed_count": 1,
+          "media_count": 1152,
+          "tweet_count": 22338
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-26T11:57:39.000Z",
+        "description": "曾用笔名苦樱/术后mtf/12年经验的百合推理作者/小说置顶可看/在职社工/持证助理社工师/社工本科毕业/前机构司法社工项目主管",
+        "id": "1596473224711151618",
+        "name": "王安黛（考研版）",
+        "pinned_tweet_id": "1596477323611541504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1858009109980917762/sHnt-n2L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28881,
+          "following_count": 164,
+          "like_count": 1955,
+          "listed_count": 76,
+          "media_count": 1146,
+          "tweet_count": 7102
+        },
+        "username": "a823149315",
+        "verified": false
+      }
+    ]
+  }
+}
