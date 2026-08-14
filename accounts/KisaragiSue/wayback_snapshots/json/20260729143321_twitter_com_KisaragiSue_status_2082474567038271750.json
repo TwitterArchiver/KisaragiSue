@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2082285784661676492",
+    "created_at": "2026-07-29T14:33:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T15:33:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082474567038271750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2055498933535924224",
+          "start": 0,
+          "username": "rewolF0307"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082474567038271750",
+    "in_reply_to_user_id": "2055498933535924224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082285784661676492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rewolF0307 只要坚持好好护肤，坚持足剂量科学HRT，留长发并且好好保养护发，处理体毛和身材管理，学会画基本的日常淡妆，有条件可以用一些精华素或者美白补剂，检查用。基本上坚持个一两年都能变得很pass了。要知道就算是顺女不好好做养护也不会多漂亮的。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2082285784661676492",
+        "created_at": "2026-07-29T14:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082474567038271750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2055498933535924224",
+              "start": 0,
+              "username": "rewolF0307"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082474567038271750",
+        "in_reply_to_user_id": "2055498933535924224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082285784661676492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rewolF0307 只要坚持好好护肤，坚持足剂量科学HRT，留长发并且好好保养护发，处理体毛和身材管理，学会画基本的日常淡妆，有条件可以用一些精华素或者美白补剂，检查用。基本上坚持个一两年都能变得很pass了。要知道就算是顺女不好好做养护也不会多漂亮的。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055498933535924224",
+        "conversation_id": "2082285784661676492",
+        "created_at": "2026-07-29T02:03:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T03:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082285784661676492"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082285784661676492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1669,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊，好讨厌……\n好讨厌我的身体……\n为什么声音，体格，外貌这些东西都这么像男孩子……好讨厌\n就算去HRT的话用处也不大了吧……\n好羡慕年龄党啊……\n我这辈子好像就只能是个恶心的恶臭的令人讨厌的死宅男啊……无论我多想变成女孩子都改变不了这一点……\n呜……\n我讨厌我自己"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2536,
+          "following_count": 594,
+          "like_count": 44155,
+          "listed_count": 5,
+          "media_count": 1191,
+          "tweet_count": 23311
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-16T04:01:59.000Z",
+        "description": "🏳️‍⚧️|Birth 2010.03.07|高二|偶尔玩些音游|在学化妆|在学习c++和JavaScript|梦想是成为理想的自己|无聊时经常内耗|喜欢听ACG歌曲，术力口以及草东|不🚬不🍺不od不鉴证|喜欢发呆|想要有人陪",
+        "id": "2055498933535924224",
+        "location": "在你的怀里哦，我爱你喵",
+        "name": "朝花rewolF",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073712160799424512/TxpIClce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 63,
+          "like_count": 4652,
+          "listed_count": 1,
+          "media_count": 29,
+          "tweet_count": 446
+        },
+        "url": "",
+        "username": "rewolF0307",
+        "verified": false
+      }
+    ]
+  }
+}

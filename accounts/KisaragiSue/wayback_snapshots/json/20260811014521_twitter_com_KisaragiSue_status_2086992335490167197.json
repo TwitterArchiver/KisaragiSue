@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086992331975340032",
+        "3_2086992332726116352"
+      ]
+    },
+    "author_id": "1079483498686164992",
+    "conversation_id": "2086992335490167197",
+    "created_at": "2026-08-11T01:45:21.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T02:45:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086992335490167197"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AaC9LdGnj0",
+          "end": 27,
+          "expanded_url": "https://x.com/KisaragiSue/status/2086992335490167197/photo/1",
+          "media_key": "3_2086992331975340032",
+          "start": 4,
+          "url": "https://t.co/AaC9LdGnj0"
+        },
+        {
+          "display_url": "pic.x.com/AaC9LdGnj0",
+          "end": 27,
+          "expanded_url": "https://x.com/KisaragiSue/status/2086992335490167197/photo/1",
+          "media_key": "3_2086992332726116352",
+          "start": 4,
+          "url": "https://t.co/AaC9LdGnj0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086992335490167197",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2086992331975340032"
+      },
+      {
+        "media_key": "3_2086992332726116352"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最终稿 https://t.co/AaC9LdGnj0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2086992331975340032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPZ8d_RasAADuuI.jpg",
+        "width": 1024
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2086992332726116352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPZ8eCEaoAAdxsF.jpg",
+        "width": 343
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086992331975340032",
+            "3_2086992332726116352"
+          ]
+        },
+        "author_id": "1079483498686164992",
+        "conversation_id": "2086992335490167197",
+        "created_at": "2026-08-11T01:45:21.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T02:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086992335490167197"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AaC9LdGnj0",
+              "end": 27,
+              "expanded_url": "https://x.com/KisaragiSue/status/2086992335490167197/photo/1",
+              "media_key": "3_2086992331975340032",
+              "start": 4,
+              "url": "https://t.co/AaC9LdGnj0"
+            },
+            {
+              "display_url": "pic.x.com/AaC9LdGnj0",
+              "end": 27,
+              "expanded_url": "https://x.com/KisaragiSue/status/2086992335490167197/photo/1",
+              "media_key": "3_2086992332726116352",
+              "start": 4,
+              "url": "https://t.co/AaC9LdGnj0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086992335490167197",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086992331975340032"
+          },
+          {
+            "media_key": "3_2086992332726116352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最终稿 https://t.co/AaC9LdGnj0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2086992335490167197",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2666,
+          "following_count": 609,
+          "like_count": 44321,
+          "listed_count": 6,
+          "media_count": 1209,
+          "tweet_count": 23526
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

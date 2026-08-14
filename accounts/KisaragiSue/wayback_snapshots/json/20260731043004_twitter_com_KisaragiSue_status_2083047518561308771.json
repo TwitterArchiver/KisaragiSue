@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2082670653765984673",
+    "created_at": "2026-07-31T04:30:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T05:30:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083047518561308771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1802220361142226944",
+          "start": 0,
+          "username": "Biotechnia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083047518561308771",
+    "in_reply_to_user_id": "1802220361142226944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082908402196599040",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Biotechnia 第二，盗用身份骗取阿片类药物，和地下走私滥用各种阿片类药物片剂的状况早就持续多年了，窝也多次提到了她可以通过非法渠道获得这些而且这样的渠道一点都不少。\n如果你怀疑我提供的情况的真实性和专业性，那我告诉你我现在自己就是一名癌症患者，并且曾经有过吸毒史。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2082670653765984673",
+        "created_at": "2026-07-31T04:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T05:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083047518561308771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1802220361142226944",
+              "start": 0,
+              "username": "Biotechnia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083047518561308771",
+        "in_reply_to_user_id": "1802220361142226944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082908402196599040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Biotechnia 第二，盗用身份骗取阿片类药物，和地下走私滥用各种阿片类药物片剂的状况早就持续多年了，窝也多次提到了她可以通过非法渠道获得这些而且这样的渠道一点都不少。\n如果你怀疑我提供的情况的真实性和专业性，那我告诉你我现在自己就是一名癌症患者，并且曾经有过吸毒史。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1802220361142226944",
+        "conversation_id": "2082670653765984673",
+        "created_at": "2026-07-30T19:17:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T20:17:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082908402196599040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1079483498686164992",
+              "start": 0,
+              "username": "KisaragiSue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082908402196599040",
+        "in_reply_to_user_id": "1079483498686164992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 129,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082670653765984673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KisaragiSue 癌症患者连洛芬待因和缓释皮贴都难开，哪搞来的阿片类，还做成片剂，我不信身在南京网购能搞到这些玩意"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2558,
+          "following_count": 597,
+          "like_count": 44207,
+          "listed_count": 5,
+          "media_count": 1196,
+          "tweet_count": 23374
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-16T06:03:25.000Z",
+        "description": "憂鬱症真可怕",
+        "id": "1802220361142226944",
+        "name": "生物科技Biotech",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080320904631037952/bph3wfG2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 8,
+          "like_count": 246,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 83
+        },
+        "url": "",
+        "username": "Biotechnia",
+        "verified": false
+      }
+    ]
+  }
+}

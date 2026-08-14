@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2085346612495417653",
+    "created_at": "2026-08-06T12:45:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T13:45:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085346612495417653"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yuki_ciallo/st…",
+          "end": 161,
+          "expanded_url": "https://twitter.com/yuki_ciallo/status/2085233634555101519",
+          "start": 138,
+          "url": "https://t.co/CUtKZa8mJp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085346612495417653",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085233634555101519",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果有谁真的怀念窝，可以看看留下的聊天记录，可以在窝还活着的时候多和窝互动，窝不希望出于善意还是恶意在我死去后这个世界上会出现一个通过视奸窝的既往的言论最后生产出来的一个徒有表象的拙劣模仿窝的角色扮演玩具。如果你真的尊重窝，那么到窝死去的时候也请尊重窝永远离开的事实，好吗？ https://t.co/CUtKZa8mJp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2085346612495417653",
+        "created_at": "2026-08-06T12:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T13:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085346612495417653"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yuki_ciallo/st…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/yuki_ciallo/status/2085233634555101519",
+              "start": 138,
+              "url": "https://t.co/CUtKZa8mJp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085346612495417653",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085233634555101519",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果有谁真的怀念窝，可以看看留下的聊天记录，可以在窝还活着的时候多和窝互动，窝不希望出于善意还是恶意在我死去后这个世界上会出现一个通过视奸窝的既往的言论最后生产出来的一个徒有表象的拙劣模仿窝的角色扮演玩具。如果你真的尊重窝，那么到窝死去的时候也请尊重窝永远离开的事实，好吗？ https://t.co/CUtKZa8mJp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1393881158849503232",
+        "conversation_id": "2085233634555101519",
+        "created_at": "2026-08-06T05:16:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T06:16:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085233634555101519"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085233634555101519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 3,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我并不希望在自己逝世后，我的推特账号被AI蒸馏\n\n不是我不喜欢被蒸馏，相反，我并不反对自己被蒸馏\n\n但我在推特上发的帖子，相较于真正的我来说，还是太少了\n\n这时候，蒸馏出来的模型，至少我认为，完全不足以代表我自己\n\n一个不完整的我，真的有意义吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2586,
+          "following_count": 602,
+          "like_count": 44282,
+          "listed_count": 5,
+          "media_count": 1200,
+          "tweet_count": 23462
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-16T10:49:13.000Z",
+        "description": "MtF🏳️‍⚧️ / Sub/M / Bipolar / BPD / DID｜“被所有人爱着……这是我唯一的心愿……”",
+        "id": "1393881158849503232",
+        "location": "Betelgeuse",
+        "name": "神楽 由紀 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2073049561418150196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029423814757769216/N6DaL2T7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 450,
+          "like_count": 1138,
+          "listed_count": 5,
+          "media_count": 145,
+          "tweet_count": 1625
+        },
+        "url": "",
+        "username": "yuki_ciallo",
+        "verified": true
+      }
+    ]
+  }
+}

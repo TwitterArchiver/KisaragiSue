@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2082508340438147570",
+    "created_at": "2026-07-30T02:59:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T03:59:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082662420917690761"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2035527946354716672",
+          "start": 0,
+          "username": "Amatsukiqwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082662420917690761",
+    "in_reply_to_user_id": "2035527946354716672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082508340438147570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amatsukiqwq 正常跟汗差不多咸，有点腥，要是对方憋很久会有很多果冻状的絮状物很黏反正不快速咽下去会觉得有点反胃。之后腥味会留在嘴里很久最好去喝点含糖饮料刷个牙漱个口，一般都会脸上嘴边粘上一些所以也得好好洗洗脸，头发长的话没准发梢也会粘上一些得用消毒湿巾擦一擦要不会有味道留下来。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2082508340438147570",
+        "created_at": "2026-07-30T02:59:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T03:59:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082662420917690761"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2035527946354716672",
+              "start": 0,
+              "username": "Amatsukiqwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082662420917690761",
+        "in_reply_to_user_id": "2035527946354716672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082508340438147570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amatsukiqwq 正常跟汗差不多咸，有点腥，要是对方憋很久会有很多果冻状的絮状物很黏反正不快速咽下去会觉得有点反胃。之后腥味会留在嘴里很久最好去喝点含糖饮料刷个牙漱个口，一般都会脸上嘴边粘上一些所以也得好好洗洗脸，头发长的话没准发梢也会粘上一些得用消毒湿巾擦一擦要不会有味道留下来。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035527946354716672",
+        "conversation_id": "2082508340438147570",
+        "created_at": "2026-07-29T16:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082508340438147570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/sakuraizumisay…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/sakuraizumisayo/status/2082281526553625058",
+              "start": 13,
+              "url": "https://t.co/30xaL2xXoB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082508340438147570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 246,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082281526553625058",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什麼感覺？\n我也想要喵♡ https://t.co/30xaL2xXoB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2540,
+          "following_count": 596,
+          "like_count": 44185,
+          "listed_count": 5,
+          "media_count": 1192,
+          "tweet_count": 23329
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-22T01:25:44.000Z",
+        "description": "不想写简介……总之大家可以来找我聊天交朋友\n同类互fo\n加我discord好友喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/fM2eM59Q",
+                "end": 23,
+                "expanded_url": "https://discord.gg/fM2eM59Q",
+                "start": 0,
+                "url": "https://t.co/nK2ohygWD0"
+              }
+            ]
+          }
+        },
+        "id": "2035527946354716672",
+        "location": "重慶",
+        "name": "天月🏳️‍⚧️ 🍥",
+        "pinned_tweet_id": "2072508716562383206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068511169758064640/ImfSq6Hj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 375,
+          "like_count": 3505,
+          "listed_count": 2,
+          "media_count": 12,
+          "tweet_count": 77
+        },
+        "url": "https://t.co/nK2ohygWD0",
+        "username": "Amatsukiqwq",
+        "verified": false
+      }
+    ]
+  }
+}

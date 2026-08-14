@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2083553940357144726",
+    "created_at": "2026-08-01T14:02:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T15:02:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083553973374681251"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083553973374681251",
+    "in_reply_to_user_id": "1079483498686164992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083553956907934112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "就这样听着他心跳抱了半天，然后还让他摸摸头夸夸窝。反正就撒了会娇嗯……然后就觉得扯平了（虽然其实全程自己也没舒服到吧）但是能被抱抱摸摸就挺开心了，总之他舒服了就好……吧……（唉唉要不是环境不方便窝也早就想让他来帮窝舒服几次啊……）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2083553940357144726",
+        "created_at": "2026-08-01T14:02:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:02:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083553973374681251"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083553973374681251",
+        "in_reply_to_user_id": "1079483498686164992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083553956907934112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就这样听着他心跳抱了半天，然后还让他摸摸头夸夸窝。反正就撒了会娇嗯……然后就觉得扯平了（虽然其实全程自己也没舒服到吧）但是能被抱抱摸摸就挺开心了，总之他舒服了就好……吧……（唉唉要不是环境不方便窝也早就想让他来帮窝舒服几次啊……）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2083553940357144726",
+        "created_at": "2026-08-01T14:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T15:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083553956907934112"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083553956907934112",
+        "in_reply_to_user_id": "1079483498686164992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083553949316219134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "然后真的就脱力了喝了口水之后躺床上动不了了都，小腿也抽筋了后背脖子下颚都酸痛的。确实身体变差太多了，以前完全不会这样精疲力竭的。甚至可以来两次。反正完事之后马上就说自己好累要求他抱抱窝，他也看出窝累了就拿湿巾擦了擦就盖被子躺窝边上了，然后窝直接就钻进他怀里贴着胸口躺着，他就搂着窝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2569,
+          "following_count": 598,
+          "like_count": 44253,
+          "listed_count": 5,
+          "media_count": 1197,
+          "tweet_count": 23423
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      }
+    ]
+  }
+}

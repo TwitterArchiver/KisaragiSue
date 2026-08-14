@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2082281526553625058",
+    "created_at": "2026-07-30T03:00:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T04:00:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082662613717287267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1592531097765564416",
+          "start": 0,
+          "username": "marisasad2"
+        },
+        {
+          "end": 28,
+          "id": "1604404804440141824",
+          "start": 12,
+          "username": "SakuraizumiSayo"
+        },
+        {
+          "end": 43,
+          "id": "1283339930412998665",
+          "start": 29,
+          "username": "Skynext_China"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082662613717287267",
+    "in_reply_to_user_id": "1592531097765564416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082414833551712622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@marisasad2 @SakuraizumiSayo @Skynext_China 正常跟汗差不多咸，有点腥，要是对方憋很久会有很多果冻状的絮状物很黏反正不快速咽下去会觉得有点反胃。之后腥味会留在嘴里很久最好去喝点含糖饮料刷个牙漱个口，一般都会脸上嘴边粘上一些所以也得好好洗洗脸，头发长的话没准发梢也会粘上一些得用消毒湿巾擦一擦要不会有味道留下来。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2082281526553625058",
+        "created_at": "2026-07-30T03:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T04:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082662613717287267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1592531097765564416",
+              "start": 0,
+              "username": "marisasad2"
+            },
+            {
+              "end": 28,
+              "id": "1604404804440141824",
+              "start": 12,
+              "username": "SakuraizumiSayo"
+            },
+            {
+              "end": 43,
+              "id": "1283339930412998665",
+              "start": 29,
+              "username": "Skynext_China"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082662613717287267",
+        "in_reply_to_user_id": "1592531097765564416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082414833551712622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@marisasad2 @SakuraizumiSayo @Skynext_China 正常跟汗差不多咸，有点腥，要是对方憋很久会有很多果冻状的絮状物很黏反正不快速咽下去会觉得有点反胃。之后腥味会留在嘴里很久最好去喝点含糖饮料刷个牙漱个口，一般都会脸上嘴边粘上一些所以也得好好洗洗脸，头发长的话没准发梢也会粘上一些得用消毒湿巾擦一擦要不会有味道留下来。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1592531097765564416",
+        "conversation_id": "2082281526553625058",
+        "created_at": "2026-07-29T10:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082414833551712622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1604404804440141824",
+              "start": 0,
+              "username": "SakuraizumiSayo"
+            },
+            {
+              "end": 31,
+              "id": "1283339930412998665",
+              "start": 17,
+              "username": "Skynext_China"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082414833551712622",
+        "in_reply_to_user_id": "1604404804440141824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1693,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082281526553625058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SakuraizumiSayo @Skynext_China 何味道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2540,
+          "following_count": 596,
+          "like_count": 44186,
+          "listed_count": 5,
+          "media_count": 1192,
+          "tweet_count": 23331
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-15T14:53:05.000Z",
+        "description": "淅淅沥沥",
+        "id": "1592531097765564416",
+        "name": "white",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073628342092435456/I_u0gGCZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 76,
+          "like_count": 273,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 94
+        },
+        "url": "",
+        "username": "marisasad2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-18T09:15:15.000Z",
+        "description": "She/Her👗 · like manga,anime and games - connect with others...and dresses！🎉 🌏:English/日本語/中文 計算機和攝影愛好者/喜歡旅遊、動漫畫和遊戲/變成換裝人偶了！（不是x）\n跟隨心跳。\n（HRT 2025/11/11）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/122780618",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/122780618",
+                "start": 0,
+                "url": "https://t.co/yRn0ZOGnoQ"
+              }
+            ]
+          }
+        },
+        "id": "1604404804440141824",
+        "location": "カオスシンドローム。",
+        "name": "桜井 紗世🍥🏳️‍⚧️#Chaos;Girls",
+        "pinned_tweet_id": "2047519792673050940",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077591721894871040/xsp3A9jX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 289,
+          "following_count": 797,
+          "like_count": 17040,
+          "listed_count": 2,
+          "media_count": 75,
+          "tweet_count": 1702
+        },
+        "url": "https://t.co/yRn0ZOGnoQ",
+        "username": "SakuraizumiSayo",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-15T09:58:18.000Z",
+        "description": "あおいの いちご/AOINO-Ichigo | She/Her✿\n#鹿友 2016年に始まる✿\n19歳女大学生でMtFです✿\nESFP|156cm|50kg✿\nzho|bod|jpn|eng|fra|epo|esp|ell✿\n💝 @SakuraizumiSayo @taranakineko",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 33,
+                "tag": "鹿友"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 131,
+                "start": 115,
+                "username": "SakuraizumiSayo"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "taranakineko"
+              }
+            ]
+          }
+        },
+        "id": "1283339930412998665",
+        "location": "HCM(Hong Kong, Canton & Macau)",
+        "name": "葵野 苺 ✨🍓🏳️‍⚧️🇺🇳",
+        "pinned_tweet_id": "1610944090803437573",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1595671396780228609/v-LQ3D4-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 2433,
+          "like_count": 20455,
+          "listed_count": 2,
+          "media_count": 104,
+          "tweet_count": 2843
+        },
+        "url": "",
+        "username": "Skynext_China",
+        "verified": false
+      }
+    ]
+  }
+}

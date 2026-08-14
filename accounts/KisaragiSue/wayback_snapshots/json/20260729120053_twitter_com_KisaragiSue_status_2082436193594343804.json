@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2082417061800849829",
+    "created_at": "2026-07-29T12:00:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T13:00:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082436193594343804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1916974498903166978",
+          "start": 0,
+          "username": "Sakura8964666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082436193594343804",
+    "in_reply_to_user_id": "1916974498903166978",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082417061800849829",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sakura8964666 阿戈美拉汀纯纯的一坨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1604,
+        "media_key": "3_2082417035934580736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOY7QtUaQAAihLe.jpg",
+        "width": 720
+      },
+      {
+        "height": 951,
+        "media_key": "3_2082417051889762304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOY7RowbAAA4TBc.jpg",
+        "width": 719
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2082417061800849829",
+        "created_at": "2026-07-29T12:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T13:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082436193594343804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916974498903166978",
+              "start": 0,
+              "username": "Sakura8964666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082436193594343804",
+        "in_reply_to_user_id": "1916974498903166978",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082417061800849829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sakura8964666 阿戈美拉汀纯纯的一坨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082417035934580736",
+            "3_2082417051889762304"
+          ]
+        },
+        "author_id": "1916974498903166978",
+        "conversation_id": "2082417061800849829",
+        "created_at": "2026-07-29T10:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T11:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082417061800849829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "阿戈美拉汀（Agomelatine），商品名如维度新（Valdoxan）、烦多闪或阿美宁等，是一种新型褪黑素受体激动剂类抗抑郁药。它由法国施维雅公司开发，主要用于治疗成人重度抑郁症（MDD） 作用机制 激动受体：褪黑素MT1、MT2 选择拮抗：5-HT-₂C 间接拮抗：5-HT₂B 注意事项和副作用 最常见不良反应（通常轻中度，前2周多见）：头痛、恶心、头晕、疲劳、腹泻等，多为一过性。 重要风险：...",
+              "display_url": "jile.bid/post-197.html",
+              "end": 74,
+              "expanded_url": "https://jile.bid/post-197.html",
+              "start": 51,
+              "status": 200,
+              "title": "阿戈美拉汀",
+              "unwound_url": "https://jile.bid/post-197.html",
+              "url": "https://t.co/X12YASHQUC"
+            },
+            {
+              "display_url": "pic.x.com/u3c9j2kibj",
+              "end": 98,
+              "expanded_url": "https://x.com/Sakura8964666/status/2082417061800849829/photo/1",
+              "media_key": "3_2082417035934580736",
+              "start": 75,
+              "url": "https://t.co/u3c9j2kibj"
+            },
+            {
+              "display_url": "pic.x.com/u3c9j2kibj",
+              "end": 98,
+              "expanded_url": "https://x.com/Sakura8964666/status/2082417061800849829/photo/1",
+              "media_key": "3_2082417051889762304",
+              "start": 75,
+              "url": "https://t.co/u3c9j2kibj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082417061800849829",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 182,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "印象中阿戈美拉汀很贵\n现在10块钱一盒的\n如果是治疗失眠我推荐使用第四代安眠药\n雷米替胺：你猜我在哪\nhttps://t.co/X12YASHQUC https://t.co/u3c9j2kibj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2533,
+          "following_count": 593,
+          "like_count": 44145,
+          "listed_count": 5,
+          "media_count": 1190,
+          "tweet_count": 23305
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T21:55:19.000Z",
+        "description": "现代极乐主义者、地雷系主义支持者\n化学极乐百科：https://t.co/BeprZt3OWA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 47,
+                "expanded_url": "https://jile.bid/",
+                "start": 24,
+                "url": "https://t.co/BeprZt3OWA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/BeprZt3OWA"
+              }
+            ]
+          }
+        },
+        "id": "1916974498903166978",
+        "name": "Sakura",
+        "pinned_tweet_id": "2078738716508737549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078082221064482816/MgKCJyTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 609,
+          "like_count": 443,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 365
+        },
+        "url": "https://t.co/BeprZt3OWA",
+        "username": "Sakura8964666",
+        "verified": false
+      }
+    ]
+  }
+}

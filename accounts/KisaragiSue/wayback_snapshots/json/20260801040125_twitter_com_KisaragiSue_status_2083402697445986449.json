@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2083402697445986449",
+    "created_at": "2026-08-01T04:01:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T05:01:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083402697445986449"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kkaawaayii/sta…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/kkaawaayii/status/2083016386385707357",
+          "start": 12,
+          "url": "https://t.co/6EWR2DxM8q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083402697445986449",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083016386385707357",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "经典要求父母同意\n服了 https://t.co/6EWR2DxM8q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2083016372544540672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOhcWsLXEAAXXXb.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2083402697445986449",
+        "created_at": "2026-08-01T04:01:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T05:01:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083402697445986449"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kkaawaayii/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/kkaawaayii/status/2083016386385707357",
+              "start": 12,
+              "url": "https://t.co/6EWR2DxM8q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083402697445986449",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083016386385707357",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "经典要求父母同意\n服了 https://t.co/6EWR2DxM8q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083016372544540672"
+          ]
+        },
+        "author_id": "1882099914886537220",
+        "conversation_id": "2083016386385707357",
+        "created_at": "2026-07-31T02:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T03:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083016386385707357"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nXuhjlpAxE",
+              "end": 146,
+              "expanded_url": "https://x.com/kkaawaayii/status/2083016386385707357/photo/1",
+              "media_key": "3_2083016372544540672",
+              "start": 123,
+              "url": "https://t.co/nXuhjlpAxE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083016386385707357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 9575,
+          "like_count": 51,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好难受，今天早上起床发现自己遗精了。虽然说刚开始hrt有存货很正常，上次排出也是六月份的事了，但还是好难受，焦虑又犯了。去了解了一些信息，跨女做啥手术都要父母，单QQ卸载都得父母同意，还要一两万，想了想还是算了。附一张网上看到的QQ卸载所需材料 https://t.co/nXuhjlpAxE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2568,
+          "following_count": 598,
+          "like_count": 44233,
+          "listed_count": 5,
+          "media_count": 1197,
+          "tweet_count": 23399
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-22T16:16:26.000Z",
+        "description": "11岁的抑郁症，23岁才治好。03年丨深圳打工人丨169cm58kg丨12岁跳楼丨2026.5.4开药治焦虑抑郁丨5.18CPA丨6.7hrt丨想和MTF贴贴",
+        "id": "1882099914886537220",
+        "name": "剧中人🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067469478430912512/L2nGDei1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 102,
+          "like_count": 10301,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1041
+        },
+        "url": "",
+        "username": "kkaawaayii",
+        "verified": false
+      }
+    ]
+  }
+}

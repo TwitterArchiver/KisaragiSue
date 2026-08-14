@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084108739758694400"
+      ],
+      "media_source_tweet_id": [
+        "2084108748927447413"
+      ]
+    },
+    "author_id": "1079483498686164992",
+    "conversation_id": "2084252605170258388",
+    "created_at": "2026-08-03T12:18:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T13:18:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084252605170258388"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 27,
+          "start": 23,
+          "tag": "水色系"
+        },
+        {
+          "end": 32,
+          "start": 28,
+          "tag": "MTF"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1853098617705496576",
+          "start": 3,
+          "username": "saysky00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JGLQdu8xES",
+          "end": 56,
+          "expanded_url": "https://x.com/saysky00/status/2084108748927447413/photo/1",
+          "media_key": "3_2084108739758694400",
+          "start": 33,
+          "url": "https://t.co/JGLQdu8xES"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084252605170258388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084108748927447413",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @saysky00: 朋友们，这是我。 #水色系 #MTF https://t.co/JGLQdu8xES"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1919,
+        "media_key": "3_2084108739758694400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOw921KaoAA__BJ.jpg",
+        "width": 1358
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084108739758694400"
+          ]
+        },
+        "author_id": "1853098617705496576",
+        "conversation_id": "2084108748927447413",
+        "created_at": "2026-08-03T02:47:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T03:47:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084108748927447413"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 13,
+              "start": 9,
+              "tag": "水色系"
+            },
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "MTF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JGLQdu8xES",
+              "end": 42,
+              "expanded_url": "https://x.com/saysky00/status/2084108748927447413/photo/1",
+              "media_key": "3_2084108739758694400",
+              "start": 19,
+              "url": "https://t.co/JGLQdu8xES"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084108748927447413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1615,
+          "like_count": 23,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "朋友们，这是我。 #水色系 #MTF https://t.co/JGLQdu8xES"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084108739758694400"
+          ],
+          "media_source_tweet_id": [
+            "2084108748927447413"
+          ]
+        },
+        "author_id": "1079483498686164992",
+        "conversation_id": "2084252605170258388",
+        "created_at": "2026-08-03T12:18:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T13:18:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084252605170258388"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "水色系"
+            },
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "MTF"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1853098617705496576",
+              "start": 3,
+              "username": "saysky00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JGLQdu8xES",
+              "end": 56,
+              "expanded_url": "https://x.com/saysky00/status/2084108748927447413/photo/1",
+              "media_key": "3_2084108739758694400",
+              "start": 33,
+              "url": "https://t.co/JGLQdu8xES"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084252605170258388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084108748927447413",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @saysky00: 朋友们，这是我。 #水色系 #MTF https://t.co/JGLQdu8xES"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2577,
+          "following_count": 600,
+          "like_count": 44289,
+          "listed_count": 5,
+          "media_count": 1197,
+          "tweet_count": 23439
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-03T15:35:51.000Z",
+        "description": "大号已被封：@saysky0\n此账号为视奸账号 167/40kg\nQQ同名",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 6,
+                "username": "saysky0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/say-about-sky",
+                "end": 23,
+                "expanded_url": "https://github.com/say-about-sky",
+                "start": 0,
+                "url": "https://t.co/AhvG1K9mNV"
+              }
+            ]
+          }
+        },
+        "id": "1853098617705496576",
+        "location": "江苏泰州/山东济南",
+        "name": "🏳️‍⚧️沙耶ク🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937730024049893377/OQvYBdnS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 137,
+          "like_count": 41,
+          "listed_count": 1,
+          "media_count": 244,
+          "tweet_count": 323
+        },
+        "url": "https://t.co/AhvG1K9mNV",
+        "username": "saysky00",
+        "verified": false
+      }
+    ]
+  }
+}

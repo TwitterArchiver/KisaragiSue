@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2083443158256611584",
+    "created_at": "2026-08-01T06:42:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T07:42:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083443166590705746"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083443166590705746",
+    "in_reply_to_user_id": "1079483498686164992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083443161276510580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "女孩子的大脑神经回路对催产素的反应是非常敏感非常强的。而催产素对女孩子的最直观影响就是希望被亲昵关照，尤其是拥抱接吻和轻柔的抚摸（比如摸摸头顺顺头发摸摸脸颊都好），这不是她刻意撒娇什么的，是真的女性在事后会特别需要和渴望这些体验。觉得累了没关系的不用紧紧相拥就躺在床上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2083443158256611584",
+        "created_at": "2026-08-01T06:42:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:42:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083443166590705746"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083443166590705746",
+        "in_reply_to_user_id": "1079483498686164992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083443161276510580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "女孩子的大脑神经回路对催产素的反应是非常敏感非常强的。而催产素对女孩子的最直观影响就是希望被亲昵关照，尤其是拥抱接吻和轻柔的抚摸（比如摸摸头顺顺头发摸摸脸颊都好），这不是她刻意撒娇什么的，是真的女性在事后会特别需要和渴望这些体验。觉得累了没关系的不用紧紧相拥就躺在床上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2083443158256611584",
+        "created_at": "2026-08-01T06:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083443161276510580"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083443161276510580",
+        "in_reply_to_user_id": "1079483498686164992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083443158256611584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完事之后拿抽纸的时候记得顺手也帮女孩子拿一张帮女孩子也擦两下，刚做完的时候女孩子真的是脱力状态的，不用擦的干净你至少擦一下外面表达一下诚意，你是真心关心她的，真的就这样一个动作女孩子就能感觉很感动。然后就是事后女孩子生理上就是会分泌很多催产素的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2568,
+          "following_count": 598,
+          "like_count": 44242,
+          "listed_count": 5,
+          "media_count": 1197,
+          "tweet_count": 23407
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2082385367697875058",
+    "created_at": "2026-07-29T09:36:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T10:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082399892883001345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1490609367019769856",
+          "start": 0,
+          "username": "Misaka0032"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082399892883001345",
+    "in_reply_to_user_id": "1490609367019769856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082385367697875058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Misaka0032 没事反正这毒虫也快给自己磕死了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 309,
+        "media_key": "3_2082385363331588096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYedHraIAAo67a.jpg",
+        "width": 479
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2082385367697875058",
+        "created_at": "2026-07-29T09:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082399892883001345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1490609367019769856",
+              "start": 0,
+              "username": "Misaka0032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082399892883001345",
+        "in_reply_to_user_id": "1490609367019769856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082385367697875058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misaka0032 没事反正这毒虫也快给自己磕死了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082385363331588096"
+          ]
+        },
+        "author_id": "1490609367019769856",
+        "conversation_id": "2082385367697875058",
+        "created_at": "2026-07-29T08:38:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T09:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082385367697875058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hb9WlcBgto",
+              "end": 172,
+              "expanded_url": "https://x.com/Misaka0032/status/2082385367697875058/photo/1",
+              "media_key": "3_2082385363331588096",
+              "start": 149,
+              "url": "https://t.co/hb9WlcBgto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082385367697875058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唐毓文 你听着\n你只是一只反社会型人格障碍的畜牲 还有夸大妄想 像你这种畜牲现实中老子见多了 你对我说那些话简直一无是处 我真的不想搭理你 闷声大发财 但是我真觉得你太可怜了 不搭理你也不太好 你现在已经是严重的精神病了 像你这种就得去精神病院天天做MECT 每天打安定和氟哌啶醇 祝早日去世 呸 https://t.co/hb9WlcBgto"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2533,
+          "following_count": 593,
+          "like_count": 44141,
+          "listed_count": 5,
+          "media_count": 1190,
+          "tweet_count": 23302
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T08:52:30.000Z",
+        "description": "（8964的水印 昵称 只是为了不让墙内转发）\n谢绝对线\n欢迎扩列 联系方式私聊\n想看什么cos可以跟我说 虽然我也没啥粉丝就是了\n不卖药！不卖药！\n世界上只有一种真正的英雄主义 那就是在认清生活的真相后依然热爱生活",
+        "id": "1490609367019769856",
+        "location": "地灵殿",
+        "name": "半灵麻薯8964",
+        "pinned_tweet_id": "2082371541548052512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082360079530299393/oetwMbqy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 488,
+          "like_count": 1778,
+          "listed_count": 5,
+          "media_count": 877,
+          "tweet_count": 2646
+        },
+        "url": "",
+        "username": "Misaka0032",
+        "verified": false
+      }
+    ]
+  }
+}

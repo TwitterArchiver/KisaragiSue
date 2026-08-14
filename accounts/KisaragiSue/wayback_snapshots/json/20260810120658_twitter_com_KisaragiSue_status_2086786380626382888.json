@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2086786380626382888",
+    "created_at": "2026-08-10T12:06:58.000Z",
+    "display_text_range": [
+      0,
+      102
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T13:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086786380626382888"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Kiri_yume1/sta…",
+          "end": 126,
+          "expanded_url": "https://twitter.com/Kiri_yume1/status/2086691615385829668",
+          "start": 103,
+          "url": "https://t.co/SSBKF7PpGZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086786380626382888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086691615385829668",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "很不幸都碰过，有几个还是医疗目的碰的\n孩子们，这些破玩意都一点都不好玩，邮票会坠机曲马多羟考酮窝只想说你没癌症碰强阿片那你是嫌自己活的长了或者想被晶了，丙泊酚就睡过去没感觉，不打依托咪酯直接打还疼的要死。 https://t.co/SSBKF7PpGZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2086786380626382888",
+        "created_at": "2026-08-10T12:06:58.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T13:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086786380626382888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Kiri_yume1/sta…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/Kiri_yume1/status/2086691615385829668",
+              "start": 103,
+              "url": "https://t.co/SSBKF7PpGZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086786380626382888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086691615385829668",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "很不幸都碰过，有几个还是医疗目的碰的\n孩子们，这些破玩意都一点都不好玩，邮票会坠机曲马多羟考酮窝只想说你没癌症碰强阿片那你是嫌自己活的长了或者想被晶了，丙泊酚就睡过去没感觉，不打依托咪酯直接打还疼的要死。 https://t.co/SSBKF7PpGZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070541460659924992",
+        "conversation_id": "2086691615385829668",
+        "created_at": "2026-08-10T05:50:24.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T06:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086691615385829668"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086691615385829668",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 225,
+          "like_count": 4,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想吃lsd好想吃曲马多好想吃羟考酮好想用丙泊酚。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2086786380626382888",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2664,
+          "following_count": 610,
+          "like_count": 44319,
+          "listed_count": 6,
+          "media_count": 1207,
+          "tweet_count": 23507
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-26T16:16:49.000Z",
+        "description": "わがはいはきり夢です ||",
+        "id": "2070541460659924992",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086713694596272472",
+        "name": "Kiriyume",
+        "pinned_tweet_id": "2070546609449173327",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070541460659924992/1782492879",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085185472918441984/2AOv8azU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 121,
+          "like_count": 397,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 262
+        },
+        "url": "",
+        "username": "Kiri_yume1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

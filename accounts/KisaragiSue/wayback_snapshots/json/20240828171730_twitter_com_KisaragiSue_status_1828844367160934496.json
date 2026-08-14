@@ -1,0 +1,120 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1828844367160934496",
+    "created_at": "2024-08-28T17:17:30.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-28T18:17:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1828844367160934496"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1828844367160934496",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你别整我了姐，我现实就一丑屌郭楠门酱药娘，死活读了十几年书爆父母金币吃了个糖，我就想刷个推图个乐子，一上来看见你们这么pass我难受死了，我就是个什么都没有的废物，你多勇敢呐，我碰见喜欢的药娘都不敢上去要微信，我后悔死了，我可能这辈子都只是个丑逼郭楠，我知道你牛了，但是你让我们这群刷"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1828844367160934496",
+        "created_at": "2024-08-28T17:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-28T18:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1828844367160934496"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1828844367160934496",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你别整我了姐，我现实就一丑屌郭楠门酱药娘，死活读了十几年书爆父母金币吃了个糖，我就想刷个推图个乐子，一上来看见你们这么pass我难受死了，我就是个什么都没有的废物，你多勇敢呐，我碰见喜欢的药娘都不敢上去要微信，我后悔死了，我可能这辈子都只是个丑逼郭楠，我知道你牛了，但是你让我们这群刷"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n非二元性别认同\n性別のことは男と女だけではない！🍥\nta、她、他均可\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n@Misaka0032 老公……\n元ルーマニア共産党書記長ニコラエ・チャウシェスクさんが大好き💕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "chaye621"
+              },
+              {
+                "end": 98,
+                "start": 84,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2493,
+          "following_count": 593,
+          "like_count": 45030,
+          "listed_count": 2,
+          "tweet_count": 22277
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1820243206954729673",
+    "created_at": "2024-08-06T02:31:49.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-06T03:31:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1820648944659317140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1697936336228126721",
+          "start": 0,
+          "username": "hu2xiao3yu3"
+        },
+        {
+          "end": 24,
+          "id": "1537780582758830080",
+          "start": 13,
+          "username": "luxuanwen3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1820648944659317140",
+    "in_reply_to_user_id": "1697936336228126721",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1820243206954729673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hu2xiao3yu3 @luxuanwen3 晚安，在那个世界做个漂亮的女孩子吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1820243206954729673",
+        "created_at": "2024-08-06T02:31:49.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-06T03:31:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1820648944659317140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1697936336228126721",
+              "start": 0,
+              "username": "hu2xiao3yu3"
+            },
+            {
+              "end": 24,
+              "id": "1537780582758830080",
+              "start": 13,
+              "username": "luxuanwen3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820648944659317140",
+        "in_reply_to_user_id": "1697936336228126721",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1820243206954729673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hu2xiao3yu3 @luxuanwen3 晚安，在那个世界做个漂亮的女孩子吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697936336228126721",
+        "conversation_id": "1820243206954729673",
+        "created_at": "2024-08-04T23:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-05T00:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1820243206954729673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 41,
+              "id": "1537780582758830080",
+              "start": 30,
+              "username": "luxuanwen3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1820243206954729673",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 71913,
+          "like_count": 401,
+          "quote_count": 8,
+          "reply_count": 187,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "讣告\n我悲痛地在此告知大家，8月5日凌晨，我们的好朋友鲵鲵(@luxuanwen3)因服用过量亚硝酸盐，抢救无效离世。\n谨此讣告，以寄哀思。\n我们永远怀念你。🕯️🕯️🕯️\n                                                   2024年8月5日\n                                                               陌小语"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n非二元性别认同\n性別のことは男と女だけではない！🍥\nta、她、他均可\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n@Misaka0032 老公……\n元ルーマニア共産党書記長ニコラエ・チャウシェスクさんが大好き💕",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 61,
+                "username": "chaye621"
+              },
+              {
+                "end": 98,
+                "start": 84,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 110,
+                "start": 99,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2487,
+          "following_count": 594,
+          "like_count": 45040,
+          "listed_count": 2,
+          "tweet_count": 22246
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T11:35:50.000Z",
+        "description": "永远怀念🕯️@luxuanwen3｜06男｜准大一生｜互联网小透明｜欢迎互fo🥺｜友跨｜ISFP｜fufu的提款机｜少女乐队重度依赖｜不涉政    🚫键政｜求同存异，爱每个推友😘｜日本語の勉強中｜  逃生舱 @xiaoyu0114514｜每星期二更新互动圈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "luxuanwen3"
+              },
+              {
+                "end": 118,
+                "start": 104,
+                "username": "xiaoyu0114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/488281645",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/488281645",
+                "start": 0,
+                "url": "https://t.co/xRdE04ITo8"
+              }
+            ]
+          }
+        },
+        "id": "1697936336228126721",
+        "location": "理塘国",
+        "name": "陌小语O.o(悼念中...)",
+        "pinned_tweet_id": "1817988554871685347",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820235764363567104/AjiqBIop_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 482,
+          "like_count": 6438,
+          "listed_count": 0,
+          "tweet_count": 684
+        },
+        "url": "https://t.co/xRdE04ITo8",
+        "username": "hu2xiao3yu3",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-17T12:54:15.000Z",
+        "description": "求fo/无证含糖🍥2024.4.21/mtf(mtx)\n /爆柜/父母严管中😢/17岁/电脑玩家/游戏又菜又爱玩😫/CS apex永杰/焦虑症/嗑药💊/不常发推/多在潜水/理智/易交友🤗/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ninibushinini",
+                "end": 23,
+                "expanded_url": "http://t.me/ninibushinini",
+                "start": 0,
+                "url": "https://t.co/WzK4Yg4eGU"
+              }
+            ]
+          }
+        },
+        "id": "1537780582758830080",
+        "location": "中国河南",
+        "name": "鲵鲵🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746754168118030336/zFYABwYz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 122,
+          "like_count": 421,
+          "listed_count": 3,
+          "tweet_count": 17
+        },
+        "url": "https://t.co/WzK4Yg4eGU",
+        "username": "luxuanwen3",
+        "verified": false
+      }
+    ]
+  }
+}

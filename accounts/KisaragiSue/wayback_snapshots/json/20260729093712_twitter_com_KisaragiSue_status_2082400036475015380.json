@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2082400036475015380",
+    "created_at": "2026-07-29T09:37:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T10:37:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082400036475015380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1490609367019769856",
+          "start": 3,
+          "username": "Misaka0032"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082400036475015380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082359722443976810",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Misaka0032: 最终还是没有脱离唐毓文的魔爪 气笑了 你们这帮神人离我远远的好不好 我跟你们没有任何关系 而且你们一点攻击性也没有 你是傻逼已经是人尽皆知的事实了 怎么你这条疯狗见谁都咬 求求 我不想得狂犬病 差不多得了 推特对我可有可无 我完全不在乎 滚吧😅😅…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1256,
+        "media_key": "3_2082358894748454912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOYGYchbUAAsOtb.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2082400036475015380",
+        "created_at": "2026-07-29T09:37:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T10:37:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082400036475015380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1490609367019769856",
+              "start": 3,
+              "username": "Misaka0032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082400036475015380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082359722443976810",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Misaka0032: 最终还是没有脱离唐毓文的魔爪 气笑了 你们这帮神人离我远远的好不好 我跟你们没有任何关系 而且你们一点攻击性也没有 你是傻逼已经是人尽皆知的事实了 怎么你这条疯狗见谁都咬 求求 我不想得狂犬病 差不多得了 推特对我可有可无 我完全不在乎 滚吧😅😅…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082358894748454912"
+          ]
+        },
+        "author_id": "1490609367019769856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082359722443976810",
+        "created_at": "2026-07-29T06:57:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T07:57:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082359722443976810"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bLCVJ0BKse",
+              "end": 148,
+              "expanded_url": "https://x.com/Misaka0032/status/2082359722443976810/photo/1",
+              "media_key": "3_2082358894748454912",
+              "start": 125,
+              "url": "https://t.co/bLCVJ0BKse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082359722443976810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "最终还是没有脱离唐毓文的魔爪 气笑了 你们这帮神人离我远远的好不好 我跟你们没有任何关系 而且你们一点攻击性也没有 你是傻逼已经是人尽皆知的事实了 怎么你这条疯狗见谁都咬 求求 我不想得狂犬病 差不多得了 推特对我可有可无 我完全不在乎 滚吧😅😅😅 https://t.co/bLCVJ0BKse"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2533,
+          "following_count": 593,
+          "like_count": 44143,
+          "listed_count": 5,
+          "media_count": 1190,
+          "tweet_count": 23303
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T08:52:30.000Z",
+        "description": "（8964的水印 昵称 只是为了不让墙内转发）\n谢绝对线\n欢迎扩列 联系方式私聊\n想看什么cos可以跟我说 虽然我也没啥粉丝就是了\n不卖药！不卖药！\n世界上只有一种真正的英雄主义 那就是在认清生活的真相后依然热爱生活",
+        "id": "1490609367019769856",
+        "location": "地灵殿",
+        "name": "半灵麻薯8964",
+        "pinned_tweet_id": "2082371541548052512",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082360079530299393/oetwMbqy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 488,
+          "like_count": 1778,
+          "listed_count": 5,
+          "media_count": 877,
+          "tweet_count": 2646
+        },
+        "url": "",
+        "username": "Misaka0032",
+        "verified": false
+      }
+    ]
+  }
+}
