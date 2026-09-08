@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2090992634869457333",
+    "created_at": "2026-08-22T05:23:31.000Z",
+    "display_text_range": [
+      13,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T06:23:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091033504025112734"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1243201577038512129",
+          "start": 0,
+          "username": "fangyuannya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091033504025112734",
+    "in_reply_to_user_id": "1243201577038512129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090992634869457333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fangyuannya 窝都住院五次了，现在住精神病院跟回了家一样。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2090992634869457333",
+        "created_at": "2026-08-22T05:23:31.000Z",
+        "display_text_range": [
+          13,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T06:23:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091033504025112734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1243201577038512129",
+              "start": 0,
+              "username": "fangyuannya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091033504025112734",
+        "in_reply_to_user_id": "1243201577038512129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090992634869457333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fangyuannya 窝都住院五次了，现在住精神病院跟回了家一样。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243201577038512129",
+        "conversation_id": "2090992634869457333",
+        "created_at": "2026-08-22T02:41:07.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T03:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090992634869457333"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Hiime0/status/…",
+              "end": 129,
+              "expanded_url": "https://twitter.com/Hiime0/status/2090830493336146090",
+              "start": 106,
+              "url": "https://t.co/DMb4tELsBR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090992634869457333",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090830493336146090",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我研究社会规训和镇压机制的时候就专门研究过有关这种设施的资料，我曾经还想住进去体验一下🫠\n上次看完一篇类似的资料以后，我觉得出院以后可能会“我将无我”，甚至是不是人都不好说。。。\n只能说，社会确实发育比较扭曲吧 https://t.co/DMb4tELsBR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "大龄MtF一只，又老又丑又肥警告⚠️\nHRT:2023-12-23\n目前方案：7天1只日雌，每天12.5CPA\n强烈反威权、反民族主义、性自由、性别自决、安那其主义者\nGIST晚期乐观预期寿命不足五年有两处肝脏转移灶被癌痛折磨中\n罕见级别的极其难治性抑郁症患者\n在2023~2024年有疯狂的od加吸毒史\n现已彻底戒断",
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2091033504025112734",
+        "name": "如月 桃華🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088824090350227486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2771,
+          "following_count": 639,
+          "like_count": 44623,
+          "listed_count": 6,
+          "media_count": 1235,
+          "tweet_count": 23791
+        },
+        "url": "",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-26T15:42:27.000Z",
+        "description": "MtF, coder, Marxist, Trotskyist, Maoist, frontend coder, political economy & historical society researcher",
+        "id": "1243201577038512129",
+        "is_identity_verified": false,
+        "location": "America",
+        "most_recent_tweet_id": "2091010089700462646",
+        "name": "Extra",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1243201577038512129/1775283859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040314010789425152/b4rnFhdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 188,
+          "like_count": 5018,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 954
+        },
+        "url": "",
+        "username": "fangyuannya",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

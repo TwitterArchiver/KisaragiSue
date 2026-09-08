@@ -1,0 +1,110 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2091104101031653378",
+    "created_at": "2026-08-22T10:04:03.000Z",
+    "display_text_range": [
+      0,
+      143
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T11:04:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091104101031653378"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2091104101031653378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "明明网络充满了未成年成瘾滥用性交易网络暴力现实霸凌辍学休学精神问题污名化地狱梗开盒开除人籍这些事情，结果来句伦理不允许讨论？\n你们首先制造了现实的残酷\n制造了让少数者、弱者被暴露、被污名、被捆上火刑柱的场所。\n随后在一切发生后，又说“啊，这一切太可怕了，我们不能讨论它”\n令人作呕的伪善"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2091104101031653378",
+        "created_at": "2026-08-22T10:04:03.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T11:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091104101031653378"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091104101031653378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明明网络充满了未成年成瘾滥用性交易网络暴力现实霸凌辍学休学精神问题污名化地狱梗开盒开除人籍这些事情，结果来句伦理不允许讨论？\n你们首先制造了现实的残酷\n制造了让少数者、弱者被暴露、被污名、被捆上火刑柱的场所。\n随后在一切发生后，又说“啊，这一切太可怕了，我们不能讨论它”\n令人作呕的伪善"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "大龄MtF一只，又老又丑又肥警告⚠️\nHRT:2023-12-23\n目前方案：7天1只日雌，每天12.5CPA\n强烈反威权、反民族主义、性自由、性别自决、安那其主义者\nGIST晚期乐观预期寿命不足五年有两处肝脏转移灶被癌痛折磨中\n罕见级别的极其难治性抑郁症患者\n在2023~2024年有疯狂的od加吸毒史\n现已彻底戒断",
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2091104101031653378",
+        "name": "如月 桃華🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088824090350227486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2771,
+          "following_count": 639,
+          "like_count": 44631,
+          "listed_count": 6,
+          "media_count": 1236,
+          "tweet_count": 23800
+        },
+        "url": "",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

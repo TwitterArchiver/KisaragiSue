@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092452817940439040"
+      ],
+      "media_source_tweet_id": [
+        "2092554395095298444"
+      ]
+    },
+    "author_id": "1079483498686164992",
+    "conversation_id": "2092932734532669590",
+    "created_at": "2026-08-27T11:10:23.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T12:10:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092932734532669590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1313122922886643714",
+          "start": 3,
+          "username": "x_angelkawaii_x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9QnXcctt7v",
+          "end": 64,
+          "expanded_url": "https://x.com/x_angelkawaii_x/status/2092554395095298444/photo/1",
+          "media_key": "3_2092452817940439040",
+          "start": 41,
+          "url": "https://t.co/9QnXcctt7v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092932734532669590",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2092452817940439040"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1584
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092554395095298444",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @x_angelkawaii_x: 夏のおもいで、わたしと作ろうな　今から https://t.co/9QnXcctt7v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 692,
+        "media_key": "3_2092452817940439040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQniwGqa4AAh_Wt.png",
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092452817940439040"
+          ],
+          "media_source_tweet_id": [
+            "2092554395095298444"
+          ]
+        },
+        "author_id": "1079483498686164992",
+        "conversation_id": "2092932734532669590",
+        "created_at": "2026-08-27T11:10:23.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T12:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092932734532669590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1313122922886643714",
+              "start": 3,
+              "username": "x_angelkawaii_x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9QnXcctt7v",
+              "end": 64,
+              "expanded_url": "https://x.com/x_angelkawaii_x/status/2092554395095298444/photo/1",
+              "media_key": "3_2092452817940439040",
+              "start": 41,
+              "url": "https://t.co/9QnXcctt7v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092932734532669590",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092452817940439040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1584
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092554395095298444",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @x_angelkawaii_x: 夏のおもいで、わたしと作ろうな　今から https://t.co/9QnXcctt7v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092452817940439040"
+          ]
+        },
+        "author_id": "1313122922886643714",
+        "conversation_id": "2092554395095298444",
+        "created_at": "2026-08-26T10:07:00.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T11:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092554395095298444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9QnXcctt7v",
+              "end": 43,
+              "expanded_url": "https://x.com/x_angelkawaii_x/status/2092554395095298444/photo/1",
+              "media_key": "3_2092452817940439040",
+              "start": 20,
+              "url": "https://t.co/9QnXcctt7v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092554395095298444",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092452817940439040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 519,
+          "impression_count": 148573,
+          "like_count": 14828,
+          "quote_count": 84,
+          "reply_count": 18,
+          "retweet_count": 1584
+        },
+        "reply_settings": "everyone",
+        "text": "夏のおもいで、わたしと作ろうな　今から https://t.co/9QnXcctt7v"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "大龄MtF一只，又老又丑又肥警告⚠️\nHRT:2023-12-23\n目前方案：7天1只日雌，每天12.5CPA\n强烈反威权、反民族主义、性自由、性别自决、安那其主义者\nGIST晚期乐观预期寿命不足五年有两处肝脏转移灶被癌痛折磨中\n罕见级别的极其难治性抑郁症患者\n在2023~2024年有疯狂的od加吸毒史\n现已彻底戒断",
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2092932734532669590",
+        "name": "如月 桃華🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088824090350227486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2796,
+          "following_count": 640,
+          "like_count": 44833,
+          "listed_count": 6,
+          "media_count": 1245,
+          "tweet_count": 23995
+        },
+        "url": "",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-05T14:24:53.000Z",
+        "description": "ほんとうは幸せを知っているのに 不幸なフリ辞められないね",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "angelkawaii.com",
+                "end": 23,
+                "expanded_url": "https://angelkawaii.com/",
+                "start": 0,
+                "url": "https://t.co/vvQuMSgTJf"
+              }
+            ]
+          }
+        },
+        "id": "1313122922886643714",
+        "is_identity_verified": false,
+        "location": "キミのぱそこん",
+        "most_recent_tweet_id": "2092783655642878045",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2089188969435246918",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1313122922886643714/1767944915",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071122258123431936/Sz2KrF5P_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544020,
+          "following_count": 1,
+          "like_count": 43,
+          "listed_count": 1156,
+          "media_count": 859,
+          "tweet_count": 2006
+        },
+        "url": "https://t.co/vvQuMSgTJf",
+        "username": "x_angelkawaii_x",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

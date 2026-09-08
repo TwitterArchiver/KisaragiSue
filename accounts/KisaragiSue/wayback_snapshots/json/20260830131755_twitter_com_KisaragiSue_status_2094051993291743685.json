@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2093942062903341540",
+    "created_at": "2026-08-30T13:17:55.000Z",
+    "display_text_range": [
+      15,
+      159
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T14:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094051993291743685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1830812464591872000",
+          "start": 0,
+          "username": "xiaoliangzi48"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094051993291743685",
+    "in_reply_to_user_id": "1830812464591872000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094015108058149300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoliangzi48 太难受了200mg磨粉加吃了四片氯硝睡了一下午……\n然后现在疼醒了……\n啊啊啊啊不能再睡了……\n药盒里面的药还没分，然后今天早上中午的药都忘记吃了……\n日雌还没打，昨天应该打的……\n做了好多怪梦……\n好晕……头好痛……癌痛也没缓解……\n抱抱……得硬挺起来至少把药分了雌打了……\n谢谢你……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2093942062903341540",
+        "created_at": "2026-08-30T13:17:55.000Z",
+        "display_text_range": [
+          15,
+          159
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T14:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094051993291743685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1830812464591872000",
+              "start": 0,
+              "username": "xiaoliangzi48"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094051993291743685",
+        "in_reply_to_user_id": "1830812464591872000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094015108058149300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoliangzi48 太难受了200mg磨粉加吃了四片氯硝睡了一下午……\n然后现在疼醒了……\n啊啊啊啊不能再睡了……\n药盒里面的药还没分，然后今天早上中午的药都忘记吃了……\n日雌还没打，昨天应该打的……\n做了好多怪梦……\n好晕……头好痛……癌痛也没缓解……\n抱抱……得硬挺起来至少把药分了雌打了……\n谢谢你……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1830812464591872000",
+        "conversation_id": "2093942062903341540",
+        "created_at": "2026-08-30T10:51:21.000Z",
+        "display_text_range": [
+          13,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T11:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094015108058149300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1079483498686164992",
+              "start": 0,
+              "username": "KisaragiSue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094015108058149300",
+        "in_reply_to_user_id": "1079483498686164992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 315,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093942062903341540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KisaragiSue 求求了🥺有没有办法不要让宝宝这么痛啊，小天使宝宝痛得无法呼吸了呜呜，赶紧抱紧宝宝，快将痛转移我身上，宝宝过的这么辛苦啊，不要再受苦了，赶快揉一揉宝宝，睡着了就不痛了宝宝"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "大龄MtF一只，又老又丑又肥警告⚠️\nHRT:2023-12-23\n目前方案：7天1只日雌，每天12.5CPA\n强烈反威权、反民族主义、性自由、性别自决、安那其主义者\nGIST晚期乐观预期寿命不足五年有两处肝脏转移灶被癌痛折磨中\n罕见级别的极其难治性抑郁症患者\n在2023~2024年有疯狂的od加吸毒史\n现已彻底戒断",
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2094051993291743685",
+        "name": "如月 桃華🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088824090350227486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2827,
+          "following_count": 644,
+          "like_count": 44952,
+          "listed_count": 6,
+          "media_count": 1247,
+          "tweet_count": 24097
+        },
+        "url": "",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-03T03:38:11.000Z",
+        "description": "",
+        "id": "1830812464591872000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094015108058149300",
+        "name": "a",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832665843865448448/lNEAZaa1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 584,
+          "like_count": 204,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 199
+        },
+        "url": "",
+        "username": "xiaoliangzi48",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

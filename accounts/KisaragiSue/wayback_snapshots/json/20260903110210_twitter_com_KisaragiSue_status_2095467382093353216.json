@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2095155194183160069",
+    "created_at": "2026-09-03T11:02:10.000Z",
+    "display_text_range": [
+      12,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T12:02:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095467382093353216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1665304321066684416",
+          "start": 0,
+          "username": "OoOooo0518"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095467382093353216",
+    "in_reply_to_user_id": "1665304321066684416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095155194183160069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OoOooo0518 不要使用糖浆形式的dxm，很危险"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095155185647767552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRN8im3aUAAXmsk.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2095155194183160069",
+        "created_at": "2026-09-03T11:02:10.000Z",
+        "display_text_range": [
+          12,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T12:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095467382093353216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1665304321066684416",
+              "start": 0,
+              "username": "OoOooo0518"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095467382093353216",
+        "in_reply_to_user_id": "1665304321066684416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095155194183160069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OoOooo0518 不要使用糖浆形式的dxm，很危险"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095155185647767552"
+          ]
+        },
+        "author_id": "1665304321066684416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2095155194183160069",
+        "created_at": "2026-09-02T14:21:39.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T15:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095155194183160069"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "od"
+            },
+            {
+              "end": 13,
+              "start": 4,
+              "tag": "overdose"
+            },
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "亚比"
+            },
+            {
+              "end": 22,
+              "start": 18,
+              "tag": "亚文化"
+            },
+            {
+              "end": 27,
+              "start": 23,
+              "tag": "愈美片"
+            },
+            {
+              "end": 33,
+              "start": 28,
+              "tag": "右美沙芬"
+            },
+            {
+              "end": 38,
+              "start": 34,
+              "tag": "地雷系"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "药商"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tu6G94DXxv",
+              "end": 161,
+              "expanded_url": "https://x.com/OoOooo0518/status/2095155194183160069/photo/1",
+              "media_key": "3_2095155185647767552",
+              "start": 138,
+              "url": "https://t.co/tu6G94DXxv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095155194183160069",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095155185647767552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1931,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "#od #overdose #亚比 #亚文化\n#愈美片 #右美沙芬 #地雷系\n#药商 \n买了两瓶糖浆在外面一口气吹完啦\n两瓶的量=60t右美沙芬 害 这个要是有进货渠道就好了 不过可惜太苦了一般人很难喝下去而且容易吐 不过优势是不用身份证不用处方。。喝完只能独自在外挂壁TT https://t.co/tu6G94DXxv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "大龄MtF一只，又老又丑又肥警告⚠️\nHRT:2023-12-23\n目前方案：7天1只日雌，每天12.5CPA\n强烈反威权、反民族主义、性自由、性别自决、安那其主义者\nGIST晚期乐观预期寿命不足五年有两处肝脏转移灶被癌痛折磨中\n罕见级别的极其难治性抑郁症患者\n在2023~2024年有疯狂的od加吸毒史\n现已彻底戒断",
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2095467382093353216",
+        "name": "如月 桃華🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088824090350227486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2863,
+          "following_count": 654,
+          "like_count": 45065,
+          "listed_count": 6,
+          "media_count": 1251,
+          "tweet_count": 24226
+        },
+        "url": "",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-04T10:27:54.000Z",
+        "description": "mtf 重抑重焦 无证含糖 你可以叫我O泡（大一休学中 欢迎互fo 我再次重生的妹妹:@OE3IIGFQRQ9473｜28r/盒卖云药愈美片以及免费咨询药物推荐电报联系https://t.co/hleBBuHP7a或X私信 还有：你可以在下面的链接里尽情去寻找你想要的药物",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 43,
+                "username": "OE3IIGFQRQ9473"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/melody_tik",
+                "end": 107,
+                "expanded_url": "http://t.me/melody_tik",
+                "start": 84,
+                "url": "https://t.co/hleBBuHP7a"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "melodytik.github.io/overdose-and-d…",
+                "end": 23,
+                "expanded_url": "https://melodytik.github.io/overdose-and-drugs/",
+                "start": 0,
+                "url": "https://t.co/gVu7qbdlGJ"
+              }
+            ]
+          }
+        },
+        "id": "1665304321066684416",
+        "is_identity_verified": false,
+        "location": "杭州",
+        "most_recent_tweet_id": "2095456275182285110",
+        "name": "OoOooo",
+        "pinned_tweet_id": "2083268021070786824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1665304321066684416/1770916243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082407067441381376/qdkgUI2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 343,
+          "like_count": 2783,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 984
+        },
+        "url": "https://t.co/gVu7qbdlGJ",
+        "username": "OoOooo0518",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

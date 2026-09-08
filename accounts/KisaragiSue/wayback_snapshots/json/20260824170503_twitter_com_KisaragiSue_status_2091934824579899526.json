@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2091934824579899526",
+    "created_at": "2026-08-24T17:05:03.000Z",
+    "display_text_range": [
+      0,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T18:05:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091934824579899526"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Moningmeng/sta…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/Moningmeng/status/2091706418042945696",
+          "start": 41,
+          "url": "https://t.co/4m4hR4XD8U"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091934824579899526",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091706418042945696",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "杀死她们的根本不是亚硝酸钠，\n替代品也到处都是。\n——\n杀死她们的是世界的恶意。 https://t.co/4m4hR4XD8U"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2091934824579899526",
+        "created_at": "2026-08-24T17:05:03.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T18:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091934824579899526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Moningmeng/sta…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/Moningmeng/status/2091706418042945696",
+              "start": 41,
+              "url": "https://t.co/4m4hR4XD8U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091934824579899526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091706418042945696",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "杀死她们的根本不是亚硝酸钠，\n替代品也到处都是。\n——\n杀死她们的是世界的恶意。 https://t.co/4m4hR4XD8U"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1684788633797287936",
+        "conversation_id": "2091706418042945696",
+        "created_at": "2026-08-24T01:57:26.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T02:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091706418042945696"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091706418042945696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "应该完善亚盐购买的审核制度，并加大审核力度。直接彻底禁止非机构和企业购买都不为过，我不了解这个，可能我说的他们已经做了，但如果这样那就说明他们做的太烂了。我不想再在我的主页刷到自杀的了，动不动就死一个，然后发个讣告，从此以后这个人就石沉大海了，有多少人会像亲人一样闭上眼就能想到你？有多少人会在看过讣告之后就意难平？我不清楚，发出来的目的总是这么模糊，就是单纯的告诉大家她死了，然后没了，什么都没了……"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 5899,
+          "like_count": 90,
+          "quote_count": 4,
+          "reply_count": 40,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "应该完善亚盐购买的审核制度，并加大审核力度。直接彻底禁止非机构和企业购买都不为过，我不了解这个，可能我说的他们已经做了，但如果这样那就说明他们做的太烂了。我不想再在我的主页刷到自杀的了，动不动就死一个，然后发个讣告，从此以后这个人就石沉大海了，有多少人会像亲人一样闭上眼就能想到你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "大龄MtF一只，又老又丑又肥警告⚠️\nHRT:2023-12-23\n目前方案：7天1只日雌，每天12.5CPA\n强烈反威权、反民族主义、性自由、性别自决、安那其主义者\nGIST晚期乐观预期寿命不足五年有两处肝脏转移灶被癌痛折磨中\n罕见级别的极其难治性抑郁症患者\n在2023~2024年有疯狂的od加吸毒史\n现已彻底戒断",
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2091934824579899526",
+        "name": "如月 桃華🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088824090350227486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2784,
+          "following_count": 636,
+          "like_count": 44715,
+          "listed_count": 6,
+          "media_count": 1237,
+          "tweet_count": 23871
+        },
+        "url": "",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "互fo请私信 | 🏳️‍⚧️ 小证含糖 | 谷歌粉丝 | 闺蜜 @maoxianACT",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 32,
+                "username": "maoxianACT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 0,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "is_identity_verified": false,
+        "location": "Taiwan",
+        "most_recent_tweet_id": "2091916574127260027",
+        "name": "沫柠🍥",
+        "pinned_tweet_id": "2090048700722847934",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1684788633797287936/1779102633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086299839948840960/4R_bASxa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29710,
+          "following_count": 12208,
+          "like_count": 98693,
+          "listed_count": 106,
+          "media_count": 5752,
+          "tweet_count": 20487
+        },
+        "url": "https://t.co/tfhHbaQ0gW",
+        "username": "Moningmeng",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

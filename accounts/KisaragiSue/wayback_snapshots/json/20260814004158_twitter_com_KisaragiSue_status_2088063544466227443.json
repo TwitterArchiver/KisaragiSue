@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088063534651584512"
+      ]
+    },
+    "author_id": "1079483498686164992",
+    "conversation_id": "2088063544466227443",
+    "created_at": "2026-08-14T00:41:58.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T01:41:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088063544466227443"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3iatN99W7W",
+          "end": 71,
+          "expanded_url": "https://x.com/KisaragiSue/status/2088063544466227443/photo/1",
+          "media_key": "3_2088063534651584512",
+          "start": 48,
+          "url": "https://t.co/3iatN99W7W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088063544466227443",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088063534651584512"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "当你认为自己的精神or身体状过于够糟，或者睡眠障碍过于严重的时候，不妨停下来仔细看一看这张图。 https://t.co/3iatN99W7W"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088063534651584512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPpKuMNasAARZEJ.jpg",
+        "width": 955
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088063534651584512"
+          ]
+        },
+        "author_id": "1079483498686164992",
+        "conversation_id": "2088063544466227443",
+        "created_at": "2026-08-14T00:41:58.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T01:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088063544466227443"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3iatN99W7W",
+              "end": 71,
+              "expanded_url": "https://x.com/KisaragiSue/status/2088063544466227443/photo/1",
+              "media_key": "3_2088063534651584512",
+              "start": 48,
+              "url": "https://t.co/3iatN99W7W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088063544466227443",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088063534651584512"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当你认为自己的精神or身体状过于够糟，或者睡眠障碍过于严重的时候，不妨停下来仔细看一看这张图。 https://t.co/3iatN99W7W"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "我是GIST晚期患者 乐观预期剩余寿命已经不足五年 目前有两处肝脏转移灶 肠道上的肿瘤已经切除 但癌痛和失控腹泻依然存在 目前每天400mg 曲马多勉强缓解一点癌痛中，计划办理麻药使用权卡使用羟考酮。\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 102,
+                "username": "chaye621"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQcEe"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2088063544466227443",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2663,
+          "following_count": 609,
+          "like_count": 44355,
+          "listed_count": 6,
+          "media_count": 1211,
+          "tweet_count": 23573
+        },
+        "url": "https://t.co/cxt9wMQcEe",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

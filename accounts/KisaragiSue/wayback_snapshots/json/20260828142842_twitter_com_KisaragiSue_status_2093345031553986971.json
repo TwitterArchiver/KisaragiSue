@@ -1,0 +1,112 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2093345031553986971",
+    "created_at": "2026-08-28T14:28:42.000Z",
+    "display_text_range": [
+      0,
+      114
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T15:28:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093345031553986971"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2093345031553986971",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "告诉你们一个简单却鲜为人知的“经济学”常识\n在每个药物滥用者到最终结算的时刻，开始亲眼身审视整张账单上的每一项价目的时候——\n他们才会惊觉到：\n原来最后的“滥用总账”中，所有的花费中最低的那一项，\n居然都是——\n物质的购置费用。\n这世界上最蠢的事情，莫过于毒虫们攒够了钱买到了想要获得的物质，他们觉得这就“万事大吉”了，购买药品的费用就是那将“幸福和极乐就到了自己手中”的“全部成本”可悲啊……他们此刻浑然不知——当他们花出第一笔“买药钱”的那一刻，“滥用账单“的收银机才真正刚刚开始启动呢。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "告诉你们一个简单却鲜为人知的“经济学”常识\n在每个药物滥用者到最终结算的时刻，开始亲眼身审视整张账单上的每一项价目的时候——\n他们才会惊觉到：\n原来最后的“滥用总账”中，所有的花费中最低的那一项，\n居然都是——\n物质的购置费用。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2093345031553986971",
+        "created_at": "2026-08-28T14:28:42.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T15:28:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093345031553986971"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2093345031553986971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "告诉你们一个简单却鲜为人知的“经济学”常识\n在每个药物滥用者到最终结算的时刻，开始亲眼身审视整张账单上的每一项价目的时候——\n他们才会惊觉到：\n原来最后的“滥用总账”中，所有的花费中最低的那一项，\n居然都是——\n物质的购置费用。\n这世界上最蠢的事情，莫过于毒虫们攒够了钱买到了想要获得的物质，他们觉得这就“万事大吉”了，购买药品的费用就是那将“幸福和极乐就到了自己手中”的“全部成本”可悲啊……他们此刻浑然不知——当他们花出第一笔“买药钱”的那一刻，“滥用账单“的收银机才真正刚刚开始启动呢。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "告诉你们一个简单却鲜为人知的“经济学”常识\n在每个药物滥用者到最终结算的时刻，开始亲眼身审视整张账单上的每一项价目的时候——\n他们才会惊觉到：\n原来最后的“滥用总账”中，所有的花费中最低的那一项，\n居然都是——\n物质的购置费用。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "大龄MtF一只，又老又丑又肥警告⚠️\nHRT:2023-12-23\n目前方案：7天1只日雌，每天12.5CPA\n强烈反威权、反民族主义、性自由、性别自决、安那其主义者\nGIST晚期乐观预期寿命不足五年有两处肝脏转移灶被癌痛折磨中\n罕见级别的极其难治性抑郁症患者\n在2023~2024年有疯狂的od加吸毒史\n现已彻底戒断",
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2093345031553986971",
+        "name": "如月 桃華🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088824090350227486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2811,
+          "following_count": 645,
+          "like_count": 44902,
+          "listed_count": 6,
+          "media_count": 1246,
+          "tweet_count": 24069
+        },
+        "url": "",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

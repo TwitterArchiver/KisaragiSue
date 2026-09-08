@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2089346478536028187",
+    "created_at": "2026-08-17T23:05:11.000Z",
+    "display_text_range": [
+      8,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T00:05:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089488741404676294"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2060382677807857664",
+          "start": 0,
+          "username": "gl0cmh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089488741404676294",
+    "in_reply_to_user_id": "2060382677807857664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "窝快死了的状态跟HRT并没有半毛钱关系，窝快死了是因为GIST晚期加上其他大量的身体疾病，但是这些疾病都和激素治疗没有任何相关性。\n没有任何证据表明进行合乎医疗规范的，有效的HRT会导致寿命明显缩短或者其他严重健康问题（最多就是醋酸环丙孕酮和[口服]雌二醇会导致血栓风险增加[这的确是一个明确的健康风险，但是定期的体检，良好的作息都可以减少病症发生的概率，并且如果改用注射或者皮肤吸收避免首过效应摄取雌二醇，血栓的概率会大大降低]，抑郁风险增加[定期进行精神健康咨询并且准备危机干预的预案]以及肝功能损害[在正常治疗剂量下，可以通过护肝药和定期的体检避免]）\n总之，HRT的健康风险确实存在，但是并非不可规避。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089357055710925015",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gl0cmh 窝快死了的状态跟HRT并没有半毛钱关系，窝快死了是因为GIST晚期加上其他大量的身体疾病，但是这些疾病都和激素治疗没有任何相关性。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2089346478536028187",
+        "created_at": "2026-08-17T23:05:11.000Z",
+        "display_text_range": [
+          8,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T00:05:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089488741404676294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2060382677807857664",
+              "start": 0,
+              "username": "gl0cmh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089488741404676294",
+        "in_reply_to_user_id": "2060382677807857664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "窝快死了的状态跟HRT并没有半毛钱关系，窝快死了是因为GIST晚期加上其他大量的身体疾病，但是这些疾病都和激素治疗没有任何相关性。\n没有任何证据表明进行合乎医疗规范的，有效的HRT会导致寿命明显缩短或者其他严重健康问题（最多就是醋酸环丙孕酮和[口服]雌二醇会导致血栓风险增加[这的确是一个明确的健康风险，但是定期的体检，良好的作息都可以减少病症发生的概率，并且如果改用注射或者皮肤吸收避免首过效应摄取雌二醇，血栓的概率会大大降低]，抑郁风险增加[定期进行精神健康咨询并且准备危机干预的预案]以及肝功能损害[在正常治疗剂量下，可以通过护肝药和定期的体检避免]）\n总之，HRT的健康风险确实存在，但是并非不可规避。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089357055710925015",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gl0cmh 窝快死了的状态跟HRT并没有半毛钱关系，窝快死了是因为GIST晚期加上其他大量的身体疾病，但是这些疾病都和激素治疗没有任何相关性。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060382677807857664",
+        "conversation_id": "2089346478536028187",
+        "created_at": "2026-08-17T14:21:55.000Z",
+        "display_text_range": [
+          13,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T15:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089357055710925015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1079483498686164992",
+              "start": 0,
+              "username": "KisaragiSue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089357055710925015",
+        "in_reply_to_user_id": "1079483498686164992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089346478536028187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KisaragiSue 正常变性按医嘱吃药对寿命影响不大吧?"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "大龄MtF一只，又老又丑又肥警告⚠️\nHRT:2023-12-23\n目前方案：7天1只日雌，每天12.5CPA\n强烈反威权、反民族主义、性自由、性别自决、安那其主义者\nGIST晚期乐观预期寿命不足五年有两处肝脏转移灶被癌痛折磨中\n罕见级别的极其难治性抑郁症患者\n在2023~2024年有疯狂的od加吸毒史\n现已彻底戒断",
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2089488741404676294",
+        "name": "如月 桃華🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088824090350227486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2710,
+          "following_count": 612,
+          "like_count": 44436,
+          "listed_count": 6,
+          "media_count": 1225,
+          "tweet_count": 23655
+        },
+        "url": "",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-29T15:28:36.000Z",
+        "description": "你妈逼里国总统/资本操你妈主义/孙笑川主义/冲绳帝国总统/日本海海王/东南亚驻东南亚总督/蒙古海军元帅/陆上自卫队少将/社会自由主义亲爹/奥斯曼突厥可汗/梵蒂冈皇帝/跨物种做爱支持者",
+        "id": "2060382677807857664",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089405590829514972",
+        "name": "こわだ まさこ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060382677807857664/1786782483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088543228354273280/VcdVcktq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 32,
+          "like_count": 20,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 169
+        },
+        "url": "",
+        "username": "gl0cmh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

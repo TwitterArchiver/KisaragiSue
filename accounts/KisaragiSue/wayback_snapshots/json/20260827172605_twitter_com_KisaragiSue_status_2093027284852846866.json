@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2092861603775668506",
+    "created_at": "2026-08-27T17:26:05.000Z",
+    "display_text_range": [
+      11,
+      147
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T18:26:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093027284852846866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1150753335881826305",
+          "start": 0,
+          "username": "acacia038"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093027284852846866",
+    "in_reply_to_user_id": "1150753335881826305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092995646324158583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acacia038 抱抱……谢谢你的鼓励……你真的很善良。\n但是不用安慰了，因为死亡并不是一件糟糕的事情，至少对窝来说是的。\n比死要糟糕的多的事情太多了，因为窝经历的比死糟糕的多的事情就已经一大堆了。\n而且，窝也早就在计划中本来就没有打算让自己活过只25岁。窝担心的只是对生活质量的影响罢了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2092861603775668506",
+        "created_at": "2026-08-27T17:26:05.000Z",
+        "display_text_range": [
+          11,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T18:26:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093027284852846866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1150753335881826305",
+              "start": 0,
+              "username": "acacia038"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093027284852846866",
+        "in_reply_to_user_id": "1150753335881826305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092995646324158583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acacia038 抱抱……谢谢你的鼓励……你真的很善良。\n但是不用安慰了，因为死亡并不是一件糟糕的事情，至少对窝来说是的。\n比死要糟糕的多的事情太多了，因为窝经历的比死糟糕的多的事情就已经一大堆了。\n而且，窝也早就在计划中本来就没有打算让自己活过只25岁。窝担心的只是对生活质量的影响罢了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1150753335881826305",
+        "conversation_id": "2092861603775668506",
+        "created_at": "2026-08-27T15:20:22.000Z",
+        "display_text_range": [
+          13,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092995646324158583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1079483498686164992",
+              "start": 0,
+              "username": "KisaragiSue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092995646324158583",
+        "in_reply_to_user_id": "1079483498686164992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092993874998460638",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KisaragiSue 宝宝…🥺永远都有比自己惨的人，可是那又怎样呢，我不关心别人怎么样，只知道你很痛苦…🫂🫂🫂抱抱你，希望你的身体好起来！慢慢活下去，医学也会越来越进步的🫂🫂🫂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "大龄MtF一只，又老又丑又肥警告⚠️\nHRT:2023-12-23\n目前方案：7天1只日雌，每天12.5CPA\n强烈反威权、反民族主义、性自由、性别自决、安那其主义者\nGIST晚期乐观预期寿命不足五年有两处肝脏转移灶被癌痛折磨中\n罕见级别的极其难治性抑郁症患者\n在2023~2024年有疯狂的od加吸毒史\n现已彻底戒断",
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2093027284852846866",
+        "name": "如月 桃華🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088824090350227486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2802,
+          "following_count": 640,
+          "like_count": 44863,
+          "listed_count": 6,
+          "media_count": 1246,
+          "tweet_count": 24034
+        },
+        "url": "",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-07-15T13:05:50.000Z",
+        "description": "🏳️‍⚧️🌻",
+        "id": "1150753335881826305",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092995646324158583",
+        "name": "Charlotte",
+        "pinned_tweet_id": "2084147417440547047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1150753335881826305/1784478996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077063532315619328/MwXmHmj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 341,
+          "like_count": 5106,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 2280
+        },
+        "url": "",
+        "username": "acacia038",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

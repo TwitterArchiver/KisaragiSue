@@ -1,0 +1,165 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089968806802432000"
+      ]
+    },
+    "author_id": "1079483498686164992",
+    "conversation_id": "2089968821247623561",
+    "created_at": "2026-08-19T06:52:51.000Z",
+    "display_text_range": [
+      0,
+      132
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T07:52:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089968821247623561"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aDbuh8Ovgw",
+          "end": 156,
+          "expanded_url": "https://x.com/KisaragiSue/status/2089968821247623561/photo/1",
+          "media_key": "3_2089968806802432000",
+          "start": 133,
+          "url": "https://t.co/aDbuh8Ovgw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089968821247623561",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "alt_text": "转自【氯化钾小姐，浓度已调好，就等你发挥作用了(o^^o)-哔哩哔哩】 https://b23.tv/HGSXjq5",
+        "media_key": "3_2089968806802432000"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "属于是很乐了，虽说到之前一段时间才改变印象，以前的印象只停留在注射死刑……\n但是前段时间确实因为肠道癌症的长期腹泻还没有注意到及时补钾导致低钾血症危重，然后靠着注射氯化钾+口服钾片才救回一条狗命。\n过于幽默，平时为了弄死人才注射的氯化钾，到窝这里却变成用来救命了。\n不过氯化钾注射确实疼，即使稀释到了治疗浓度也还是很疼。\n然后现在老实了就是每天超量嘎嘎嗯造氯化钾片。现在即便腹泻也血钾正常了。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "属于是很乐了，虽说到之前一段时间才改变印象，以前的印象只停留在注射死刑……\n但是前段时间确实因为肠道癌症的长期腹泻还没有注意到及时补钾导致低钾血症危重，然后靠着注射氯化钾+口服钾片才救回一条狗命。\n过于幽默，平时为了弄死人才注射的氯化钾，到窝这里却变成用来救命了。 https://t.co/aDbuh8Ovgw"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "转自【氯化钾小姐，浓度已调好，就等你发挥作用了(o^^o)-哔哩哔哩】 https://b23.tv/HGSXjq5",
+        "height": 1132,
+        "media_key": "3_2089968806802432000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEPjoEbIAArI7Q.jpg",
+        "width": 850
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089968806802432000"
+          ]
+        },
+        "author_id": "1079483498686164992",
+        "conversation_id": "2089968821247623561",
+        "created_at": "2026-08-19T06:52:51.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089968821247623561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aDbuh8Ovgw",
+              "end": 156,
+              "expanded_url": "https://x.com/KisaragiSue/status/2089968821247623561/photo/1",
+              "media_key": "3_2089968806802432000",
+              "start": 133,
+              "url": "https://t.co/aDbuh8Ovgw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089968821247623561",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "alt_text": "转自【氯化钾小姐，浓度已调好，就等你发挥作用了(o^^o)-哔哩哔哩】 https://b23.tv/HGSXjq5",
+            "media_key": "3_2089968806802432000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "属于是很乐了，虽说到之前一段时间才改变印象，以前的印象只停留在注射死刑……\n但是前段时间确实因为肠道癌症的长期腹泻还没有注意到及时补钾导致低钾血症危重，然后靠着注射氯化钾+口服钾片才救回一条狗命。\n过于幽默，平时为了弄死人才注射的氯化钾，到窝这里却变成用来救命了。\n不过氯化钾注射确实疼，即使稀释到了治疗浓度也还是很疼。\n然后现在老实了就是每天超量嘎嘎嗯造氯化钾片。现在即便腹泻也血钾正常了。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "属于是很乐了，虽说到之前一段时间才改变印象，以前的印象只停留在注射死刑……\n但是前段时间确实因为肠道癌症的长期腹泻还没有注意到及时补钾导致低钾血症危重，然后靠着注射氯化钾+口服钾片才救回一条狗命。\n过于幽默，平时为了弄死人才注射的氯化钾，到窝这里却变成用来救命了。 https://t.co/aDbuh8Ovgw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "大龄MtF一只，又老又丑又肥警告⚠️\nHRT:2023-12-23\n目前方案：7天1只日雌，每天12.5CPA\n强烈反威权、反民族主义、性自由、性别自决、安那其主义者\nGIST晚期乐观预期寿命不足五年有两处肝脏转移灶被癌痛折磨中\n罕见级别的极其难治性抑郁症患者\n在2023~2024年有疯狂的od加吸毒史\n现已彻底戒断",
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2089968821247623561",
+        "name": "如月 桃華🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088824090350227486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2756,
+          "following_count": 637,
+          "like_count": 44516,
+          "listed_count": 6,
+          "media_count": 1229,
+          "tweet_count": 23724
+        },
+        "url": "",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

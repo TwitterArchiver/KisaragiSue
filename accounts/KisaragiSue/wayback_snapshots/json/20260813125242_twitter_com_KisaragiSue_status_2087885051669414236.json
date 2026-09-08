@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2087869937100706159",
+    "created_at": "2026-08-13T12:52:42.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T13:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087885051669414236"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1852948864539791360",
+          "start": 0,
+          "username": "Z7862947460634"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087885051669414236",
+    "in_reply_to_user_id": "1852948864539791360",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087869937100706159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Z7862947460634 好耶"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 339,
+        "media_key": "3_2087869906436186112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmani5bYAAHcik.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2087869937100706159",
+        "created_at": "2026-08-13T12:52:42.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T13:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087885051669414236"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1852948864539791360",
+              "start": 0,
+              "username": "Z7862947460634"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087885051669414236",
+        "in_reply_to_user_id": "1852948864539791360",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087869937100706159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Z7862947460634 好耶"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087869906436186112"
+          ]
+        },
+        "author_id": "1852948864539791360",
+        "conversation_id": "2087869937100706159",
+        "created_at": "2026-08-13T11:52:38.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T12:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087869937100706159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1852948864539791360",
+              "start": 2,
+              "username": "Z7862947460634"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/vYiHbnpo9E",
+              "end": 48,
+              "expanded_url": "https://x.com/Z7862947460634/status/2087869937100706159/photo/1",
+              "media_key": "3_2087869906436186112",
+              "start": 25,
+              "url": "https://t.co/vYiHbnpo9E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087869937100706159",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087869906436186112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 87,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢@Z7862947460634赠送的蓝钩钩！ https://t.co/vYiHbnpo9E"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "我是GIST晚期患者 乐观预期剩余寿命已经不足五年 目前有两处肝脏转移灶 肠道上的肿瘤已经切除 但癌痛和失控腹泻依然存在 目前每天400mg 曲马多勉强缓解一点癌痛中，计划办理麻药使用权卡使用羟考酮。\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 102,
+                "username": "chaye621"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQcEe"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2087885051669414236",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2662,
+          "following_count": 609,
+          "like_count": 44344,
+          "listed_count": 6,
+          "media_count": 1210,
+          "tweet_count": 23561
+        },
+        "url": "https://t.co/cxt9wMQcEe",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-03T05:40:25.000Z",
+        "description": "你好，这里是迅羽。交个朋友，如何？\n对外身份标识\n2008.01生人 | 友跨(🏳️‍⚧️)的AMAB | 不聊政治(吗?) | 学习公共写作 | 试图找回自己的声音(哪个?) | 互fo | 一个乐子 | 练笔杆子磨嘴皮子 | 咬文嚼字! |",
+        "id": "1852948864539791360",
+        "is_identity_verified": false,
+        "location": "猜猜看？",
+        "most_recent_tweet_id": "2087883731025744182",
+        "name": "迅羽_Xunyu",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852948864539791360/1786158771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083165051297628160/TM2Tlu26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 274,
+          "like_count": 1843,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1130
+        },
+        "url": "",
+        "username": "Z7862947460634",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

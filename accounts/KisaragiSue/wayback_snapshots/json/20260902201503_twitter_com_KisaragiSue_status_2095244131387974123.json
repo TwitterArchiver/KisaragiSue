@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2095244131387974123",
+    "created_at": "2026-09-02T20:15:03.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T21:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095244131387974123"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/woaishuji/stat…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/woaishuji/status/2095179606253064254",
+          "start": 15,
+          "url": "https://t.co/wd93IODQP1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095244131387974123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095179606253064254",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你个大笨蛋，不要再乱来了…… https://t.co/wd93IODQP1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2095244131387974123",
+        "created_at": "2026-09-02T20:15:03.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T21:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095244131387974123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/woaishuji/stat…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/woaishuji/status/2095179606253064254",
+              "start": 15,
+              "url": "https://t.co/wd93IODQP1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095244131387974123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095179606253064254",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你个大笨蛋，不要再乱来了…… https://t.co/wd93IODQP1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "897749985361444866",
+        "conversation_id": "2095179606253064254",
+        "created_at": "2026-09-02T15:58:39.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T16:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095179606253064254"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/woaishuji/stat…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/woaishuji/status/2095087973171855871",
+              "start": 27,
+              "url": "https://t.co/aYAwFnmFEl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095179606253064254",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095087973171855871",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已被家属拉倒医院洗胃\n不过我不服气 出院就吃加巴喷丁 https://t.co/aYAwFnmFEl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "大龄MtF一只，又老又丑又肥警告⚠️\nHRT:2023-12-23\n目前方案：7天1只日雌，每天12.5CPA\n强烈反威权、反民族主义、性自由、性别自决、安那其主义者\nGIST晚期乐观预期寿命不足五年有两处肝脏转移灶被癌痛折磨中\n罕见级别的极其难治性抑郁症患者\n在2023~2024年有疯狂的od加吸毒史\n现已彻底戒断",
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2095244131387974123",
+        "name": "如月 桃華🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088824090350227486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2860,
+          "following_count": 648,
+          "like_count": 45067,
+          "listed_count": 6,
+          "media_count": 1250,
+          "tweet_count": 24218
+        },
+        "url": "",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-08-16T09:20:50.000Z",
+        "description": "",
+        "id": "897749985361444866",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095179606253064254",
+        "name": "文学少女安德烈",
+        "pinned_tweet_id": "1862810120075583938",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/897749985361444866/1615129977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004417757199130624/fcknZsxJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1706,
+          "following_count": 1957,
+          "like_count": 516554,
+          "listed_count": 10,
+          "media_count": 3086,
+          "tweet_count": 17981
+        },
+        "url": "",
+        "username": "woaishuji",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

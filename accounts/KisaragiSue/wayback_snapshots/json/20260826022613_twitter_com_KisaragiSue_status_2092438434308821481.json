@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2092237167758332238",
+    "created_at": "2026-08-26T02:26:13.000Z",
+    "display_text_range": [
+      12,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T03:26:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092438434308821481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1490609367019769856",
+          "start": 0,
+          "username": "Misaka0032"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092438434308821481",
+    "in_reply_to_user_id": "1490609367019769856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092237167758332238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Misaka0032 嗯呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2808,
+        "media_key": "3_2092237158547677184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkenE0bYAApGyx.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2092237167758332238",
+        "created_at": "2026-08-26T02:26:13.000Z",
+        "display_text_range": [
+          12,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T03:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092438434308821481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1490609367019769856",
+              "start": 0,
+              "username": "Misaka0032"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092438434308821481",
+        "in_reply_to_user_id": "1490609367019769856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092237167758332238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misaka0032 嗯呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092237158547677184"
+          ]
+        },
+        "author_id": "1490609367019769856",
+        "conversation_id": "2092237167758332238",
+        "created_at": "2026-08-25T13:06:27.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T14:06:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092237167758332238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/y1elY5eNLt",
+              "end": 177,
+              "expanded_url": "https://x.com/Misaka0032/status/2092237167758332238/photo/1",
+              "media_key": "3_2092237158547677184",
+              "start": 154,
+              "url": "https://t.co/y1elY5eNLt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092237167758332238",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092237158547677184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天做了第18次MECT\n\n治疗前一天停了碳酸锂（减少谵妄剧烈程度 加快苏醒） 但是没有停专注达 因为我一直这样 然后做完轻躁狂 次日早晨 也就是今天6点 我才睡着 醒来以后浑身肌肉疼 正常现象 明天就好了\n\n大夫护士都好 我们处的来 在我跟大夫确认电量时 她开玩笑地说 我要是想还可以大点\n\n都要好好的哦 https://t.co/y1elY5eNLt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "大龄MtF一只，又老又丑又肥警告⚠️\nHRT:2023-12-23\n目前方案：7天1只日雌，每天12.5CPA\n强烈反威权、反民族主义、性自由、性别自决、安那其主义者\nGIST晚期乐观预期寿命不足五年有两处肝脏转移灶被癌痛折磨中\n罕见级别的极其难治性抑郁症患者\n在2023~2024年有疯狂的od加吸毒史\n现已彻底戒断",
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2092438434308821481",
+        "name": "如月 桃華🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088824090350227486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2786,
+          "following_count": 637,
+          "like_count": 44748,
+          "listed_count": 6,
+          "media_count": 1239,
+          "tweet_count": 23901
+        },
+        "url": "",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-07T08:52:30.000Z",
+        "description": "（8964的水印 昵称 只是为了不让墙内转发）\n谢绝对线 不接受任何形式的无端指责或者威胁\n欢迎扩列 联系方式私聊\n想看什么cos可以跟我说 虽然我也没啥粉丝就是了\n不卖药！不卖药！\n“世界上只有一种真正的英雄主义，那就是在认清生活的真相后依然热爱生活。”",
+        "id": "1490609367019769856",
+        "is_identity_verified": false,
+        "location": "地灵殿",
+        "most_recent_tweet_id": "2092237167758332238",
+        "name": "半灵麻薯8964",
+        "pinned_tweet_id": "2083060564784566771",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1490609367019769856/1769769418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082360079530299393/oetwMbqy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 943,
+          "following_count": 486,
+          "like_count": 1769,
+          "listed_count": 5,
+          "media_count": 883,
+          "tweet_count": 2661
+        },
+        "url": "",
+        "username": "Misaka0032",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

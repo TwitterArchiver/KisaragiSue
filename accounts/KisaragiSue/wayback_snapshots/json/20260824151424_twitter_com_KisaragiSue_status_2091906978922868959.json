@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2091906978922868959",
+    "created_at": "2026-08-24T15:14:24.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T16:14:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091906978922868959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1079483498686164992",
+          "start": 3,
+          "username": "KisaragiSue"
+        },
+        {
+          "end": 28,
+          "id": "1868438397083410432",
+          "start": 17,
+          "username": "2020520Rei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091906978922868959",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091906891228332113",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @KisaragiSue: @2020520Rei 呜呜呜，推既救了窝，也害了窝……\n窝的爱情来自推，认识的姐妹来自推，HRT的勇气、活下去的动力，鉴证的发泄渠道都是推……\n可真实的伤害、被网暴、看着姐妹们被网暴、被诱惑，开始嗑药、堕落、看着自己熟悉和一面之缘或者不熟悉的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2091906978922868959",
+        "created_at": "2026-08-24T15:14:24.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T16:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091906978922868959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1079483498686164992",
+              "start": 3,
+              "username": "KisaragiSue"
+            },
+            {
+              "end": 28,
+              "id": "1868438397083410432",
+              "start": 17,
+              "username": "2020520Rei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091906978922868959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091906891228332113",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @KisaragiSue: @2020520Rei 呜呜呜，推既救了窝，也害了窝……\n窝的爱情来自推，认识的姐妹来自推，HRT的勇气、活下去的动力，鉴证的发泄渠道都是推……\n可真实的伤害、被网暴、看着姐妹们被网暴、被诱惑，开始嗑药、堕落、看着自己熟悉和一面之缘或者不熟悉的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2091553088423579749",
+        "created_at": "2026-08-24T15:14:03.000Z",
+        "display_text_range": [
+          12,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T16:14:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091906891228332113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1868438397083410432",
+              "start": 0,
+              "username": "2020520Rei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091906891228332113",
+        "in_reply_to_user_id": "1868438397083410432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "呜呜呜，推既救了窝，也害了窝……\n窝的爱情来自推，认识的姐妹来自推，HRT的勇气、活下去的动力，鉴证的发泄渠道都是推……\n可真实的伤害、被网暴、看着姐妹们被网暴、被诱惑，开始嗑药、堕落、看着自己熟悉和一面之缘或者不熟悉的姐妹or同类们的讣告每天都在一个接着一个……\n被家暴……被虐待……没有药物……炸柜无法HRT……被出生父母送进扭转机构的消息永远接连不断……\n翻一翻她们的介绍……多少生命……都结束在……明明人生才刚刚开始的年龄啊！"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091553088423579749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@2020520Rei 呜呜呜，推既救了窝，也害了窝……\n窝的爱情来自推，认识的姐妹来自推，HRT的勇气、活下去的动力，鉴证的发泄渠道都是推……\n可真实的伤害、被网暴、看着姐妹们被网暴、被诱惑，开始嗑药、堕落、看着自己熟悉和一面之缘或者不熟悉的姐妹or同类们的讣告每天都在一个接着一个……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "大龄MtF一只，又老又丑又肥警告⚠️\nHRT:2023-12-23\n目前方案：7天1只日雌，每天12.5CPA\n强烈反威权、反民族主义、性自由、性别自决、安那其主义者\nGIST晚期乐观预期寿命不足五年有两处肝脏转移灶被癌痛折磨中\n罕见级别的极其难治性抑郁症患者\n在2023~2024年有疯狂的od加吸毒史\n现已彻底戒断",
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2091906978922868959",
+        "name": "如月 桃華🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088824090350227486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2783,
+          "following_count": 636,
+          "like_count": 44689,
+          "listed_count": 6,
+          "media_count": 1237,
+          "tweet_count": 23847
+        },
+        "url": "",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-15T23:30:20.000Z",
+        "description": "账号重生×3 😵\n努力转变正常人ing～🥰\n 163cm  45kg（超可爱小小只小女孩）🤤              \nsteam好友代码——1129943180欢迎大家来玩\n😼猫砂盘：聊天群921102646\n阿零的小信箱↓↓↓📬🥰（有什么都可以说哦）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2020520rei",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2020520rei",
+                "start": 0,
+                "url": "https://t.co/GffDnIhzS2"
+              }
+            ]
+          }
+        },
+        "id": "1868438397083410432",
+        "is_identity_verified": false,
+        "location": "0km",
+        "most_recent_tweet_id": "2091903131902968071",
+        "name": "ReiOᴗoಣ零酱🍥",
+        "pinned_tweet_id": "2091831775299572179",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1868438397083410432/1781224550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090614497706946560/z3GpSn9L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1305,
+          "following_count": 666,
+          "like_count": 5560,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 2917
+        },
+        "url": "https://t.co/GffDnIhzS2",
+        "username": "2020520Rei",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

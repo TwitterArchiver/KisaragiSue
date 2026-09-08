@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2089633687759650996",
+    "created_at": "2026-08-18T08:41:09.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T09:41:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089633687759650996"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KS_Nitori/stat…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/KS_Nitori/status/2089290806289158321",
+          "start": 37,
+          "url": "https://t.co/5sBSiO5C3r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089633687759650996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "mentions": [
+          {
+            "end": 311,
+            "id": "1490609367019769856",
+            "start": 300,
+            "username": "Misaka0032"
+          }
+        ]
+      },
+      "text": "名字：如月 桃華\n性别：不幸的y染色体持有女性😭\n生日：19950127\n兴趣：政治问题，哲学问题，道德问题，精神疾病和障碍问题、药物和物质使用问题、性自由与性别问题，CS（计算机科学）、（EE）电气工程学，（真空管、穿孔纸带、水银延迟线存储器，磁芯存储器）等等“远古科学技术”，并且曾经有精力的时候会收藏制造并还原这些“古老的电子设备”，耳机玄学HIFI系统，歌单涉及（古典和现代交响乐及室内乐、迷幻摇滚，经典摇滚，黑金属，旋律死亡金属，部分重口味碾核以及一些实验音乐、噪声迷幻电子乐、jpop和死宅ACG）\n身高：169~170\n体重：无可奉告\n惯用手：右\n握力：不详\n屈光：不详\n恋人（老公）：@Misaka0032\n血型：B+\n告白次数：13次左右\n被表白次数：20次左右"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089290806289158321",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "名字：如月 桃華\n性别：不幸的y染色体持有女性😭\n生日：19950127 https://t.co/5sBSiO5C3r"
+  },
+  "errors": [
+    {
+      "detail": "Could not find user with entities.note.mentions.username: [1490609367019769856].",
+      "parameter": "entities.note.mentions.username",
+      "resource_id": "1490609367019769856",
+      "resource_type": "user",
+      "title": "Not Found Error",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "1490609367019769856"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2089633687759650996",
+        "created_at": "2026-08-18T08:41:09.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T09:41:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089633687759650996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KS_Nitori/stat…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/KS_Nitori/status/2089290806289158321",
+              "start": 37,
+              "url": "https://t.co/5sBSiO5C3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089633687759650996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 311,
+                "id": "1490609367019769856",
+                "start": 300,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "text": "名字：如月 桃華\n性别：不幸的y染色体持有女性😭\n生日：19950127\n兴趣：政治问题，哲学问题，道德问题，精神疾病和障碍问题、药物和物质使用问题、性自由与性别问题，CS（计算机科学）、（EE）电气工程学，（真空管、穿孔纸带、水银延迟线存储器，磁芯存储器）等等“远古科学技术”，并且曾经有精力的时候会收藏制造并还原这些“古老的电子设备”，耳机玄学HIFI系统，歌单涉及（古典和现代交响乐及室内乐、迷幻摇滚，经典摇滚，黑金属，旋律死亡金属，部分重口味碾核以及一些实验音乐、噪声迷幻电子乐、jpop和死宅ACG）\n身高：169~170\n体重：无可奉告\n惯用手：右\n握力：不详\n屈光：不详\n恋人（老公）：@Misaka0032\n血型：B+\n告白次数：13次左右\n被表白次数：20次左右"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089290806289158321",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "名字：如月 桃華\n性别：不幸的y染色体持有女性😭\n生日：19950127 https://t.co/5sBSiO5C3r"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1847025525610762240",
+        "conversation_id": "2089290806289158321",
+        "created_at": "2026-08-17T09:58:40.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T10:58:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089290806289158321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cheese_Ghostfo…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/Cheese_Ghostfox/status/2088927073465458811",
+              "start": 149,
+              "url": "https://t.co/2hy6zPI22w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089290806289158321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1150,
+          "like_count": 24,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088927073465458811",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "名字：程 荷取\n性别：不幸的y染色体持有者😭\n生日：20090331\n兴趣：Almost everything 🙃\n身高：1750±10mm\n体重：60±2kg\n惯用手：右\n握力：低于afab平均水平()\n屈光：L＞1.5D,R＜-2.0D\n恋人：???\n血型：AB\n告白次数：0\n被表白次数：3 https://t.co/2hy6zPI22w"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "大龄MtF一只，又老又丑又肥警告⚠️\nHRT:2023-12-23\n目前方案：7天1只日雌，每天12.5CPA\n强烈反威权、反民族主义、性自由、性别自决、安那其主义者\nGIST晚期乐观预期寿命不足五年有两处肝脏转移灶被癌痛折磨中\n罕见级别的极其难治性抑郁症患者\n在2023~2024年有疯狂的od加吸毒史\n现已彻底戒断",
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2089633687759650996",
+        "name": "如月 桃華🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088824090350227486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2725,
+          "following_count": 615,
+          "like_count": 44454,
+          "listed_count": 6,
+          "media_count": 1226,
+          "tweet_count": 23670
+        },
+        "url": "",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-17T21:23:12.000Z",
+        "description": "可以以头像叫我荷取|\n备用账号： @KS_Nitori_1|\n双相？/ASD/不登校|\nmtf（HRT 20250611）|\nBI9CJE/尼康佬/机械/铁道/……（爱好广泛，但是都不精通QAQ）|\n东方/P社/少战/邦/……\n|2009～2026？\n内疚、矛盾、自责……发病时概率掉落奇怪的文本及血图。害怕被讨厌、抛弃",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 17,
+                "username": "KS_Nitori_1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ks_nitori",
+                "end": 23,
+                "expanded_url": "http://t.me/ks_nitori",
+                "start": 0,
+                "url": "https://t.co/Or6axjPT3h"
+              }
+            ]
+          }
+        },
+        "id": "1847025525610762240",
+        "is_identity_verified": false,
+        "location": "Xi'an, Shaanxi, China",
+        "most_recent_tweet_id": "2089633660811247900",
+        "name": "Nitori",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008188563092049923/XJF7Zd3G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1366,
+          "following_count": 1930,
+          "like_count": 15723,
+          "listed_count": 3,
+          "media_count": 205,
+          "tweet_count": 2713
+        },
+        "url": "https://t.co/Or6axjPT3h",
+        "username": "KS_Nitori",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

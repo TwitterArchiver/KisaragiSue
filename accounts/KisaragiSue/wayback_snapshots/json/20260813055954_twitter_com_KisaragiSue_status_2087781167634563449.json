@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2085587629526102363",
+    "created_at": "2026-08-13T05:59:54.000Z",
+    "display_text_range": [
+      13,
+      111
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T06:59:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087781167634563449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2085668508915118080",
+          "start": 0,
+          "username": "qinlin_love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087781167634563449",
+    "in_reply_to_user_id": "2085668508915118080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "窝们当时所面对现实的往往根本不是什么“生活不美满”那么轻飘飘的“状态”。使用物质的目的也并非是什么“丰富精神”这样的闲情逸致。事实上，窝们大部分在使用物质的时候，是“根本没有选择”与其说是“享乐” ，更多的物质使用者更像是一个人在手术台上即将开刀的病人，甚至刀已经划下去了，却没有麻醉。而窝们所做的，事实上更像是一个没被打麻醉却在进行手术的病人在剧痛之中随手胡乱抓到一支麻醉剂给自己注射。而这个麻醉剂便是滥用的物质。窝们知道这当然危险，这一切当然不符合规范，但是在当时那样的情况下，窝们又能选择什么呢？"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086032982125564286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qinlin_love 窝们当时所面对现实的往往根本不是什么“生活不美满”那么轻飘飘的“状态”。使用物质的目的也并非是什么“丰富精神”这样的闲情逸致。事实上，窝们大部分在使用物质的时候，是“根本没有选择”与其说是“享乐”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2085587629526102363",
+        "created_at": "2026-08-13T05:59:54.000Z",
+        "display_text_range": [
+          13,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T06:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087781167634563449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2085668508915118080",
+              "start": 0,
+              "username": "qinlin_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087781167634563449",
+        "in_reply_to_user_id": "2085668508915118080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "窝们当时所面对现实的往往根本不是什么“生活不美满”那么轻飘飘的“状态”。使用物质的目的也并非是什么“丰富精神”这样的闲情逸致。事实上，窝们大部分在使用物质的时候，是“根本没有选择”与其说是“享乐” ，更多的物质使用者更像是一个人在手术台上即将开刀的病人，甚至刀已经划下去了，却没有麻醉。而窝们所做的，事实上更像是一个没被打麻醉却在进行手术的病人在剧痛之中随手胡乱抓到一支麻醉剂给自己注射。而这个麻醉剂便是滥用的物质。窝们知道这当然危险，这一切当然不符合规范，但是在当时那样的情况下，窝们又能选择什么呢？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086032982125564286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qinlin_love 窝们当时所面对现实的往往根本不是什么“生活不美满”那么轻飘飘的“状态”。使用物质的目的也并非是什么“丰富精神”这样的闲情逸致。事实上，窝们大部分在使用物质的时候，是“根本没有选择”与其说是“享乐”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2085668508915118080",
+        "conversation_id": "2085587629526102363",
+        "created_at": "2026-08-08T10:13:14.000Z",
+        "display_text_range": [
+          13,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T11:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086032982125564286"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1079483498686164992",
+              "start": 0,
+              "username": "KisaragiSue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086032982125564286",
+        "in_reply_to_user_id": "1079483498686164992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085587629526102363",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KisaragiSue 因为现实生活的不美满所以在一种另类的生活状态下找到幸福，用以丰富身体精神的东西却在伤害身体，为什么会选择这样呢，我也不美满，但还是很难理解"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "我是GIST晚期患者 乐观预期剩余寿命已经不足五年 目前有两处肝脏转移灶 肠道上的肿瘤已经切除 但癌痛和失控腹泻依然存在 目前每天400mg 曲马多勉强缓解一点癌痛中，计划办理麻药使用权卡使用羟考酮。\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 102,
+                "username": "chaye621"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQcEe"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2087781167634563449",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2663,
+          "following_count": 610,
+          "like_count": 44346,
+          "listed_count": 6,
+          "media_count": 1210,
+          "tweet_count": 23553
+        },
+        "url": "https://t.co/cxt9wMQcEe",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-07T10:05:46.000Z",
+        "description": "呜哇，剪视频怎么这么难，建模怎么这么难，流量怎么这么烂\n困死我了，每天都这么困💤",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "希腊奶.com",
+                "end": 23,
+                "expanded_url": "http://xn--yusp0il71b.com",
+                "start": 0,
+                "url": "https://t.co/awvwzhuO1q"
+              }
+            ]
+          }
+        },
+        "id": "2085668508915118080",
+        "is_identity_verified": false,
+        "location": "你所想的地方",
+        "most_recent_tweet_id": "2087773781570015324",
+        "name": "qinlin",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2085668508915118080/1786183301",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085668899622899712/jFtBmtVP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 25,
+          "like_count": 713,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 218
+        },
+        "url": "https://t.co/awvwzhuO1q",
+        "username": "qinlin_love",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089639344273580032"
+      ]
+    },
+    "author_id": "1079483498686164992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2089332566159757772",
+    "created_at": "2026-08-18T09:04:21.000Z",
+    "display_text_range": [
+      13,
+      117
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T10:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089639525136183676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2062190491991744512",
+          "start": 0,
+          "username": "Sypshenlipu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3hGi8bPtcT",
+          "end": 141,
+          "expanded_url": "https://x.com/KisaragiSue/status/2089639525136183676/photo/1",
+          "media_key": "3_2089639344273580032",
+          "start": 118,
+          "url": "https://t.co/3hGi8bPtcT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089639525136183676",
+    "in_reply_to_user_id": "2062190491991744512",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089639344273580032"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "主要是，窝有了这个证也没什么意义\n没有开过HRT处方（因为太麻烦）\n唯一用到的时候是今年住精神病院的时候，他们看到大证允许窝在发药的时候发给窝吃自己带的补子和CPA（因为规定是原则上封闭病区不允许自带药物的）\n以及窝说自己跨性别不希望被其他男性看到身体（精神病院浴室是公共的），于是被允许在最后独自洗澡。\n还有就是窝说窝无法接受和陌生男人靠近睡觉，于是允许窝拉远了床铺，肌肉注射的时候会帮窝遮挡一下。\n不过即使如此能够受到一些尊重也挺让窝很感动了。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089532197019774992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sypshenlipu 主要是，窝有了这个证也没什么意义\n没有开过HRT处方（因为太麻烦）\n唯一用到的时候是今年住精神病院的时候，他们看到大证允许窝在发药的时候发给窝吃自己带的补子和CPA（因为规定是原则上封闭病区不允许自带药物的） https://t.co/3hGi8bPtcT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2089639344273580032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_j6YgbYAACVlx.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089639344273580032"
+          ]
+        },
+        "author_id": "1079483498686164992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2089332566159757772",
+        "created_at": "2026-08-18T09:04:21.000Z",
+        "display_text_range": [
+          13,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T10:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089639525136183676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2062190491991744512",
+              "start": 0,
+              "username": "Sypshenlipu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3hGi8bPtcT",
+              "end": 141,
+              "expanded_url": "https://x.com/KisaragiSue/status/2089639525136183676/photo/1",
+              "media_key": "3_2089639344273580032",
+              "start": 118,
+              "url": "https://t.co/3hGi8bPtcT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089639525136183676",
+        "in_reply_to_user_id": "2062190491991744512",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089639344273580032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "主要是，窝有了这个证也没什么意义\n没有开过HRT处方（因为太麻烦）\n唯一用到的时候是今年住精神病院的时候，他们看到大证允许窝在发药的时候发给窝吃自己带的补子和CPA（因为规定是原则上封闭病区不允许自带药物的）\n以及窝说自己跨性别不希望被其他男性看到身体（精神病院浴室是公共的），于是被允许在最后独自洗澡。\n还有就是窝说窝无法接受和陌生男人靠近睡觉，于是允许窝拉远了床铺，肌肉注射的时候会帮窝遮挡一下。\n不过即使如此能够受到一些尊重也挺让窝很感动了。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089532197019774992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sypshenlipu 主要是，窝有了这个证也没什么意义\n没有开过HRT处方（因为太麻烦）\n唯一用到的时候是今年住精神病院的时候，他们看到大证允许窝在发药的时候发给窝吃自己带的补子和CPA（因为规定是原则上封闭病区不允许自带药物的） https://t.co/3hGi8bPtcT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062190491991744512",
+        "conversation_id": "2089332566159757772",
+        "created_at": "2026-08-18T01:57:52.000Z",
+        "display_text_range": [
+          13,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T02:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089532197019774992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1079483498686164992",
+              "start": 0,
+              "username": "KisaragiSue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089532197019774992",
+        "in_reply_to_user_id": "1079483498686164992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 94,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089332566159757772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KisaragiSue 然而现在实际上仅仅是试图取得一张写着易性症的诊断证明都要耗费大量时间精力，\n而且留言区有个冻肉急了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "大龄MtF一只，又老又丑又肥警告⚠️\nHRT:2023-12-23\n目前方案：7天1只日雌，每天12.5CPA\n强烈反威权、反民族主义、性自由、性别自决、安那其主义者\nGIST晚期乐观预期寿命不足五年有两处肝脏转移灶被癌痛折磨中\n罕见级别的极其难治性抑郁症患者\n在2023~2024年有疯狂的od加吸毒史\n现已彻底戒断",
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2089639525136183676",
+        "name": "如月 桃華🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088824090350227486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2729,
+          "following_count": 635,
+          "like_count": 44465,
+          "listed_count": 6,
+          "media_count": 1227,
+          "tweet_count": 23682
+        },
+        "url": "",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-03T15:13:20.000Z",
+        "description": "照片是我家小貓，他叫玉米\n我是MTF\n照片是貓\n我不是男的\n照片裡也不是肥豬",
+        "id": "2062190491991744512",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089611722801955090",
+        "name": "Li pu Shen🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062190491991744512/1785166163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081762845772201984/NPuHvnRB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 317,
+          "like_count": 45100,
+          "listed_count": 5,
+          "media_count": 127,
+          "tweet_count": 1362
+        },
+        "url": "",
+        "username": "Sypshenlipu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

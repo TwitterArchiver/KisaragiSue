@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A genre for books, like Fiction",
+          "id": "85",
+          "name": "Book Genre"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Comics",
+          "id": "847521144173350912",
+          "name": "Comics"
+        }
+      }
+    ],
+    "conversation_id": "2094787632970756454",
+    "created_at": "2026-09-01T23:33:04.000Z",
+    "display_text_range": [
+      15,
+      156
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T00:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094931578409627764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2090006862074920960",
+          "start": 0,
+          "username": "littletaomiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094931578409627764",
+    "in_reply_to_user_id": "2090006862074920960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "其实正规的精神病医院的话……没那么可怕的说……\n虽然一开始要进一周重症室……\n然后会比较吵比较乱……\n但是起码可以离开一阵该死的原生家庭……\n而且心烦了难受了可以找值班医生要一针安定肌注然后好好睡一觉……\n想哭的时候随意可以放声大哭……\n可以带一两本书，一两本漫画，无聊的时候看……\n虽然极其……不好吃，但是起码能保证每天规律的三餐。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094787632970756454",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@littletaomiao 其实正规的精神病医院的话……没那么可怕的说……\n虽然一开始要进一周重症室……\n然后会比较吵比较乱……\n但是起码可以离开一阵该死的原生家庭……\n而且心烦了难受了可以找值班医生要一针安定肌注然后好好睡一觉……\n想哭的时候随意可以放声大哭……\n可以带一两本书，一两本漫画，无聊的时候看……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Comics",
+              "id": "847521144173350912",
+              "name": "Comics"
+            }
+          }
+        ],
+        "conversation_id": "2094787632970756454",
+        "created_at": "2026-09-01T23:33:04.000Z",
+        "display_text_range": [
+          15,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T00:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094931578409627764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2090006862074920960",
+              "start": 0,
+              "username": "littletaomiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094931578409627764",
+        "in_reply_to_user_id": "2090006862074920960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实正规的精神病医院的话……没那么可怕的说……\n虽然一开始要进一周重症室……\n然后会比较吵比较乱……\n但是起码可以离开一阵该死的原生家庭……\n而且心烦了难受了可以找值班医生要一针安定肌注然后好好睡一觉……\n想哭的时候随意可以放声大哭……\n可以带一两本书，一两本漫画，无聊的时候看……\n虽然极其……不好吃，但是起码能保证每天规律的三餐。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094787632970756454",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@littletaomiao 其实正规的精神病医院的话……没那么可怕的说……\n虽然一开始要进一周重症室……\n然后会比较吵比较乱……\n但是起码可以离开一阵该死的原生家庭……\n而且心烦了难受了可以找值班医生要一针安定肌注然后好好睡一觉……\n想哭的时候随意可以放声大哭……\n可以带一两本书，一两本漫画，无聊的时候看……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090006862074920960",
+        "conversation_id": "2094787632970756454",
+        "created_at": "2026-09-01T14:01:05.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T15:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094787632970756454"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094787632970756454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 421,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我家长想要我住院怎么办😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭😭，救救我。我害怕晚上突然来几个人把我搞车上送医院去"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "大龄MtF一只，又老又丑又肥警告⚠️\nHRT:2023-12-23\n目前方案：7天1只日雌，每天12.5CPA\n强烈反威权、反民族主义、性自由、性别自决、安那其主义者\nGIST晚期乐观预期寿命不足五年有两处肝脏转移灶被癌痛折磨中\n罕见级别的极其难治性抑郁症患者\n在2023~2024年有疯狂的od加吸毒史\n现已彻底戒断",
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2094931578409627764",
+        "name": "如月 桃華🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088824090350227486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2858,
+          "following_count": 646,
+          "like_count": 45074,
+          "listed_count": 6,
+          "media_count": 1250,
+          "tweet_count": 24192
+        },
+        "url": "",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T09:25:34.000Z",
+        "description": "原账号：@hutaotaohe（桃抱抱）/互fo寻回中\n生产日期：10/7/22     MTX（hrt:2026年8月21日 )\n咱喵很友好捏，欢迎来找咱喵聊天喵😋\n咱喵最喜欢的两个宝宝@Rikka8964  @XQian_12321\n姐姐：@xian_zi17640\n含喵量…很高         穷鬼，没钱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 4,
+                "username": "hutaotaohe"
+              },
+              {
+                "end": 104,
+                "start": 94,
+                "username": "Rikka8964"
+              },
+              {
+                "end": 118,
+                "start": 106,
+                "username": "XQian_12321"
+              },
+              {
+                "end": 135,
+                "start": 122,
+                "username": "xian_zi17640"
+              }
+            ]
+          }
+        },
+        "id": "2090006862074920960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094922863723819320",
+        "name": "TAO抱抱 🍥",
+        "pinned_tweet_id": "2094296228301529300",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090006862074920960/1787760420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090007381073973248/u7F5hTvX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 225,
+          "like_count": 877,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 258
+        },
+        "url": "",
+        "username": "littletaomiao",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

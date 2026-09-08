@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364667946291798017",
+          "name": "Study abroad"
+        }
+      }
+    ],
+    "conversation_id": "2092922932175786136",
+    "created_at": "2026-08-27T10:31:26.000Z",
+    "display_text_range": [
+      0,
+      114
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T11:31:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092922932175786136"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JiGuang_Lab/st…",
+          "end": 138,
+          "expanded_url": "https://twitter.com/JiGuang_Lab/status/2092559931677589713",
+          "start": 115,
+          "url": "https://t.co/d1Zlq4NBzF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092922932175786136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "窝又没有拿着枪逼着他们把窝生出来\n窝毕业之后自己找工作，完全没有使用他们正科级干部的身份给自己找个公务员的工作\n上学的时候拒绝了他们说给窝“公费”去荷兰留学的机会，窝知道那是无耻的贪污纳税人的钱。\n窝甚至在彻底失去劳动能力之前：\n睡过光木床板床，每周干六天每天十小时，一天两顿饭甚至就一顿饭，中间就休息50分钟。\n睡过房顶漏水的暗无天日的地下室，床上没有床垫就一个床单，还有一个十几块钱买的破被子，每天来电话开始就开电脑干活，一干干十几小时，维护完再睡，床上还有臭虫，厕所里面有蛆，公共澡堂的房子，窝住了半年。\n进厂打螺丝，给空调装压缩机，每一台压缩机将近10kg窝一天装上百个，给电瓶车换电瓶加水冷修电瓶车电路主板。\netc...\n为什么找不到正规工作，因为他妈的窝精神病上报了正规工作根本找不到。\n我敢说窝这辈子干过的牛马活儿吃过的屎比90%的人都多。窝要不是病情恶化彻底废了窝根本一分钱都不会啃老，也不会自我放逐去嗑药。\n我拜托你未经他人苦，莫劝他人善，谢谢！"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092559931677589713",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "窝又没有拿着枪逼着他们把窝生出来\n窝毕业之后自己找工作，完全没有使用他们正科级干部的身份给自己找个公务员的工作\n上学的时候拒绝了他们说给窝“公费”去荷兰留学的机会，窝知道那是无耻的贪污纳税人的钱。\n窝甚至在彻底失去劳动能力之前： https://t.co/d1Zlq4NBzF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364667946291798017",
+              "name": "Study abroad"
+            }
+          }
+        ],
+        "conversation_id": "2092922932175786136",
+        "created_at": "2026-08-27T10:31:26.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T11:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092922932175786136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JiGuang_Lab/st…",
+              "end": 138,
+              "expanded_url": "https://twitter.com/JiGuang_Lab/status/2092559931677589713",
+              "start": 115,
+              "url": "https://t.co/d1Zlq4NBzF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092922932175786136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "窝又没有拿着枪逼着他们把窝生出来\n窝毕业之后自己找工作，完全没有使用他们正科级干部的身份给自己找个公务员的工作\n上学的时候拒绝了他们说给窝“公费”去荷兰留学的机会，窝知道那是无耻的贪污纳税人的钱。\n窝甚至在彻底失去劳动能力之前：\n睡过光木床板床，每周干六天每天十小时，一天两顿饭甚至就一顿饭，中间就休息50分钟。\n睡过房顶漏水的暗无天日的地下室，床上没有床垫就一个床单，还有一个十几块钱买的破被子，每天来电话开始就开电脑干活，一干干十几小时，维护完再睡，床上还有臭虫，厕所里面有蛆，公共澡堂的房子，窝住了半年。\n进厂打螺丝，给空调装压缩机，每一台压缩机将近10kg窝一天装上百个，给电瓶车换电瓶加水冷修电瓶车电路主板。\netc...\n为什么找不到正规工作，因为他妈的窝精神病上报了正规工作根本找不到。\n我敢说窝这辈子干过的牛马活儿吃过的屎比90%的人都多。窝要不是病情恶化彻底废了窝根本一分钱都不会啃老，也不会自我放逐去嗑药。\n我拜托你未经他人苦，莫劝他人善，谢谢！"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092559931677589713",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "窝又没有拿着枪逼着他们把窝生出来\n窝毕业之后自己找工作，完全没有使用他们正科级干部的身份给自己找个公务员的工作\n上学的时候拒绝了他们说给窝“公费”去荷兰留学的机会，窝知道那是无耻的贪污纳税人的钱。\n窝甚至在彻底失去劳动能力之前： https://t.co/d1Zlq4NBzF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2081009888818278400",
+        "conversation_id": "2092559931677589713",
+        "created_at": "2026-08-26T10:29:00.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T11:29:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092559931677589713"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092559931677589713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7278,
+          "like_count": 77,
+          "quote_count": 2,
+          "reply_count": 41,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你说你人生最大的烦恼是什么？就是你生物爸生物娘不爱你？不爱你还在你身上花了几百万？你mlgb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "大龄MtF一只，又老又丑又肥警告⚠️\nHRT:2023-12-23\n目前方案：7天1只日雌，每天12.5CPA\n强烈反威权、反民族主义、性自由、性别自决、安那其主义者\nGIST晚期乐观预期寿命不足五年有两处肝脏转移灶被癌痛折磨中\n罕见级别的极其难治性抑郁症患者\n在2023~2024年有疯狂的od加吸毒史\n现已彻底戒断",
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2092922932175786136",
+        "name": "如月 桃華🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088824090350227486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2796,
+          "following_count": 640,
+          "like_count": 44819,
+          "listed_count": 6,
+          "media_count": 1244,
+          "tweet_count": 23977
+        },
+        "url": "",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T13:33:25.000Z",
+        "description": "极光实验室 致力于成为一个免费开放且持续更新的精神活性物质整合站点，为方便理解，取舍了大量内容 本账号为官方工作人员账号，望熟知",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/TdRUp52F7j"
+              }
+            ]
+          }
+        },
+        "id": "2081009888818278400",
+        "is_identity_verified": false,
+        "location": "化学极乐 人类崛起",
+        "most_recent_tweet_id": "2092922199300792792",
+        "name": "极光实验室",
+        "pinned_tweet_id": "2083873136043585589",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081009888818278400/1786757275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088994363607330816/g7oDgdVh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1034,
+          "following_count": 746,
+          "like_count": 446,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 438
+        },
+        "url": "https://t.co/TdRUp52F7j",
+        "username": "JiGuang_Lab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

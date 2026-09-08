@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2092615549318738357",
+    "created_at": "2026-08-26T16:04:06.000Z",
+    "display_text_range": [
+      13,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T17:04:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092644264119529790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3003755281",
+          "start": 0,
+          "username": "rokuzen6000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092644264119529790",
+    "in_reply_to_user_id": "3003755281",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092638694142582881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rokuzen6000 抱抱你……\n你也要加油啊QWQ……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2092615549318738357",
+        "created_at": "2026-08-26T16:04:06.000Z",
+        "display_text_range": [
+          13,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T17:04:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092644264119529790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3003755281",
+              "start": 0,
+              "username": "rokuzen6000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092644264119529790",
+        "in_reply_to_user_id": "3003755281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092638694142582881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rokuzen6000 抱抱你……\n你也要加油啊QWQ……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3003755281",
+        "conversation_id": "2092615549318738357",
+        "created_at": "2026-08-26T15:41:58.000Z",
+        "display_text_range": [
+          13,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T16:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092638694142582881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1079483498686164992",
+              "start": 0,
+              "username": "KisaragiSue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092638694142582881",
+        "in_reply_to_user_id": "1079483498686164992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092615549318738357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KisaragiSue 我太能理解了 我现在就在忍受疼痛 抱抱你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "大龄MtF一只，又老又丑又肥警告⚠️\nHRT:2023-12-23\n目前方案：7天1只日雌，每天12.5CPA\n强烈反威权、反民族主义、性自由、性别自决、安那其主义者\nGIST晚期乐观预期寿命不足五年有两处肝脏转移灶被癌痛折磨中\n罕见级别的极其难治性抑郁症患者\n在2023~2024年有疯狂的od加吸毒史\n现已彻底戒断",
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2092644264119529790",
+        "name": "如月 桃華🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088824090350227486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2789,
+          "following_count": 639,
+          "like_count": 44775,
+          "listed_count": 6,
+          "media_count": 1243,
+          "tweet_count": 23923
+        },
+        "url": "",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-01-30T17:18:45.000Z",
+        "description": "自残/不OD/焦虑症/\n谢谢所有人\n负能量互fo见谅",
+        "id": "3003755281",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092638694142582881",
+        "name": "六 千",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3003755281/1779708536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061787608796323840/yJRhQSy3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 395,
+          "like_count": 646,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 680
+        },
+        "url": "",
+        "username": "rokuzen6000",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2092615549318738357",
+    "created_at": "2026-08-27T09:00:22.000Z",
+    "display_text_range": [
+      10,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T10:00:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092900013986947489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "344469198",
+          "start": 0,
+          "username": "lipe_fmz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092900013986947489",
+    "in_reply_to_user_id": "344469198",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092743473841770810",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lipe_fmz 没意义了，低密度影形态大小一直不变，肝功能也没有变化，没有手术必要。\n肠道切除了肿瘤，但是不可能全部把癌细胞都清理干净那是现代医学做不到的。残留癌细胞还保持着活性，因此癌痛和肠道痉挛依然还是那个样子。\n目前窝已经做到了人类医学能做到的最好治疗程度了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2092615549318738357",
+        "created_at": "2026-08-27T09:00:22.000Z",
+        "display_text_range": [
+          10,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T10:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092900013986947489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "344469198",
+              "start": 0,
+              "username": "lipe_fmz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092900013986947489",
+        "in_reply_to_user_id": "344469198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092743473841770810",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lipe_fmz 没意义了，低密度影形态大小一直不变，肝功能也没有变化，没有手术必要。\n肠道切除了肿瘤，但是不可能全部把癌细胞都清理干净那是现代医学做不到的。残留癌细胞还保持着活性，因此癌痛和肠道痉挛依然还是那个样子。\n目前窝已经做到了人类医学能做到的最好治疗程度了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "344469198",
+        "conversation_id": "2092615549318738357",
+        "created_at": "2026-08-26T22:38:20.000Z",
+        "display_text_range": [
+          13,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T23:38:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092743473841770810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1079483498686164992",
+              "start": 0,
+              "username": "KisaragiSue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092743473841770810",
+        "in_reply_to_user_id": "1079483498686164992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092615549318738357",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KisaragiSue 对转移灶试试射频消融吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "大龄MtF一只，又老又丑又肥警告⚠️\nHRT:2023-12-23\n目前方案：7天1只日雌，每天12.5CPA\n强烈反威权、反民族主义、性自由、性别自决、安那其主义者\nGIST晚期乐观预期寿命不足五年有两处肝脏转移灶被癌痛折磨中\n罕见级别的极其难治性抑郁症患者\n在2023~2024年有疯狂的od加吸毒史\n现已彻底戒断",
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2092900013986947489",
+        "name": "如月 桃華🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088824090350227486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2794,
+          "following_count": 639,
+          "like_count": 44802,
+          "listed_count": 6,
+          "media_count": 1244,
+          "tweet_count": 23959
+        },
+        "url": "",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-07-29T03:20:47.000Z",
+        "description": "Senior otaku/hardcore sci&sci-fi fan/metrology and machine tool aficionado/LGBTQIA+ friendly/They/them/life boat account",
+        "id": "344469198",
+        "is_identity_verified": false,
+        "location": "time like infinity",
+        "most_recent_tweet_id": "2092743473841770810",
+        "name": "fillipe",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 154,
+          "like_count": 792,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 785
+        },
+        "url": "",
+        "username": "lipe_fmz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2089339682500821302",
+    "created_at": "2026-08-17T23:20:22.000Z",
+    "display_text_range": [
+      22,
+      163
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T00:20:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089492564214960584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1846458886142021633",
+          "start": 0,
+          "username": "QAQpizza"
+        },
+        {
+          "end": 21,
+          "id": "1813768883540725760",
+          "start": 10,
+          "username": "ye_and_yae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089492564214960584",
+    "in_reply_to_user_id": "1846458886142021633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089380522275512700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QAQpizza @ye_and_yae 没有了呢，晚期+已经多个转移灶，并且已经剧烈癌痛。\n嗯，会的……只要爱人在窝旁边，每天能抱抱窝，窝就足够幸福了。\n不过真希望临死前也能和妹妹住几天，然后一起去看海，不游泳什么的，只是走在沙滩，走在海边，感受着让海水冲刷过脚面的感觉，躺在沙滩上上看着晚霞落日，最好能看看星空和他接吻。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2089339682500821302",
+        "created_at": "2026-08-17T23:20:22.000Z",
+        "display_text_range": [
+          22,
+          163
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T00:20:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089492564214960584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1846458886142021633",
+              "start": 0,
+              "username": "QAQpizza"
+            },
+            {
+              "end": 21,
+              "id": "1813768883540725760",
+              "start": 10,
+              "username": "ye_and_yae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089492564214960584",
+        "in_reply_to_user_id": "1846458886142021633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089380522275512700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QAQpizza @ye_and_yae 没有了呢，晚期+已经多个转移灶，并且已经剧烈癌痛。\n嗯，会的……只要爱人在窝旁边，每天能抱抱窝，窝就足够幸福了。\n不过真希望临死前也能和妹妹住几天，然后一起去看海，不游泳什么的，只是走在沙滩，走在海边，感受着让海水冲刷过脚面的感觉，躺在沙滩上上看着晚霞落日，最好能看看星空和他接吻。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846458886142021633",
+        "conversation_id": "2089339682500821302",
+        "created_at": "2026-08-17T15:55:09.000Z",
+        "display_text_range": [
+          25,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T16:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089380522275512700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1079483498686164992",
+              "start": 0,
+              "username": "KisaragiSue"
+            },
+            {
+              "end": 24,
+              "id": "1813768883540725760",
+              "start": 13,
+              "username": "ye_and_yae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089380522275512700",
+        "in_reply_to_user_id": "1079483498686164992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089372743410262066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KisaragiSue @ye_and_yae 没有任何希望了吗……那就专心享受当下吧😔"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "大龄MtF一只，又老又丑又肥警告⚠️\nHRT:2023-12-23\n目前方案：7天1只日雌，每天12.5CPA\n强烈反威权、反民族主义、性自由、性别自决、安那其主义者\nGIST晚期乐观预期寿命不足五年有两处肝脏转移灶被癌痛折磨中\n罕见级别的极其难治性抑郁症患者\n在2023~2024年有疯狂的od加吸毒史\n现已彻底戒断",
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2089492564214960584",
+        "name": "如月 桃華🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088824090350227486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2710,
+          "following_count": 612,
+          "like_count": 44442,
+          "listed_count": 6,
+          "media_count": 1225,
+          "tweet_count": 23660
+        },
+        "url": "",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-16T07:51:31.000Z",
+        "description": "2026/07/11正式开始在X上活动\n一只mtf跨性别者🏳️‍⚧️（家长党）\n小证无糖（身体不支持）\n全平台同名\n外网不键政",
+        "id": "1846458886142021633",
+        "is_identity_verified": false,
+        "location": "大不列颠及北爱尔兰联合王国",
+        "most_recent_tweet_id": "2089430244361114020",
+        "name": "一棵小罗马番茄",
+        "pinned_tweet_id": "2075860535657263364",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085386657336115200/FxKcrCJ3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 287,
+          "like_count": 348,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 275
+        },
+        "url": "",
+        "username": "QAQpizza",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "我是爱晔哦 \n09/01/26 炸柜26/06/09 有时含糖 喜欢航天 二次元 技术至上主义 喜欢画画 学日语\n最最最好的朋友@guoxiufeng5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "guoxiufeng5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/VckYvvu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/VckYvvu",
+                "start": 0,
+                "url": "https://t.co/hiPltpfKRo"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "is_identity_verified": false,
+        "location": "距你11.4km",
+        "most_recent_tweet_id": "2089401772204871712",
+        "name": "🍥爱晔🚀",
+        "pinned_tweet_id": "2082073672802767121",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813768883540725760/1764440318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079860342965067776/HglcXlhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1499,
+          "following_count": 1274,
+          "like_count": 10983,
+          "listed_count": 4,
+          "media_count": 553,
+          "tweet_count": 4826
+        },
+        "url": "https://t.co/hiPltpfKRo",
+        "username": "ye_and_yae",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

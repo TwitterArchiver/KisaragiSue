@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090008396619739136"
+      ]
+    },
+    "author_id": "1079483498686164992",
+    "conversation_id": "2089667574766383219",
+    "created_at": "2026-08-19T09:30:09.000Z",
+    "display_text_range": [
+      12,
+      160
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T10:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090008409538216035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1076746882494263297",
+          "start": 0,
+          "username": "jiejinghua"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/f8F4Fw94TU",
+          "end": 184,
+          "expanded_url": "https://x.com/KisaragiSue/status/2090008409538216035/photo/1",
+          "media_key": "3_2090008396619739136",
+          "start": 161,
+          "url": "https://t.co/f8F4Fw94TU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090008409538216035",
+    "in_reply_to_user_id": "1076746882494263297",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090008396619739136"
+      }
+    ],
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "pmc.ncbi.nlm.nih.gov/articles/PMC47…",
+            "end": 264,
+            "expanded_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4772197/",
+            "start": 241,
+            "url": "https://t.co/XFzcKw1YHv"
+          }
+        ]
+      },
+      "text": "确实是无解，逐渐恢复属于极个别个案，一旦到了强阿片依赖就是“事实无解”的，具体情况参考阿片类药物滥用导致的脑部稳态重置（Allostasis）现象，以及NAc中的异常蛋白质堆积现象，以及这种现象积累的异常蛋白目前无法确定其半衰期，但是可以证明的是“极长，甚至可以说是永久性的”例子是很多报告中许多重度阿片成瘾者已经在诊断上表明“已戒断”而且是在戒断多年后再次“偶然”有机会获得或者接触强阿片类物质后依然会出现用药强迫现象，表现出非自主的强烈的复吸冲动或者直接开始失控复吸的现象。以及https://t.co/XFzcKw1YHv\n这个直接调查结果都可以作为“无解”这个答案的有力证据。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089958337697685646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiejinghua 确实是无解，逐渐恢复属于极个别个案，一旦到了强阿片依赖就是“事实无解”的，具体情况参考阿片类药物滥用导致的脑部稳态重置（Allostasis）现象，以及NAc中的异常蛋白质堆积现象，以及这种现象积累的异常蛋白目前无法确定其半衰期，但是可以证明的是“极长，甚至可以说是永久性的”例子是很多报告中许多 https://t.co/f8F4Fw94TU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1288,
+        "media_key": "3_2090008396619739136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEzkDoacAAJqj1.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090008396619739136"
+          ]
+        },
+        "author_id": "1079483498686164992",
+        "conversation_id": "2089667574766383219",
+        "created_at": "2026-08-19T09:30:09.000Z",
+        "display_text_range": [
+          12,
+          160
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090008409538216035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1076746882494263297",
+              "start": 0,
+              "username": "jiejinghua"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/f8F4Fw94TU",
+              "end": 184,
+              "expanded_url": "https://x.com/KisaragiSue/status/2090008409538216035/photo/1",
+              "media_key": "3_2090008396619739136",
+              "start": 161,
+              "url": "https://t.co/f8F4Fw94TU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090008409538216035",
+        "in_reply_to_user_id": "1076746882494263297",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090008396619739136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "pmc.ncbi.nlm.nih.gov/articles/PMC47…",
+                "end": 264,
+                "expanded_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4772197/",
+                "start": 241,
+                "url": "https://t.co/XFzcKw1YHv"
+              }
+            ]
+          },
+          "text": "确实是无解，逐渐恢复属于极个别个案，一旦到了强阿片依赖就是“事实无解”的，具体情况参考阿片类药物滥用导致的脑部稳态重置（Allostasis）现象，以及NAc中的异常蛋白质堆积现象，以及这种现象积累的异常蛋白目前无法确定其半衰期，但是可以证明的是“极长，甚至可以说是永久性的”例子是很多报告中许多重度阿片成瘾者已经在诊断上表明“已戒断”而且是在戒断多年后再次“偶然”有机会获得或者接触强阿片类物质后依然会出现用药强迫现象，表现出非自主的强烈的复吸冲动或者直接开始失控复吸的现象。以及https://t.co/XFzcKw1YHv\n这个直接调查结果都可以作为“无解”这个答案的有力证据。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089958337697685646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiejinghua 确实是无解，逐渐恢复属于极个别个案，一旦到了强阿片依赖就是“事实无解”的，具体情况参考阿片类药物滥用导致的脑部稳态重置（Allostasis）现象，以及NAc中的异常蛋白质堆积现象，以及这种现象积累的异常蛋白目前无法确定其半衰期，但是可以证明的是“极长，甚至可以说是永久性的”例子是很多报告中许多 https://t.co/f8F4Fw94TU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1076746882494263297",
+        "conversation_id": "2089667574766383219",
+        "created_at": "2026-08-19T06:11:11.000Z",
+        "display_text_range": [
+          13,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T07:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089958337697685646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1079483498686164992",
+              "start": 0,
+              "username": "KisaragiSue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089958337697685646",
+        "in_reply_to_user_id": "1079483498686164992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你把真实的依赖机制和一些夸张描述混在一起了。长期使用阿片确实会导致μ受体脱敏、耐受以及内源性阿片和应激系统的适应，停药后也可能出现疼痛敏感、焦虑和强烈负性情绪。但这不等于“内啡肽细胞永久退化失能”或“大脑被不可逆摧毁”。很多神经适应在停药后能够逐渐恢复。阿片成瘾很危险，但绝不是“无解”，把它描述成永久地狱反而不符合医学证据。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089667574766383219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KisaragiSue 你把真实的依赖机制和一些夸张描述混在一起了。长期使用阿片确实会导致μ受体脱敏、耐受以及内源性阿片和应激系统的适应，停药后也可能出现疼痛敏感、焦虑和强烈负性情绪。但这不等于“内啡肽细胞永久退化失能”或“大脑被不可逆摧毁”。很多神经适应在停药后能够逐渐恢复。阿片成瘾很危险，但绝不是“无解”"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "大龄MtF一只，又老又丑又肥警告⚠️\nHRT:2023-12-23\n目前方案：7天1只日雌，每天12.5CPA\n强烈反威权、反民族主义、性自由、性别自决、安那其主义者\nGIST晚期乐观预期寿命不足五年有两处肝脏转移灶被癌痛折磨中\n罕见级别的极其难治性抑郁症患者\n在2023~2024年有疯狂的od加吸毒史\n现已彻底戒断",
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2090008409538216035",
+        "name": "如月 桃華🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088824090350227486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2758,
+          "following_count": 637,
+          "like_count": 44522,
+          "listed_count": 6,
+          "media_count": 1230,
+          "tweet_count": 23731
+        },
+        "url": "",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-23T07:50:36.000Z",
+        "description": "小众亚文化论坛，科普与论坛一体，支持药物旅程可视化工具。请勿滥用药物。免费提供用药科普请DM。交朋友私信，关注结晶化谢谢喵\n\n长期寻找广告合作有意私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "crystallize.club",
+                "end": 23,
+                "expanded_url": "https://www.crystallize.club",
+                "start": 0,
+                "url": "https://t.co/VMFYr9skMB"
+              }
+            ]
+          }
+        },
+        "id": "1076746882494263297",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089959578850971995",
+        "name": "结晶化 - 亚文化论坛",
+        "pinned_tweet_id": "2087973981735235673",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1076746882494263297/1786694370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087952398765711361/6XBstVGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 108,
+          "like_count": 35,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 109
+        },
+        "url": "https://t.co/VMFYr9skMB",
+        "username": "jiejinghua",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

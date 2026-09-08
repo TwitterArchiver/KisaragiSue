@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090341388902916096"
+      ]
+    },
+    "author_id": "1079483498686164992",
+    "conversation_id": "2090341400131080275",
+    "created_at": "2026-08-20T07:33:21.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T08:33:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090341400131080275"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AJkuwuOncs",
+          "end": 78,
+          "expanded_url": "https://x.com/KisaragiSue/status/2090341400131080275/photo/1",
+          "media_key": "3_2090341388902916096",
+          "start": 55,
+          "url": "https://t.co/AJkuwuOncs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090341400131080275",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090341388902916096"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "那一株株盛开绽放着鲜红花瓣的罂粟花，她们既非天使，亦非恶魔。她不过和其他植物一样，只是大自然美丽的造物之一。\n只是有些令人叹息的是，她那奇妙而几乎完全相反的两面性，仿佛也被一并融进了她的美丽之中。盛开时，她的绽开花瓣像一位身着芭蕾舞裙的舞女，带着近乎神圣的姿态；可是那一抹带着暧昧渐变鲜红，又隐约透露出一种诡异而妖艳的魅惑感。\n她神圣的一面无可否认。绽放在医院里的她，曾将无数生命从剧痛的地狱里拉出来——从第一次世界大战的堑壕之中，一直到今天的手术室、到癌痛患者手中的羟考酮，以及临终关怀病房里那最后一次安静的镇痛。\n而她危险的另一面，也同样可怕而真实。当她盛开在错误的地方时，那白色乳汁所能够带来的短暂“快乐”，也曾让一个又一个人一步步走入深渊，最后付出家庭、事业、金钱、健康，乃至生命。\n可是从头到尾，她都没有选择，她也什么都没做，她只是一朵花而已——\n她被铁丝网围起来。\n她什么都没做。\n人类割开她的蒴果，为了那滴白色乳汁大量种植她。\n她什么都没做。\n人类因为那些乳汁里的分子彼此交易、成瘾、战争、犯罪、死亡。\n她什么都没做。\n后来人类又烧毁大片罂粟田，把她称作“恶魔之花”。\n但她还是没有做任何事。\n她并不知道吗啡和羟考酮是什么。\n也不知道阿片成瘾和欣快是什么。\n更不知道人类为了她身体里的那些分子，已经爱过、恨过、救过人，也死过那么多人。\n她只是一株植物\n她仅仅只是和大自然中的其他植物一样，在开花的季节绽放花朵而已。\n所以——\n请不要把任何原本属于人类自己的责任而造成的问题的形容，放到只是一株植物，一朵开放的花的她身上。\n——\n“毒品原料”\n“恶魔之花”\n“镇痛药之母”\n“成瘾的象征”\n“受管制植物”\n——这些都与她无关，她只是一株美丽的盛开的鲜花。\n人们应该做的是：\n请把那朵罂粟花留在她本应盛开的地方绽放吧。\n把她留在癌痛患者、手术镇痛、临终关怀，以及医生经过评估后认为确有必要使用阿片镇痛的处方里。\n而不要再让她那白色的乳汁，最终变成浸透一个个滥用者的尸检报告、一份份戒毒记录、一个个治安处罚记录，或者一册册刑事卷宗的化学物质。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "那一株株盛开绽放着鲜红花瓣的罂粟花，她们既非天使，亦非恶魔。她不过和其他植物一样，只是大自然美丽的造物之一。 https://t.co/AJkuwuOncs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2090341388902916096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJiawja4AAyPOo.jpg",
+        "width": 1365
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090341388902916096"
+          ]
+        },
+        "author_id": "1079483498686164992",
+        "conversation_id": "2090341400131080275",
+        "created_at": "2026-08-20T07:33:21.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T08:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090341400131080275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AJkuwuOncs",
+              "end": 78,
+              "expanded_url": "https://x.com/KisaragiSue/status/2090341400131080275/photo/1",
+              "media_key": "3_2090341388902916096",
+              "start": 55,
+              "url": "https://t.co/AJkuwuOncs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090341400131080275",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090341388902916096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "那一株株盛开绽放着鲜红花瓣的罂粟花，她们既非天使，亦非恶魔。她不过和其他植物一样，只是大自然美丽的造物之一。\n只是有些令人叹息的是，她那奇妙而几乎完全相反的两面性，仿佛也被一并融进了她的美丽之中。盛开时，她的绽开花瓣像一位身着芭蕾舞裙的舞女，带着近乎神圣的姿态；可是那一抹带着暧昧渐变鲜红，又隐约透露出一种诡异而妖艳的魅惑感。\n她神圣的一面无可否认。绽放在医院里的她，曾将无数生命从剧痛的地狱里拉出来——从第一次世界大战的堑壕之中，一直到今天的手术室、到癌痛患者手中的羟考酮，以及临终关怀病房里那最后一次安静的镇痛。\n而她危险的另一面，也同样可怕而真实。当她盛开在错误的地方时，那白色乳汁所能够带来的短暂“快乐”，也曾让一个又一个人一步步走入深渊，最后付出家庭、事业、金钱、健康，乃至生命。\n可是从头到尾，她都没有选择，她也什么都没做，她只是一朵花而已——\n她被铁丝网围起来。\n她什么都没做。\n人类割开她的蒴果，为了那滴白色乳汁大量种植她。\n她什么都没做。\n人类因为那些乳汁里的分子彼此交易、成瘾、战争、犯罪、死亡。\n她什么都没做。\n后来人类又烧毁大片罂粟田，把她称作“恶魔之花”。\n但她还是没有做任何事。\n她并不知道吗啡和羟考酮是什么。\n也不知道阿片成瘾和欣快是什么。\n更不知道人类为了她身体里的那些分子，已经爱过、恨过、救过人，也死过那么多人。\n她只是一株植物\n她仅仅只是和大自然中的其他植物一样，在开花的季节绽放花朵而已。\n所以——\n请不要把任何原本属于人类自己的责任而造成的问题的形容，放到只是一株植物，一朵开放的花的她身上。\n——\n“毒品原料”\n“恶魔之花”\n“镇痛药之母”\n“成瘾的象征”\n“受管制植物”\n——这些都与她无关，她只是一株美丽的盛开的鲜花。\n人们应该做的是：\n请把那朵罂粟花留在她本应盛开的地方绽放吧。\n把她留在癌痛患者、手术镇痛、临终关怀，以及医生经过评估后认为确有必要使用阿片镇痛的处方里。\n而不要再让她那白色的乳汁，最终变成浸透一个个滥用者的尸检报告、一份份戒毒记录、一个个治安处罚记录，或者一册册刑事卷宗的化学物质。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "那一株株盛开绽放着鲜红花瓣的罂粟花，她们既非天使，亦非恶魔。她不过和其他植物一样，只是大自然美丽的造物之一。 https://t.co/AJkuwuOncs"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "大龄MtF一只，又老又丑又肥警告⚠️\nHRT:2023-12-23\n目前方案：7天1只日雌，每天12.5CPA\n强烈反威权、反民族主义、性自由、性别自决、安那其主义者\nGIST晚期乐观预期寿命不足五年有两处肝脏转移灶被癌痛折磨中\n罕见级别的极其难治性抑郁症患者\n在2023~2024年有疯狂的od加吸毒史\n现已彻底戒断",
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2090341400131080275",
+        "name": "如月 桃華🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088824090350227486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2761,
+          "following_count": 640,
+          "like_count": 44539,
+          "listed_count": 6,
+          "media_count": 1232,
+          "tweet_count": 23737
+        },
+        "url": "",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

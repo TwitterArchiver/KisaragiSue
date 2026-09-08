@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2092861603775668506",
+    "created_at": "2026-08-27T08:33:21.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T09:33:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092893216811164117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1229811974763974658",
+          "start": 0,
+          "username": "Aokigawa8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092893216811164117",
+    "in_reply_to_user_id": "1229811974763974658",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092876018751295872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aokigawa8964 呜呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2092861603775668506",
+        "created_at": "2026-08-27T08:33:21.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T09:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092893216811164117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1229811974763974658",
+              "start": 0,
+              "username": "Aokigawa8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092893216811164117",
+        "in_reply_to_user_id": "1229811974763974658",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092876018751295872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aokigawa8964 呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1229811974763974658",
+        "conversation_id": "2092861603775668506",
+        "created_at": "2026-08-27T07:25:01.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T08:25:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092876018751295872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1079483498686164992",
+              "start": 0,
+              "username": "KisaragiSue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092876018751295872",
+        "in_reply_to_user_id": "1079483498686164992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092861603775668506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KisaragiSue 天哪我几个月掉的都没这么多"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "大龄MtF一只，又老又丑又肥警告⚠️\nHRT:2023-12-23\n目前方案：7天1只日雌，每天12.5CPA\n强烈反威权、反民族主义、性自由、性别自决、安那其主义者\nGIST晚期乐观预期寿命不足五年有两处肝脏转移灶被癌痛折磨中\n罕见级别的极其难治性抑郁症患者\n在2023~2024年有疯狂的od加吸毒史\n现已彻底戒断",
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2092893216811164117",
+        "name": "如月 桃華🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088824090350227486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2794,
+          "following_count": 639,
+          "like_count": 44795,
+          "listed_count": 6,
+          "media_count": 1244,
+          "tweet_count": 23947
+        },
+        "url": "",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-02-18T16:56:55.000Z",
+        "description": "You jump , I jump.可爱的妹妹雪仙@snowfairy011026 @TamikoTomorika @toukorina 永远爱@NuclearThermal",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 25,
+                "username": "snowfairy011026"
+              },
+              {
+                "end": 57,
+                "start": 42,
+                "username": "TamikoTomorika"
+              },
+              {
+                "end": 68,
+                "start": 58,
+                "username": "toukorina"
+              },
+              {
+                "end": 87,
+                "start": 72,
+                "username": "NuclearThermal"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Aokigawa",
+                "end": 23,
+                "expanded_url": "https://t.me/Aokigawa",
+                "start": 0,
+                "url": "https://t.co/hRiiUiYzxq"
+              }
+            ]
+          }
+        },
+        "id": "1229811974763974658",
+        "is_identity_verified": false,
+        "location": "Osaka-shi Naniwa-ku, Osaka",
+        "most_recent_tweet_id": "2092890211852358001",
+        "name": "平平无奇小机场🏳️‍⚧️",
+        "pinned_tweet_id": "1728070700613702059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1229811974763974658/1699494346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777114753544208384/uAigzslA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1112,
+          "following_count": 1124,
+          "like_count": 5666,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 5466
+        },
+        "url": "https://t.co/hRiiUiYzxq",
+        "username": "Aokigawa8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

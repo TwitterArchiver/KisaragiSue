@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2088859551554744806",
+    "created_at": "2026-08-16T05:25:00.000Z",
+    "display_text_range": [
+      0,
+      99
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T06:25:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088859551554744806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1271278454537744384",
+          "start": 3,
+          "username": "Rabbit_Pussy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088859551554744806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088572125506646101",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rabbit_Pussy: 各位同类注意了：b站现在凡是带有“药娘”“xyn”关键词的视频会全部遭到下架，不论你是什么时候发的一律会被下架，我b站账号里的12个视频今天已经无了，大的要来了！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2088859551554744806",
+        "created_at": "2026-08-16T05:25:00.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T06:25:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088859551554744806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1271278454537744384",
+              "start": 3,
+              "username": "Rabbit_Pussy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088859551554744806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088572125506646101",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rabbit_Pussy: 各位同类注意了：b站现在凡是带有“药娘”“xyn”关键词的视频会全部遭到下架，不论你是什么时候发的一律会被下架，我b站账号里的12个视频今天已经无了，大的要来了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1271278454537744384",
+        "conversation_id": "2088572125506646101",
+        "created_at": "2026-08-15T10:22:53.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T11:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088572125506646101"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088572125506646101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 11734,
+          "like_count": 145,
+          "quote_count": 0,
+          "reply_count": 47,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "各位同类注意了：b站现在凡是带有“药娘”“xyn”关键词的视频会全部遭到下架，不论你是什么时候发的一律会被下架，我b站账号里的12个视频今天已经无了，大的要来了！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "大龄MtF一只，又老又丑又肥警告⚠️\nHRT:2023-12-23\n目前方案：7天1只日雌，每天12.5CPA\n强烈反威权、反民族主义、性自由、性别自决、安那其主义者\nGIST晚期乐观预期寿命不足五年有两处肝脏转移灶被癌痛折磨中\n罕见级别的极其难治性抑郁症患者\n在2023~2024年有疯狂的od加吸毒史\n现已彻底戒断",
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2088859551554744806",
+        "name": "如月 桃華🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088824090350227486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2671,
+          "following_count": 613,
+          "like_count": 44392,
+          "listed_count": 6,
+          "media_count": 1215,
+          "tweet_count": 23604
+        },
+        "url": "",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-12T03:09:46.000Z",
+        "description": "没关系，一切都会坏起来的，因为人口红利/熵增",
+        "id": "1271278454537744384",
+        "is_identity_verified": false,
+        "location": "Niger",
+        "most_recent_tweet_id": "2088797919327789563",
+        "name": "兔毛M ε ow",
+        "pinned_tweet_id": "2062614219393257688",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1271278454537744384/1704258625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077551825247707136/I0HAjv2F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5354,
+          "following_count": 2081,
+          "like_count": 27644,
+          "listed_count": 8,
+          "media_count": 1194,
+          "tweet_count": 8135
+        },
+        "url": "",
+        "username": "Rabbit_Pussy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

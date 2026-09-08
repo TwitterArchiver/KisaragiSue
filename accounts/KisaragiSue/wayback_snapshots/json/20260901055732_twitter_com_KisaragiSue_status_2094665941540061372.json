@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2094635643007828229",
+    "created_at": "2026-09-01T05:57:32.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T06:57:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094665941540061372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1144647115030708224",
+          "start": 0,
+          "username": "nekotanko_shiro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094665941540061372",
+    "in_reply_to_user_id": "1144647115030708224",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094659216548200656",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nekotanko_shiro 抱抱呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2094635643007828229",
+        "created_at": "2026-09-01T05:57:32.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T06:57:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094665941540061372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1144647115030708224",
+              "start": 0,
+              "username": "nekotanko_shiro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094665941540061372",
+        "in_reply_to_user_id": "1144647115030708224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094659216548200656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekotanko_shiro 抱抱呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1144647115030708224",
+        "conversation_id": "2094635643007828229",
+        "created_at": "2026-09-01T05:30:48.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T06:30:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094659216548200656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1079483498686164992",
+              "start": 0,
+              "username": "KisaragiSue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094659216548200656",
+        "in_reply_to_user_id": "1144647115030708224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094647109178032538",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KisaragiSue 抱喵～🤗🐱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "大龄MtF一只，又老又丑又肥警告⚠️\nHRT:2023-12-23\n目前方案：7天1只日雌，每天12.5CPA\n强烈反威权、反民族主义、性自由、性别自决、安那其主义者\nGIST晚期乐观预期寿命不足五年有两处肝脏转移灶被癌痛折磨中\n罕见级别的极其难治性抑郁症患者\n在2023~2024年有疯狂的od加吸毒史\n现已彻底戒断",
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2094665941540061372",
+        "name": "如月 桃華🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088824090350227486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2856,
+          "following_count": 644,
+          "like_count": 45032,
+          "listed_count": 6,
+          "media_count": 1250,
+          "tweet_count": 24161
+        },
+        "url": "",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-06-28T16:41:53.000Z",
+        "description": "吃糖的一隻貓/mtf.x/姛/貝歇氏症/ベーチェット病🐱🏳️‍⚧️\n最愛的妹妹:@xian_zi17640\nGAHT:2026/06/05 アンドロカー/安德卡 06/12 プロギノバ/補佳樂🍥\n台灣華語/台語/日本語N1\n98碼農大貓 風景/星景/動物/交通攝影📷\n可以叫我小白/白醬/しろちゃんで呼んでね🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "xian_zi17640"
+              }
+            ]
+          }
+        },
+        "id": "1144647115030708224",
+        "is_identity_verified": false,
+        "location": "そらの果て",
+        "most_recent_tweet_id": "2094663699856539998",
+        "name": "ねこたん-白🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088530748236242975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1144647115030708224/1785685617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083124833509052416/38zTT0fA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 974,
+          "like_count": 14235,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1954
+        },
+        "url": "",
+        "username": "nekotanko_shiro",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

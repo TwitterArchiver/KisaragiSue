@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2090418378796417391",
+    "created_at": "2026-08-20T12:39:14.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T13:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090418378796417391"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lysosome807/st…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/lysosome807/status/2089992457769603393",
+          "start": 39,
+          "url": "https://t.co/0sGxfhOAjR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090418378796417391",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089992457769603393",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "镇静剂本来就适合在发病时再自主服药，这都能叫药物滥用，那你可以说他人格侮辱。 https://t.co/0sGxfhOAjR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2090418378796417391",
+        "created_at": "2026-08-20T12:39:14.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T13:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090418378796417391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lysosome807/st…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/lysosome807/status/2089992457769603393",
+              "start": 39,
+              "url": "https://t.co/0sGxfhOAjR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090418378796417391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089992457769603393",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "镇静剂本来就适合在发病时再自主服药，这都能叫药物滥用，那你可以说他人格侮辱。 https://t.co/0sGxfhOAjR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1707350362787913728",
+        "conversation_id": "2089992457769603393",
+        "created_at": "2026-08-19T08:26:46.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T09:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089992457769603393"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089992457769603393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3803,
+          "like_count": 71,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "医生：你劳拉西泮咋吃的啊？\n我：...啊？想吃就吃吧...\n医生：那怎么行（笑），那不成药物滥用了吗\n我os：哇，药物滥用耶，好可怕哦~"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "大龄MtF一只，又老又丑又肥警告⚠️\nHRT:2023-12-23\n目前方案：7天1只日雌，每天12.5CPA\n强烈反威权、反民族主义、性自由、性别自决、安那其主义者\nGIST晚期乐观预期寿命不足五年有两处肝脏转移灶被癌痛折磨中\n罕见级别的极其难治性抑郁症患者\n在2023~2024年有疯狂的od加吸毒史\n现已彻底戒断",
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2090418378796417391",
+        "name": "如月 桃華🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088824090350227486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2764,
+          "following_count": 639,
+          "like_count": 44559,
+          "listed_count": 6,
+          "media_count": 1232,
+          "tweet_count": 23748
+        },
+        "url": "",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜不安定，积极治疗中（？｜绝赞抑郁和黑色幽默交替出现｜赛博日记本｜同类互fo，可能会在plq废话，私信随意",
+        "id": "1707350362787913728",
+        "is_identity_verified": false,
+        "location": "某个逝去的黄昏",
+        "most_recent_tweet_id": "2089992457769603393",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1707350362787913728/1769539281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089988570845151232/mymeeBGi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 916,
+          "like_count": 4544,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 484
+        },
+        "url": "",
+        "username": "lysosome807",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2087885675823837391",
+    "created_at": "2026-08-13T12:55:10.000Z",
+    "display_text_range": [
+      0,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T13:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087885675823837391"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Drug_wuming/st…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/Drug_wuming/status/2087866190219858229",
+          "start": 34,
+          "url": "https://t.co/v97lW4BH0G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087885675823837391",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087866190219858229",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "典中典之中枢神经抗胆碱\n无法理解，为何这帮逼就这么喜欢精分的感觉？ https://t.co/v97lW4BH0G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 829,
+        "media_key": "3_2087866138017570816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmXMMcaoAAav7B.jpg",
+        "width": 718
+      },
+      {
+        "height": 1029,
+        "media_key": "3_2087866151783305217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmXM_ubEAEhVl1.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2087885675823837391",
+        "created_at": "2026-08-13T12:55:10.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T13:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087885675823837391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Drug_wuming/st…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/Drug_wuming/status/2087866190219858229",
+              "start": 34,
+              "url": "https://t.co/v97lW4BH0G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087885675823837391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087866190219858229",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "典中典之中枢神经抗胆碱\n无法理解，为何这帮逼就这么喜欢精分的感觉？ https://t.co/v97lW4BH0G"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087866138017570816",
+            "3_2087866151783305217"
+          ]
+        },
+        "author_id": "1916974498903166978",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087866190219858229",
+        "created_at": "2026-08-13T11:37:45.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T12:37:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087866190219858229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l20adFsQzI",
+              "end": 37,
+              "expanded_url": "https://x.com/Drug_wuming/status/2087866190219858229/photo/1",
+              "media_key": "3_2087866138017570816",
+              "start": 14,
+              "url": "https://t.co/l20adFsQzI"
+            },
+            {
+              "display_url": "pic.x.com/l20adFsQzI",
+              "end": 37,
+              "expanded_url": "https://x.com/Drug_wuming/status/2087866190219858229/photo/1",
+              "media_key": "3_2087866151783305217",
+              "start": 14,
+              "url": "https://t.co/l20adFsQzI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087866190219858229",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087866138017570816"
+          },
+          {
+            "media_key": "3_2087866151783305217"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 175,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从此，谵妄剂又多了一位英雄 https://t.co/l20adFsQzI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "我是GIST晚期患者 乐观预期剩余寿命已经不足五年 目前有两处肝脏转移灶 肠道上的肿瘤已经切除 但癌痛和失控腹泻依然存在 目前每天400mg 曲马多勉强缓解一点癌痛中，计划办理麻药使用权卡使用羟考酮。\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 102,
+                "username": "chaye621"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQcEe"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2087885675823837391",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2662,
+          "following_count": 609,
+          "like_count": 44346,
+          "listed_count": 6,
+          "media_count": 1210,
+          "tweet_count": 23563
+        },
+        "url": "https://t.co/cxt9wMQcEe",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-28T21:55:19.000Z",
+        "description": "极乐、世界与宇宙",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/BeprZt3h72"
+              }
+            ]
+          }
+        },
+        "id": "1916974498903166978",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087881631281668473",
+        "name": "无名",
+        "pinned_tweet_id": "2078738716508737549",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1916974498903166978/1746048478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087362322327285760/YyOISPAk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 1136,
+          "like_count": 927,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 701
+        },
+        "url": "https://t.co/BeprZt3h72",
+        "username": "Drug_wuming",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

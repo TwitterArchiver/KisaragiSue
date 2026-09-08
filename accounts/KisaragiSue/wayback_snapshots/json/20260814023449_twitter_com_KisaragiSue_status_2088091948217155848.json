@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088091936905363456"
+      ]
+    },
+    "author_id": "1079483498686164992",
+    "conversation_id": "2088060967745941567",
+    "created_at": "2026-08-14T02:34:49.000Z",
+    "display_text_range": [
+      13,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T03:34:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088091948217155848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1583422861099692032",
+          "start": 0,
+          "username": "kanade_taka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yLhOKTRDCe",
+          "end": 48,
+          "expanded_url": "https://x.com/KisaragiSue/status/2088091948217155848/photo/1",
+          "media_key": "3_2088091936905363456",
+          "start": 25,
+          "url": "https://t.co/yLhOKTRDCe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088091948217155848",
+    "in_reply_to_user_id": "1583422861099692032",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088091936905363456"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088072503814197471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kanade_taka 已经什么都弄不出来了力 https://t.co/yLhOKTRDCe"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2088072503814197471].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2088072503814197471",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2088072503814197471"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 277,
+        "media_key": "3_2088091936905363456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPpkja2aAAAwprp.jpg",
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088091936905363456"
+          ]
+        },
+        "author_id": "1079483498686164992",
+        "conversation_id": "2088060967745941567",
+        "created_at": "2026-08-14T02:34:49.000Z",
+        "display_text_range": [
+          13,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T03:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088091948217155848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1583422861099692032",
+              "start": 0,
+              "username": "kanade_taka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yLhOKTRDCe",
+              "end": 48,
+              "expanded_url": "https://x.com/KisaragiSue/status/2088091948217155848/photo/1",
+              "media_key": "3_2088091936905363456",
+              "start": 25,
+              "url": "https://t.co/yLhOKTRDCe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088091948217155848",
+        "in_reply_to_user_id": "1583422861099692032",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088091936905363456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088072503814197471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kanade_taka 已经什么都弄不出来了力 https://t.co/yLhOKTRDCe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "我是GIST晚期患者 乐观预期剩余寿命已经不足五年 目前有两处肝脏转移灶 肠道上的肿瘤已经切除 但癌痛和失控腹泻依然存在 目前每天400mg 曲马多勉强缓解一点癌痛中，计划办理麻药使用权卡使用羟考酮。\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 102,
+                "username": "chaye621"
+              },
+              {
+                "end": 139,
+                "start": 125,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 154,
+                "start": 143,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQcEe"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2088091948217155848",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2660,
+          "following_count": 608,
+          "like_count": 44356,
+          "listed_count": 6,
+          "media_count": 1212,
+          "tweet_count": 23576
+        },
+        "url": "https://t.co/cxt9wMQcEe",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-21T11:40:16.000Z",
+        "description": "amab non-binary sub 想做chubby milf 大概是asd/adhd\n原@kanadegao\nmillionlive5@proton.me\n推：高垣枫 速水奏 鹭泽文香",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "kanadegao"
+              }
+            ]
+          }
+        },
+        "id": "1583422861099692032",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "1871488010254250001",
+        "name": "kanademk2@kanade_taka@nya.one",
+        "pinned_tweet_id": "1745852767464554593",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1635546948102127617/2JAyk-UV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 642,
+          "following_count": 7496,
+          "like_count": 835654,
+          "listed_count": 31,
+          "media_count": 655,
+          "tweet_count": 34548
+        },
+        "url": "",
+        "username": "kanade_taka",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
