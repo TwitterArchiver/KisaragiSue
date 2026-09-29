@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "2103837816342052983",
+    "created_at": "2026-09-26T13:23:17.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T14:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103837816342052983"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aaarjkkmiao/st…",
+          "end": 164,
+          "expanded_url": "https://twitter.com/aaarjkkmiao/status/2103707983611875737",
+          "start": 141,
+          "url": "https://t.co/qZvvPF4MN3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103837816342052983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103707983611875737",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "求救😭： 身体下面有两个肿瘤从我出生的时候开始一直挂着，导致周围的人都认错我性别，给我造成了极大的困扰，这两个肿瘤随着时间的推移还在我血管里放一种不明物质，导致我身体开始异常发育，声音频率降低、骨架骨骼变大、身高异常生长，还莫名其妙释放一些不明液体，我什么时候才能切除这两个肿瘤🥺 https://t.co/qZvvPF4MN3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "2103837816342052983",
+        "created_at": "2026-09-26T13:23:17.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T14:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103837816342052983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aaarjkkmiao/st…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/aaarjkkmiao/status/2103707983611875737",
+              "start": 141,
+              "url": "https://t.co/qZvvPF4MN3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103837816342052983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103707983611875737",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求救😭： 身体下面有两个肿瘤从我出生的时候开始一直挂着，导致周围的人都认错我性别，给我造成了极大的困扰，这两个肿瘤随着时间的推移还在我血管里放一种不明物质，导致我身体开始异常发育，声音频率降低、骨架骨骼变大、身高异常生长，还莫名其妙释放一些不明液体，我什么时候才能切除这两个肿瘤🥺 https://t.co/qZvvPF4MN3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "616537873",
+        "conversation_id": "2103707983611875737",
+        "created_at": "2026-09-26T04:47:22.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T05:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103707983611875737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaomiaosuiyua…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/xiaomiaosuiyuan/status/2084297341104959733",
+              "start": 141,
+              "url": "https://t.co/hqwQdlEYeh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103707983611875737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 589,
+          "like_count": 22,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084297341104959733",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "求救😭： 身体下面有两个肿瘤从我出生的时候开始一直挂着，导致周围的人都认错我性别，给我造成了极大的困扰，这两个肿瘤随着时间的推移还在我血管里放一种不明物质，导致我身体开始异常发育，声音频率降低、骨架骨骼变大、身高异常生长，还莫名其妙释放一些不明液体，我什么时候才能切除这两个肿瘤🥺 https://t.co/hqwQdlEYeh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "大龄MtF一只，又老又丑又肥警告⚠️\nHRT:2023-12-23\n目前方案：7天1只日雌，每天12.5CPA\n强烈反威权、反民族主义、性自由、性别自决、安那其主义者\nGIST晚期乐观预期寿命不足五年有两处肝脏转移灶被癌痛折磨中\n罕见级别的极其难治性抑郁症患者\n在2023~2024年有疯狂的od加吸毒史\n现已彻底戒断",
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2103837816342052983",
+        "name": "如月 桃華🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088824090350227486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2904,
+          "following_count": 653,
+          "like_count": 45094,
+          "listed_count": 6,
+          "media_count": 1259,
+          "tweet_count": 24307
+        },
+        "url": "",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-06-23T22:30:17.000Z",
+        "description": "大号@aaarjkk 1478Fo寻回互Fo🩷\n活在幻想中☁️希望咱们每天都能开开心心的☺️☁️成绩倒数(?)☁️查成分互Follow(?)☁️172cm53kg巨人🍥8/31/2026小资历🎂10/14/2010天残党\n🏳️小号@a0brjkk(负面?🤔)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 2,
+                "username": "aaarjkk"
+              },
+              {
+                "end": 123,
+                "start": 115,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shop.aaarjkk.top",
+                "end": 23,
+                "expanded_url": "https://shop.aaarjkk.top/",
+                "start": 0,
+                "url": "https://t.co/lIxlEX4uF5"
+              }
+            ]
+          }
+        },
+        "id": "616537873",
+        "is_identity_verified": true,
+        "location": "@aaarjkk (2025.8-2026.8) 永远怀念 ",
+        "most_recent_tweet_id": "2103775171433963863",
+        "name": "貓貓是喵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/616537873/1786621805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103733863138926592/-g5vl17p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 630,
+          "like_count": 2,
+          "listed_count": 1,
+          "media_count": 181,
+          "tweet_count": 864
+        },
+        "url": "https://t.co/lIxlEX4uF5",
+        "username": "aaarjkkmiao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

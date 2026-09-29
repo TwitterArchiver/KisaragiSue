@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1079483498686164992",
+    "conversation_id": "1886293288677958101",
+    "created_at": "2025-02-03T05:59:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-03T06:59:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1886293288677958101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1797727504540807168",
+          "start": 3,
+          "username": "overdose__jp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1886293288677958101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "1886051764702412962",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @overdose__jp: LSD要是没被管制，第一个玩出事的人，肯定不是od妹，而是快手那群傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1079483498686164992",
+        "conversation_id": "1886293288677958101",
+        "created_at": "2025-02-03T05:59:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-03T06:59:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1886293288677958101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1797727504540807168",
+              "start": 3,
+              "username": "overdose__jp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1886293288677958101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "1886051764702412962",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @overdose__jp: LSD要是没被管制，第一个玩出事的人，肯定不是od妹，而是快手那群傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797727504540807168",
+        "conversation_id": "1886051764702412962",
+        "created_at": "2025-02-02T13:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-02T14:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1886051764702412962"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1886051764702412962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3926,
+          "like_count": 80,
+          "quote_count": 3,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "LSD要是没被管制，第一个玩出事的人，肯定不是od妹，而是快手那群傻逼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "一无是处的废宅一个。\nクソオタク、ゴミゴミ人間。\n性别认同女\n @chaye621 最爱的妹妹……\n好闺蜜~ @xiziboqing166\n老公 @Misaka0032",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "chaye621"
+              },
+              {
+                "end": 69,
+                "start": 55,
+                "username": "xiziboqing166"
+              },
+              {
+                "end": 84,
+                "start": 73,
+                "username": "Misaka0032"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kisaragi-workroom.site",
+                "end": 23,
+                "expanded_url": "http://kisaragi-workroom.site",
+                "start": 0,
+                "url": "https://t.co/cxt9wMQKtM"
+              }
+            ]
+          }
+        },
+        "id": "1079483498686164992",
+        "location": "Pluto",
+        "name": "如月 末🍥🏳️‍⚧️（💕チャウシェスク夢女子💕）",
+        "pinned_tweet_id": "1666831263402172420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1800728360286617600/ZFcHtzV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2511,
+          "following_count": 584,
+          "like_count": 44298,
+          "listed_count": 2,
+          "media_count": 1155,
+          "tweet_count": 22381
+        },
+        "url": "https://t.co/cxt9wMQKtM",
+        "username": "KisaragiSue",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T20:30:21.000Z",
+        "description": "https://t.co/y1xuCfsZoT是一个非盈利，并且储备od知识的网站.\n\n虽然这确实是od网站，但我们的目的是让人规避风险，防止意外",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "overdose.jp",
+                "end": 23,
+                "expanded_url": "http://overdose.jp",
+                "start": 0,
+                "url": "https://t.co/y1xuCfsZoT"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "overdose.jp",
+                "end": 23,
+                "expanded_url": "https://overdose.jp/",
+                "start": 0,
+                "url": "https://t.co/nDuhQw7xW9"
+              }
+            ]
+          }
+        },
+        "id": "1797727504540807168",
+        "name": "overdose知识站点",
+        "pinned_tweet_id": "1884763670346915971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882317178176929792/xPYdiw7d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1664,
+          "following_count": 3603,
+          "like_count": 1656,
+          "listed_count": 2,
+          "media_count": 135,
+          "tweet_count": 1368
+        },
+        "url": "https://t.co/nDuhQw7xW9",
+        "username": "overdose__jp",
+        "verified": false
+      }
+    ]
+  }
+}
